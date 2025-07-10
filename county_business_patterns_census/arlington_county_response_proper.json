@@ -1,0 +1,7112 @@
+[
+  {
+    "NAICS2017": "00",
+    "NAICS2017_LABEL": "Total for all sectors",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "6334",
+    "EMP": "159716",
+    "PAYANN": "18145558",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "22",
+    "NAICS2017_LABEL": "Utilities",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "6",
+    "EMP": "284",
+    "PAYANN": "136140",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "221",
+    "NAICS2017_LABEL": "Utilities",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "6",
+    "EMP": "284",
+    "PAYANN": "136140",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "2211",
+    "NAICS2017_LABEL": "Electric power generation, transmission and distribution",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "5",
+    "EMP": "278",
+    "PAYANN": "134296",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "22112",
+    "NAICS2017_LABEL": "Electric power transmission, control, and distribution",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "234",
+    "PAYANN": "128274",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "221122",
+    "NAICS2017_LABEL": "Electric power distribution",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "234",
+    "PAYANN": "128274",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "23",
+    "NAICS2017_LABEL": "Construction",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "206",
+    "EMP": "1449",
+    "PAYANN": "169781",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "236",
+    "NAICS2017_LABEL": "Construction of buildings",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "120",
+    "EMP": "954",
+    "PAYANN": "115320",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "2361",
+    "NAICS2017_LABEL": "Residential building construction",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "102",
+    "EMP": "656",
+    "PAYANN": "81874",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "23611",
+    "NAICS2017_LABEL": "Residential building construction",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "102",
+    "EMP": "656",
+    "PAYANN": "81874",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "236115",
+    "NAICS2017_LABEL": "New single-family housing construction (except for-sale builders)",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "16",
+    "EMP": "14",
+    "PAYANN": "1469",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "236116",
+    "NAICS2017_LABEL": "New multifamily housing construction (except for-sale builders)",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "73",
+    "PAYANN": "10411",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "236117",
+    "NAICS2017_LABEL": "New housing for-sale builders",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "9",
+    "EMP": "399",
+    "PAYANN": "57905",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "236118",
+    "NAICS2017_LABEL": "Residential remodelers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "73",
+    "EMP": "170",
+    "PAYANN": "12089",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "2362",
+    "NAICS2017_LABEL": "Nonresidential building construction",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "18",
+    "EMP": "298",
+    "PAYANN": "33446",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "23622",
+    "NAICS2017_LABEL": "Commercial and institutional building construction",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "18",
+    "EMP": "298",
+    "PAYANN": "33446",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "236220",
+    "NAICS2017_LABEL": "Commercial and institutional building construction",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "18",
+    "EMP": "298",
+    "PAYANN": "33446",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "237",
+    "NAICS2017_LABEL": "Heavy and civil engineering construction",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "7",
+    "EMP": "170",
+    "PAYANN": "27635",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "2372",
+    "NAICS2017_LABEL": "Land subdivision",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "24",
+    "PAYANN": "5440",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "23721",
+    "NAICS2017_LABEL": "Land subdivision",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "24",
+    "PAYANN": "5440",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "237210",
+    "NAICS2017_LABEL": "Land subdivision",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "24",
+    "PAYANN": "5440",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "238",
+    "NAICS2017_LABEL": "Specialty trade contractors",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "79",
+    "EMP": "325",
+    "PAYANN": "26826",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "2381",
+    "NAICS2017_LABEL": "Foundation, structure, and building exterior contractors",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "13",
+    "EMP": "37",
+    "PAYANN": "2232",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "23811",
+    "NAICS2017_LABEL": "Poured concrete foundation and structure contractors",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "13",
+    "PAYANN": "631",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "238110",
+    "NAICS2017_LABEL": "Poured concrete foundation and structure contractors",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "13",
+    "PAYANN": "631",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "23819",
+    "NAICS2017_LABEL": "Other foundation, structure, and building exterior contractors",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "1",
+    "PAYANN": "289",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "238190",
+    "NAICS2017_LABEL": "Other foundation, structure, and building exterior contractors",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "1",
+    "PAYANN": "289",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "2382",
+    "NAICS2017_LABEL": "Building equipment contractors",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "26",
+    "EMP": "165",
+    "PAYANN": "17914",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "23821",
+    "NAICS2017_LABEL": "Electrical contractors and other wiring installation contractors",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "8",
+    "EMP": "33",
+    "PAYANN": "1787",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "238210",
+    "NAICS2017_LABEL": "Electrical contractors and other wiring installation contractors",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "8",
+    "EMP": "33",
+    "PAYANN": "1787",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "23822",
+    "NAICS2017_LABEL": "Plumbing, heating, and air-conditioning contractors",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "16",
+    "EMP": "92",
+    "PAYANN": "13385",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "238220",
+    "NAICS2017_LABEL": "Plumbing, heating, and air-conditioning contractors",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "16",
+    "EMP": "92",
+    "PAYANN": "13385",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "2383",
+    "NAICS2017_LABEL": "Building finishing contractors",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "29",
+    "EMP": "80",
+    "PAYANN": "4209",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "23831",
+    "NAICS2017_LABEL": "Drywall and insulation contractors",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "5",
+    "EMP": "39",
+    "PAYANN": "2343",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "238310",
+    "NAICS2017_LABEL": "Drywall and insulation contractors",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "5",
+    "EMP": "39",
+    "PAYANN": "2343",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "23832",
+    "NAICS2017_LABEL": "Painting and wall covering contractors",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "14",
+    "EMP": "26",
+    "PAYANN": "1099",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "238320",
+    "NAICS2017_LABEL": "Painting and wall covering contractors",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "14",
+    "EMP": "26",
+    "PAYANN": "1099",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "23835",
+    "NAICS2017_LABEL": "Finish carpentry contractors",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "5",
+    "EMP": "4",
+    "PAYANN": "142",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "238350",
+    "NAICS2017_LABEL": "Finish carpentry contractors",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "5",
+    "EMP": "4",
+    "PAYANN": "142",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "2389",
+    "NAICS2017_LABEL": "Other specialty trade contractors",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "11",
+    "EMP": "43",
+    "PAYANN": "2471",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "23899",
+    "NAICS2017_LABEL": "All other specialty trade contractors",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "9",
+    "EMP": "31",
+    "PAYANN": "1777",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "238990",
+    "NAICS2017_LABEL": "All other specialty trade contractors",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "9",
+    "EMP": "31",
+    "PAYANN": "1777",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "31-33",
+    "NAICS2017_LABEL": "Manufacturing",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "34",
+    "EMP": "242",
+    "PAYANN": "28540",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "311",
+    "NAICS2017_LABEL": "Food manufacturing",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "10",
+    "EMP": "137",
+    "PAYANN": "3816",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "3118",
+    "NAICS2017_LABEL": "Bakeries and tortilla manufacturing",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "5",
+    "EMP": "90",
+    "PAYANN": "2209",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "31181",
+    "NAICS2017_LABEL": "Bread and bakery product manufacturing",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "89",
+    "PAYANN": "2189",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "311811",
+    "NAICS2017_LABEL": "Retail bakeries",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "89",
+    "PAYANN": "2189",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "323",
+    "NAICS2017_LABEL": "Printing and related support activities",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "20",
+    "PAYANN": "749",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "3231",
+    "NAICS2017_LABEL": "Printing and related support activities",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "20",
+    "PAYANN": "749",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "32311",
+    "NAICS2017_LABEL": "Printing",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "20",
+    "PAYANN": "749",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "323111",
+    "NAICS2017_LABEL": "Commercial printing (except screen and books)",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "20",
+    "PAYANN": "749",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "334",
+    "NAICS2017_LABEL": "Computer and electronic product manufacturing",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "5",
+    "EMP": "22",
+    "PAYANN": "2512",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "339",
+    "NAICS2017_LABEL": "Miscellaneous manufacturing",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "4",
+    "PAYANN": "179",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "42",
+    "NAICS2017_LABEL": "Wholesale trade",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "79",
+    "EMP": "1376",
+    "PAYANN": "309797",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "423",
+    "NAICS2017_LABEL": "Merchant wholesalers, durable goods",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "59",
+    "EMP": "1321",
+    "PAYANN": "305260",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4231",
+    "NAICS2017_LABEL": "Motor vehicle and motor vehicle parts and supplies merchant wholesalers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "6",
+    "EMP": "23",
+    "PAYANN": "1405",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "42311",
+    "NAICS2017_LABEL": "Automobile and other motor vehicle merchant wholesalers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "8",
+    "PAYANN": "678",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "423110",
+    "NAICS2017_LABEL": "Automobile and other motor vehicle merchant wholesalers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "8",
+    "PAYANN": "678",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "42312",
+    "NAICS2017_LABEL": "Motor vehicle supplies and new parts merchant wholesalers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "15",
+    "PAYANN": "727",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "423120",
+    "NAICS2017_LABEL": "Motor vehicle supplies and new parts merchant wholesalers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "15",
+    "PAYANN": "727",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4232",
+    "NAICS2017_LABEL": "Furniture and home furnishing merchant wholesalers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "102",
+    "PAYANN": "11425",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4234",
+    "NAICS2017_LABEL": "Professional and commercial equipment and supplies merchant wholesalers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "26",
+    "EMP": "541",
+    "PAYANN": "115902",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "42342",
+    "NAICS2017_LABEL": "Office equipment merchant wholesalers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "8",
+    "EMP": "94",
+    "PAYANN": "8477",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "423420",
+    "NAICS2017_LABEL": "Office equipment merchant wholesalers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "8",
+    "EMP": "94",
+    "PAYANN": "8477",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "42343",
+    "NAICS2017_LABEL": "Computer and computer peripheral equipment and software merchant wholesalers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "12",
+    "EMP": "145",
+    "PAYANN": "22254",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "423430",
+    "NAICS2017_LABEL": "Computer and computer peripheral equipment and software merchant wholesalers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "12",
+    "EMP": "145",
+    "PAYANN": "22254",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "42345",
+    "NAICS2017_LABEL": "Medical, dental, and hospital equipment and supplies merchant wholesalers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "6",
+    "EMP": "302",
+    "PAYANN": "85171",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "423450",
+    "NAICS2017_LABEL": "Medical, dental, and hospital equipment and supplies merchant wholesalers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "6",
+    "EMP": "302",
+    "PAYANN": "85171",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4236",
+    "NAICS2017_LABEL": "Household appliances and electrical and electronic goods merchant wholesalers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "7",
+    "EMP": "554",
+    "PAYANN": "166445",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "42361",
+    "NAICS2017_LABEL": "Electrical apparatus and equipment, wiring supplies, and related equipment merchant wholesalers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "487",
+    "PAYANN": "156487",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "423610",
+    "NAICS2017_LABEL": "Electrical apparatus and equipment, wiring supplies, and related equipment merchant wholesalers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "487",
+    "PAYANN": "156487",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "42369",
+    "NAICS2017_LABEL": "Other electronic parts and equipment merchant wholesalers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "67",
+    "PAYANN": "9958",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "423690",
+    "NAICS2017_LABEL": "Other electronic parts and equipment merchant wholesalers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "67",
+    "PAYANN": "9958",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4237",
+    "NAICS2017_LABEL": "Hardware, plumbing and heating equipment and supplies merchant wholesalers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "11",
+    "PAYANN": "1313",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "42373",
+    "NAICS2017_LABEL": "Warm air heating and air-conditioning equipment and supplies merchant wholesalers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "10",
+    "PAYANN": "1273",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "423730",
+    "NAICS2017_LABEL": "Warm air heating and air-conditioning equipment and supplies merchant wholesalers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "10",
+    "PAYANN": "1273",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4238",
+    "NAICS2017_LABEL": "Machinery, equipment, and supplies merchant wholesalers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "7",
+    "EMP": "20",
+    "PAYANN": "2127",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "42383",
+    "NAICS2017_LABEL": "Industrial machinery and equipment merchant wholesalers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "9",
+    "PAYANN": "812",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "423830",
+    "NAICS2017_LABEL": "Industrial machinery and equipment merchant wholesalers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "9",
+    "PAYANN": "812",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "42386",
+    "NAICS2017_LABEL": "Transportation equipment and supplies (except motor vehicle) merchant wholesalers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "10",
+    "PAYANN": "1230",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "423860",
+    "NAICS2017_LABEL": "Transportation equipment and supplies (except motor vehicle) merchant wholesalers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "10",
+    "PAYANN": "1230",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4239",
+    "NAICS2017_LABEL": "Miscellaneous durable goods merchant wholesalers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "6",
+    "EMP": "70",
+    "PAYANN": "6643",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "42399",
+    "NAICS2017_LABEL": "Other miscellaneous durable goods merchant wholesalers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "9",
+    "PAYANN": "276",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "423990",
+    "NAICS2017_LABEL": "Other miscellaneous durable goods merchant wholesalers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "9",
+    "PAYANN": "276",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "424",
+    "NAICS2017_LABEL": "Merchant wholesalers, nondurable goods",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "11",
+    "EMP": "36",
+    "PAYANN": "1900",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4244",
+    "NAICS2017_LABEL": "Grocery and related product merchant wholesalers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "6",
+    "PAYANN": "244",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4249",
+    "NAICS2017_LABEL": "Miscellaneous nondurable goods merchant wholesalers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "12",
+    "PAYANN": "1017",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "42499",
+    "NAICS2017_LABEL": "Other miscellaneous nondurable goods merchant wholesalers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "12",
+    "PAYANN": "1017",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "424990",
+    "NAICS2017_LABEL": "Other miscellaneous nondurable goods merchant wholesalers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "12",
+    "PAYANN": "1017",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "425",
+    "NAICS2017_LABEL": "Wholesale electronic markets and agents and brokers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "9",
+    "EMP": "19",
+    "PAYANN": "2637",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4251",
+    "NAICS2017_LABEL": "Wholesale electronic markets and agents and brokers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "9",
+    "EMP": "19",
+    "PAYANN": "2637",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "42512",
+    "NAICS2017_LABEL": "Wholesale trade agents and brokers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "9",
+    "EMP": "19",
+    "PAYANN": "2637",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "425120",
+    "NAICS2017_LABEL": "Wholesale trade agents and brokers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "9",
+    "EMP": "19",
+    "PAYANN": "2637",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "44-45",
+    "NAICS2017_LABEL": "Retail trade",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "484",
+    "EMP": "7601",
+    "PAYANN": "319232",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "441",
+    "NAICS2017_LABEL": "Motor vehicle and parts dealers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "34",
+    "EMP": "735",
+    "PAYANN": "57578",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4411",
+    "NAICS2017_LABEL": "Automobile dealers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "21",
+    "EMP": "661",
+    "PAYANN": "53361",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "44111",
+    "NAICS2017_LABEL": "New car dealers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "7",
+    "EMP": "567",
+    "PAYANN": "46701",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "441110",
+    "NAICS2017_LABEL": "New car dealers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "7",
+    "EMP": "567",
+    "PAYANN": "46701",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "44112",
+    "NAICS2017_LABEL": "Used car dealers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "14",
+    "EMP": "94",
+    "PAYANN": "6660",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "441120",
+    "NAICS2017_LABEL": "Used car dealers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "14",
+    "EMP": "94",
+    "PAYANN": "6660",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4413",
+    "NAICS2017_LABEL": "Automotive parts, accessories, and tire stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "12",
+    "EMP": "63",
+    "PAYANN": "3666",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "44131",
+    "NAICS2017_LABEL": "Automotive parts and accessories stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "5",
+    "EMP": "22",
+    "PAYANN": "1112",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "441310",
+    "NAICS2017_LABEL": "Automotive parts and accessories stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "5",
+    "EMP": "22",
+    "PAYANN": "1112",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "44132",
+    "NAICS2017_LABEL": "Tire dealers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "7",
+    "EMP": "41",
+    "PAYANN": "2554",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "441320",
+    "NAICS2017_LABEL": "Tire dealers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "7",
+    "EMP": "41",
+    "PAYANN": "2554",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "442",
+    "NAICS2017_LABEL": "Furniture and home furnishings stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "23",
+    "EMP": "235",
+    "PAYANN": "7623",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4421",
+    "NAICS2017_LABEL": "Furniture stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "11",
+    "EMP": "32",
+    "PAYANN": "2647",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "44211",
+    "NAICS2017_LABEL": "Furniture stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "11",
+    "EMP": "32",
+    "PAYANN": "2647",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "442110",
+    "NAICS2017_LABEL": "Furniture stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "11",
+    "EMP": "32",
+    "PAYANN": "2647",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4422",
+    "NAICS2017_LABEL": "Home furnishings stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "12",
+    "EMP": "203",
+    "PAYANN": "4976",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "44229",
+    "NAICS2017_LABEL": "Other home furnishings stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "11",
+    "EMP": "201",
+    "PAYANN": "4878",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "442299",
+    "NAICS2017_LABEL": "All other home furnishings stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "10",
+    "EMP": "194",
+    "PAYANN": "4565",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "443",
+    "NAICS2017_LABEL": "Electronics and appliance stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "11",
+    "EMP": "265",
+    "PAYANN": "12475",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4431",
+    "NAICS2017_LABEL": "Electronics and appliance stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "11",
+    "EMP": "265",
+    "PAYANN": "12475",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "44314",
+    "NAICS2017_LABEL": "Electronics and appliance stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "11",
+    "EMP": "265",
+    "PAYANN": "12475",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "443141",
+    "NAICS2017_LABEL": "Household appliance stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "21",
+    "PAYANN": "1091",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "443142",
+    "NAICS2017_LABEL": "Electronics stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "7",
+    "EMP": "244",
+    "PAYANN": "11384",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "444",
+    "NAICS2017_LABEL": "Building material and garden equipment and supplies dealers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "8",
+    "EMP": "33",
+    "PAYANN": "1755",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4441",
+    "NAICS2017_LABEL": "Building material and supplies dealers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "8",
+    "EMP": "33",
+    "PAYANN": "1755",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "44413",
+    "NAICS2017_LABEL": "Hardware stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "22",
+    "PAYANN": "1196",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "444130",
+    "NAICS2017_LABEL": "Hardware stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "22",
+    "PAYANN": "1196",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "44419",
+    "NAICS2017_LABEL": "Other building material dealers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "3",
+    "PAYANN": "122",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "444190",
+    "NAICS2017_LABEL": "Other building material dealers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "3",
+    "PAYANN": "122",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "445",
+    "NAICS2017_LABEL": "Food and beverage stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "95",
+    "EMP": "2279",
+    "PAYANN": "79928",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4451",
+    "NAICS2017_LABEL": "Grocery stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "69",
+    "EMP": "2088",
+    "PAYANN": "73708",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "44511",
+    "NAICS2017_LABEL": "Supermarkets and other grocery (except convenience) stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "43",
+    "EMP": "1844",
+    "PAYANN": "67574",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "445110",
+    "NAICS2017_LABEL": "Supermarkets and other grocery (except convenience) stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "43",
+    "EMP": "1844",
+    "PAYANN": "67574",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "44512",
+    "NAICS2017_LABEL": "Convenience stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "26",
+    "EMP": "244",
+    "PAYANN": "6134",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "445120",
+    "NAICS2017_LABEL": "Convenience stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "26",
+    "EMP": "244",
+    "PAYANN": "6134",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4452",
+    "NAICS2017_LABEL": "Specialty food stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "12",
+    "EMP": "58",
+    "PAYANN": "1317",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "44523",
+    "NAICS2017_LABEL": "Fruit and vegetable markets",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "12",
+    "PAYANN": "275",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "445230",
+    "NAICS2017_LABEL": "Fruit and vegetable markets",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "12",
+    "PAYANN": "275",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "44529",
+    "NAICS2017_LABEL": "Other specialty food stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "7",
+    "EMP": "44",
+    "PAYANN": "961",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "445299",
+    "NAICS2017_LABEL": "All other specialty food stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "31",
+    "PAYANN": "737",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4453",
+    "NAICS2017_LABEL": "Beer, wine, and liquor stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "14",
+    "EMP": "133",
+    "PAYANN": "4903",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "44531",
+    "NAICS2017_LABEL": "Beer, wine, and liquor stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "14",
+    "EMP": "133",
+    "PAYANN": "4903",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "445310",
+    "NAICS2017_LABEL": "Beer, wine, and liquor stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "14",
+    "EMP": "133",
+    "PAYANN": "4903",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "446",
+    "NAICS2017_LABEL": "Health and personal care stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "61",
+    "EMP": "788",
+    "PAYANN": "35534",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4461",
+    "NAICS2017_LABEL": "Health and personal care stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "61",
+    "EMP": "788",
+    "PAYANN": "35534",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "44611",
+    "NAICS2017_LABEL": "Pharmacies and drug stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "24",
+    "EMP": "470",
+    "PAYANN": "23851",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "446110",
+    "NAICS2017_LABEL": "Pharmacies and drug stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "24",
+    "EMP": "470",
+    "PAYANN": "23851",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "44612",
+    "NAICS2017_LABEL": "Cosmetics, beauty supplies, and perfume stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "18",
+    "EMP": "190",
+    "PAYANN": "5224",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "446120",
+    "NAICS2017_LABEL": "Cosmetics, beauty supplies, and perfume stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "18",
+    "EMP": "190",
+    "PAYANN": "5224",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "44613",
+    "NAICS2017_LABEL": "Optical goods stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "14",
+    "EMP": "94",
+    "PAYANN": "4023",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "446130",
+    "NAICS2017_LABEL": "Optical goods stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "14",
+    "EMP": "94",
+    "PAYANN": "4023",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "44619",
+    "NAICS2017_LABEL": "Other health and personal care stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "5",
+    "EMP": "34",
+    "PAYANN": "2436",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "446191",
+    "NAICS2017_LABEL": "Food (health) supplement stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "11",
+    "PAYANN": "334",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "447",
+    "NAICS2017_LABEL": "Gasoline stations",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "34",
+    "EMP": "201",
+    "PAYANN": "8153",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4471",
+    "NAICS2017_LABEL": "Gasoline stations",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "34",
+    "EMP": "201",
+    "PAYANN": "8153",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "44711",
+    "NAICS2017_LABEL": "Gasoline stations with convenience stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "25",
+    "EMP": "147",
+    "PAYANN": "5936",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "447110",
+    "NAICS2017_LABEL": "Gasoline stations with convenience stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "25",
+    "EMP": "147",
+    "PAYANN": "5936",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "44719",
+    "NAICS2017_LABEL": "Other gasoline stations",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "9",
+    "EMP": "54",
+    "PAYANN": "2217",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "447190",
+    "NAICS2017_LABEL": "Other gasoline stations",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "9",
+    "EMP": "54",
+    "PAYANN": "2217",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "448",
+    "NAICS2017_LABEL": "Clothing and clothing accessories stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "92",
+    "EMP": "1448",
+    "PAYANN": "36113",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4481",
+    "NAICS2017_LABEL": "Clothing stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "53",
+    "EMP": "1158",
+    "PAYANN": "28010",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "44811",
+    "NAICS2017_LABEL": "Men's clothing stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "8",
+    "EMP": "52",
+    "PAYANN": "1644",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "448110",
+    "NAICS2017_LABEL": "Men's clothing stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "8",
+    "EMP": "52",
+    "PAYANN": "1644",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "44812",
+    "NAICS2017_LABEL": "Women's clothing stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "23",
+    "EMP": "197",
+    "PAYANN": "4669",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "448120",
+    "NAICS2017_LABEL": "Women's clothing stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "23",
+    "EMP": "197",
+    "PAYANN": "4669",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "44814",
+    "NAICS2017_LABEL": "Family clothing stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "13",
+    "EMP": "815",
+    "PAYANN": "19234",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "448140",
+    "NAICS2017_LABEL": "Family clothing stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "13",
+    "EMP": "815",
+    "PAYANN": "19234",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "44815",
+    "NAICS2017_LABEL": "Clothing accessories stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "5",
+    "EMP": "33",
+    "PAYANN": "889",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "448150",
+    "NAICS2017_LABEL": "Clothing accessories stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "5",
+    "EMP": "33",
+    "PAYANN": "889",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "44819",
+    "NAICS2017_LABEL": "Other clothing stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "51",
+    "PAYANN": "1378",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "448190",
+    "NAICS2017_LABEL": "Other clothing stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "51",
+    "PAYANN": "1378",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4482",
+    "NAICS2017_LABEL": "Shoe stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "19",
+    "EMP": "193",
+    "PAYANN": "3951",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "44821",
+    "NAICS2017_LABEL": "Shoe stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "19",
+    "EMP": "193",
+    "PAYANN": "3951",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "448210",
+    "NAICS2017_LABEL": "Shoe stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "19",
+    "EMP": "193",
+    "PAYANN": "3951",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4483",
+    "NAICS2017_LABEL": "Jewelry, luggage, and leather goods stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "20",
+    "EMP": "97",
+    "PAYANN": "4152",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "44831",
+    "NAICS2017_LABEL": "Jewelry stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "17",
+    "EMP": "82",
+    "PAYANN": "3611",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "448310",
+    "NAICS2017_LABEL": "Jewelry stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "17",
+    "EMP": "82",
+    "PAYANN": "3611",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "44832",
+    "NAICS2017_LABEL": "Luggage and leather goods stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "15",
+    "PAYANN": "541",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "448320",
+    "NAICS2017_LABEL": "Luggage and leather goods stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "15",
+    "PAYANN": "541",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "451",
+    "NAICS2017_LABEL": "Sporting goods, hobby, musical instrument, and book stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "18",
+    "EMP": "155",
+    "PAYANN": "3664",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4511",
+    "NAICS2017_LABEL": "Sporting goods, hobby, and musical instrument stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "14",
+    "EMP": "110",
+    "PAYANN": "2853",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "45111",
+    "NAICS2017_LABEL": "Sporting goods stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "8",
+    "EMP": "63",
+    "PAYANN": "1611",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "451110",
+    "NAICS2017_LABEL": "Sporting goods stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "8",
+    "EMP": "63",
+    "PAYANN": "1611",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "45112",
+    "NAICS2017_LABEL": "Hobby, toy, and game stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "5",
+    "EMP": "42",
+    "PAYANN": "1098",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "451120",
+    "NAICS2017_LABEL": "Hobby, toy, and game stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "5",
+    "EMP": "42",
+    "PAYANN": "1098",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4512",
+    "NAICS2017_LABEL": "Book stores and news dealers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "45",
+    "PAYANN": "811",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "45121",
+    "NAICS2017_LABEL": "Book stores and news dealers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "45",
+    "PAYANN": "811",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "451211",
+    "NAICS2017_LABEL": "Book stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "45",
+    "PAYANN": "811",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "452",
+    "NAICS2017_LABEL": "General merchandise stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "12",
+    "EMP": "758",
+    "PAYANN": "32999",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4523",
+    "NAICS2017_LABEL": "General merchandise stores, including warehouse clubs and supercenters",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "10",
+    "EMP": "539",
+    "PAYANN": "23900",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "45231",
+    "NAICS2017_LABEL": "General merchandise stores, including warehouse clubs and supercenters",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "10",
+    "EMP": "539",
+    "PAYANN": "23900",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "452311",
+    "NAICS2017_LABEL": "Warehouse clubs and supercenters",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "488",
+    "PAYANN": "22785",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "452319",
+    "NAICS2017_LABEL": "All other general merchandise stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "6",
+    "EMP": "51",
+    "PAYANN": "1115",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "453",
+    "NAICS2017_LABEL": "Miscellaneous store retailers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "61",
+    "EMP": "335",
+    "PAYANN": "9526",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4531",
+    "NAICS2017_LABEL": "Florists",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "6",
+    "EMP": "17",
+    "PAYANN": "724",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "45311",
+    "NAICS2017_LABEL": "Florists",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "6",
+    "EMP": "17",
+    "PAYANN": "724",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "453110",
+    "NAICS2017_LABEL": "Florists",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "6",
+    "EMP": "17",
+    "PAYANN": "724",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4532",
+    "NAICS2017_LABEL": "Office supplies, stationery, and gift stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "20",
+    "EMP": "121",
+    "PAYANN": "3341",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "45322",
+    "NAICS2017_LABEL": "Gift, novelty, and souvenir stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "19",
+    "EMP": "98",
+    "PAYANN": "2861",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "453220",
+    "NAICS2017_LABEL": "Gift, novelty, and souvenir stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "19",
+    "EMP": "98",
+    "PAYANN": "2861",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4533",
+    "NAICS2017_LABEL": "Used merchandise stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "6",
+    "EMP": "93",
+    "PAYANN": "2132",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "45331",
+    "NAICS2017_LABEL": "Used merchandise stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "6",
+    "EMP": "93",
+    "PAYANN": "2132",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "453310",
+    "NAICS2017_LABEL": "Used merchandise stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "6",
+    "EMP": "93",
+    "PAYANN": "2132",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4539",
+    "NAICS2017_LABEL": "Other miscellaneous store retailers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "29",
+    "EMP": "104",
+    "PAYANN": "3329",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "45391",
+    "NAICS2017_LABEL": "Pet and pet supplies stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "32",
+    "PAYANN": "1142",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "453910",
+    "NAICS2017_LABEL": "Pet and pet supplies stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "32",
+    "PAYANN": "1142",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "45392",
+    "NAICS2017_LABEL": "Art dealers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "8",
+    "PAYANN": "256",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "453920",
+    "NAICS2017_LABEL": "Art dealers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "8",
+    "PAYANN": "256",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "45399",
+    "NAICS2017_LABEL": "All other miscellaneous store retailers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "21",
+    "EMP": "64",
+    "PAYANN": "1931",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "453991",
+    "NAICS2017_LABEL": "Tobacco stores",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "14",
+    "EMP": "36",
+    "PAYANN": "1245",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "453998",
+    "NAICS2017_LABEL": "All other miscellaneous store retailers (except tobacco stores)",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "7",
+    "EMP": "28",
+    "PAYANN": "686",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "454",
+    "NAICS2017_LABEL": "Nonstore retailers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "35",
+    "EMP": "369",
+    "PAYANN": "33884",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4541",
+    "NAICS2017_LABEL": "Electronic shopping and mail-order houses",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "20",
+    "EMP": "308",
+    "PAYANN": "31422",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "45411",
+    "NAICS2017_LABEL": "Electronic shopping and mail-order houses",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "20",
+    "EMP": "308",
+    "PAYANN": "31422",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "454110",
+    "NAICS2017_LABEL": "Electronic shopping and mail-order houses",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "20",
+    "EMP": "308",
+    "PAYANN": "31422",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4543",
+    "NAICS2017_LABEL": "Direct selling establishments",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "15",
+    "EMP": "61",
+    "PAYANN": "2462",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "45439",
+    "NAICS2017_LABEL": "Other direct selling establishments",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "15",
+    "EMP": "61",
+    "PAYANN": "2462",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "454390",
+    "NAICS2017_LABEL": "Other direct selling establishments",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "15",
+    "EMP": "61",
+    "PAYANN": "2462",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "48-49",
+    "NAICS2017_LABEL": "Transportation and warehousing",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "92",
+    "EMP": "6380",
+    "PAYANN": "1068845",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "481",
+    "NAICS2017_LABEL": "Air transportation",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "11",
+    "EMP": "4199",
+    "PAYANN": "663067",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4811",
+    "NAICS2017_LABEL": "Scheduled air transportation",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "10",
+    "EMP": "4196",
+    "PAYANN": "662414",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "48111",
+    "NAICS2017_LABEL": "Scheduled air transportation",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "10",
+    "EMP": "4196",
+    "PAYANN": "662414",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "481111",
+    "NAICS2017_LABEL": "Scheduled passenger air transportation",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "10",
+    "EMP": "4196",
+    "PAYANN": "662414",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "484",
+    "NAICS2017_LABEL": "Truck transportation",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "18",
+    "EMP": "21",
+    "PAYANN": "1045",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4841",
+    "NAICS2017_LABEL": "General freight trucking",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "11",
+    "EMP": "14",
+    "PAYANN": "813",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "48411",
+    "NAICS2017_LABEL": "General freight trucking, local",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "5",
+    "EMP": "5",
+    "PAYANN": "119",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "484110",
+    "NAICS2017_LABEL": "General freight trucking, local",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "5",
+    "EMP": "5",
+    "PAYANN": "119",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "48412",
+    "NAICS2017_LABEL": "General freight trucking, long-distance",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "6",
+    "EMP": "9",
+    "PAYANN": "694",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "484122",
+    "NAICS2017_LABEL": "General freight trucking, long-distance, less than truckload",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "9",
+    "PAYANN": "625",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4842",
+    "NAICS2017_LABEL": "Specialized freight trucking",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "7",
+    "EMP": "7",
+    "PAYANN": "232",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "48421",
+    "NAICS2017_LABEL": "Used household and office goods moving",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "4",
+    "PAYANN": "93",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "484210",
+    "NAICS2017_LABEL": "Used household and office goods moving",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "4",
+    "PAYANN": "93",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "48422",
+    "NAICS2017_LABEL": "Specialized freight (except used goods) trucking, local",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "3",
+    "PAYANN": "139",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "484220",
+    "NAICS2017_LABEL": "Specialized freight (except used goods) trucking, local",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "3",
+    "PAYANN": "139",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "485",
+    "NAICS2017_LABEL": "Transit and ground passenger transportation",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "20",
+    "EMP": "766",
+    "PAYANN": "55664",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4853",
+    "NAICS2017_LABEL": "Taxi and limousine service",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "11",
+    "EMP": "117",
+    "PAYANN": "15615",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "48531",
+    "NAICS2017_LABEL": "Taxi service",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "103",
+    "PAYANN": "15172",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "485310",
+    "NAICS2017_LABEL": "Taxi service",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "103",
+    "PAYANN": "15172",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "48532",
+    "NAICS2017_LABEL": "Limousine service",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "7",
+    "EMP": "14",
+    "PAYANN": "443",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "485320",
+    "NAICS2017_LABEL": "Limousine service",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "7",
+    "EMP": "14",
+    "PAYANN": "443",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4854",
+    "NAICS2017_LABEL": "School and employee bus transportation",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "346",
+    "PAYANN": "20773",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "48541",
+    "NAICS2017_LABEL": "School and employee bus transportation",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "346",
+    "PAYANN": "20773",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "485410",
+    "NAICS2017_LABEL": "School and employee bus transportation",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "346",
+    "PAYANN": "20773",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4859",
+    "NAICS2017_LABEL": "Other transit and ground passenger transportation",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "282",
+    "PAYANN": "18415",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "48599",
+    "NAICS2017_LABEL": "Other transit and ground passenger transportation",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "282",
+    "PAYANN": "18415",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "488",
+    "NAICS2017_LABEL": "Support activities for transportation",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "31",
+    "EMP": "1196",
+    "PAYANN": "341240",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4881",
+    "NAICS2017_LABEL": "Support activities for air transportation",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "14",
+    "EMP": "794",
+    "PAYANN": "21240",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "48811",
+    "NAICS2017_LABEL": "Airport operations",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "11",
+    "EMP": "743",
+    "PAYANN": "17310",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "488119",
+    "NAICS2017_LABEL": "Other airport operations",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "11",
+    "EMP": "743",
+    "PAYANN": "17310",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "48819",
+    "NAICS2017_LABEL": "Other support activities for air transportation",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "51",
+    "PAYANN": "3930",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "488190",
+    "NAICS2017_LABEL": "Other support activities for air transportation",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "51",
+    "PAYANN": "3930",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4884",
+    "NAICS2017_LABEL": "Support activities for road transportation",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "6",
+    "EMP": "50",
+    "PAYANN": "3404",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "48841",
+    "NAICS2017_LABEL": "Motor vehicle towing",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "5",
+    "EMP": "49",
+    "PAYANN": "3388",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "488410",
+    "NAICS2017_LABEL": "Motor vehicle towing",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "5",
+    "EMP": "49",
+    "PAYANN": "3388",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4885",
+    "NAICS2017_LABEL": "Freight transportation arrangement",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "8",
+    "EMP": "22",
+    "PAYANN": "2391",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "48851",
+    "NAICS2017_LABEL": "Freight transportation arrangement",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "8",
+    "EMP": "22",
+    "PAYANN": "2391",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "488510",
+    "NAICS2017_LABEL": "Freight transportation arrangement",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "8",
+    "EMP": "22",
+    "PAYANN": "2391",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4889",
+    "NAICS2017_LABEL": "Other support activities for transportation",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "330",
+    "PAYANN": "314205",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "48899",
+    "NAICS2017_LABEL": "Other support activities for transportation",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "330",
+    "PAYANN": "314205",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "492",
+    "NAICS2017_LABEL": "Couriers and messengers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "8",
+    "EMP": "133",
+    "PAYANN": "3507",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4921",
+    "NAICS2017_LABEL": "Couriers and express delivery services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "18",
+    "PAYANN": "371",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "49211",
+    "NAICS2017_LABEL": "Couriers and express delivery services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "18",
+    "PAYANN": "371",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "492110",
+    "NAICS2017_LABEL": "Couriers and express delivery services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "18",
+    "PAYANN": "371",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "4922",
+    "NAICS2017_LABEL": "Local messengers and local delivery",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "5",
+    "EMP": "115",
+    "PAYANN": "3136",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "49221",
+    "NAICS2017_LABEL": "Local messengers and local delivery",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "5",
+    "EMP": "115",
+    "PAYANN": "3136",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "492210",
+    "NAICS2017_LABEL": "Local messengers and local delivery",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "5",
+    "EMP": "115",
+    "PAYANN": "3136",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "51",
+    "NAICS2017_LABEL": "Information",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "208",
+    "EMP": "10230",
+    "PAYANN": "1599842",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "511",
+    "NAICS2017_LABEL": "Publishing industries (except internet)",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "69",
+    "EMP": "5215",
+    "PAYANN": "975725",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "5111",
+    "NAICS2017_LABEL": "Newspaper, periodical, book, and directory publishers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "17",
+    "EMP": "1504",
+    "PAYANN": "220924",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "51112",
+    "NAICS2017_LABEL": "Periodical publishers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "8",
+    "EMP": "1426",
+    "PAYANN": "213541",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "511120",
+    "NAICS2017_LABEL": "Periodical publishers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "8",
+    "EMP": "1426",
+    "PAYANN": "213541",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "51113",
+    "NAICS2017_LABEL": "Book publishers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "5",
+    "EMP": "11",
+    "PAYANN": "974",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "511130",
+    "NAICS2017_LABEL": "Book publishers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "5",
+    "EMP": "11",
+    "PAYANN": "974",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "5112",
+    "NAICS2017_LABEL": "Software publishers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "52",
+    "EMP": "3711",
+    "PAYANN": "754801",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "51121",
+    "NAICS2017_LABEL": "Software publishers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "52",
+    "EMP": "3711",
+    "PAYANN": "754801",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "511210",
+    "NAICS2017_LABEL": "Software publishers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "52",
+    "EMP": "3711",
+    "PAYANN": "754801",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "512",
+    "NAICS2017_LABEL": "Motion picture and sound recording industries",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "28",
+    "EMP": "493",
+    "PAYANN": "47365",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "5121",
+    "NAICS2017_LABEL": "Motion picture and video industries",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "27",
+    "EMP": "468",
+    "PAYANN": "44675",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "51211",
+    "NAICS2017_LABEL": "Motion picture and video production",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "19",
+    "EMP": "329",
+    "PAYANN": "39345",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "512110",
+    "NAICS2017_LABEL": "Motion picture and video production",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "19",
+    "EMP": "329",
+    "PAYANN": "39345",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "51213",
+    "NAICS2017_LABEL": "Motion picture and video exhibition",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "104",
+    "PAYANN": "2051",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "512131",
+    "NAICS2017_LABEL": "Motion picture theaters (except drive-ins)",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "104",
+    "PAYANN": "2051",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "51219",
+    "NAICS2017_LABEL": "Postproduction services and other motion picture and video industries",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "35",
+    "PAYANN": "3279",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "512191",
+    "NAICS2017_LABEL": "Teleproduction and other postproduction services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "35",
+    "PAYANN": "3279",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "515",
+    "NAICS2017_LABEL": "Broadcasting (except internet)",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "12",
+    "EMP": "1050",
+    "PAYANN": "122135",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "5151",
+    "NAICS2017_LABEL": "Radio and television broadcasting",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "12",
+    "EMP": "1050",
+    "PAYANN": "122135",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "51511",
+    "NAICS2017_LABEL": "Radio broadcasting",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "7",
+    "EMP": "73",
+    "PAYANN": "5743",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "515112",
+    "NAICS2017_LABEL": "Radio stations",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "5",
+    "EMP": "49",
+    "PAYANN": "3786",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "51512",
+    "NAICS2017_LABEL": "Television broadcasting",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "5",
+    "EMP": "977",
+    "PAYANN": "116392",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "515120",
+    "NAICS2017_LABEL": "Television broadcasting",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "5",
+    "EMP": "977",
+    "PAYANN": "116392",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "517",
+    "NAICS2017_LABEL": "Telecommunications",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "43",
+    "EMP": "601",
+    "PAYANN": "65864",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "5173",
+    "NAICS2017_LABEL": "Wired and wireless telecommunications carriers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "38",
+    "EMP": "424",
+    "PAYANN": "42899",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "51731",
+    "NAICS2017_LABEL": "Wired and wireless telecommunications carriers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "38",
+    "EMP": "424",
+    "PAYANN": "42899",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "517311",
+    "NAICS2017_LABEL": "Wired telecommunications carriers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "26",
+    "EMP": "318",
+    "PAYANN": "37561",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "517312",
+    "NAICS2017_LABEL": "Wireless telecommunications carriers (except satellite)",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "12",
+    "EMP": "106",
+    "PAYANN": "5338",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "5179",
+    "NAICS2017_LABEL": "Other telecommunications",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "171",
+    "PAYANN": "21131",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "51791",
+    "NAICS2017_LABEL": "Other telecommunications",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "171",
+    "PAYANN": "21131",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "518",
+    "NAICS2017_LABEL": "Data processing, hosting, and related services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "33",
+    "EMP": "1331",
+    "PAYANN": "176851",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "5182",
+    "NAICS2017_LABEL": "Data processing, hosting, and related services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "33",
+    "EMP": "1331",
+    "PAYANN": "176851",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "51821",
+    "NAICS2017_LABEL": "Data processing, hosting, and related services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "33",
+    "EMP": "1331",
+    "PAYANN": "176851",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "518210",
+    "NAICS2017_LABEL": "Data processing, hosting, and related services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "33",
+    "EMP": "1331",
+    "PAYANN": "176851",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "519",
+    "NAICS2017_LABEL": "Other information services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "23",
+    "EMP": "1540",
+    "PAYANN": "211902",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "5191",
+    "NAICS2017_LABEL": "Other information services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "23",
+    "EMP": "1540",
+    "PAYANN": "211902",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "51913",
+    "NAICS2017_LABEL": "Internet publishing and broadcasting and web search portals",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "20",
+    "EMP": "712",
+    "PAYANN": "99917",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "519130",
+    "NAICS2017_LABEL": "Internet publishing and broadcasting and web search portals",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "20",
+    "EMP": "712",
+    "PAYANN": "99917",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "52",
+    "NAICS2017_LABEL": "Finance and insurance",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "237",
+    "EMP": "6199",
+    "PAYANN": "1302205",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "522",
+    "NAICS2017_LABEL": "Credit intermediation and related activities",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "99",
+    "EMP": "3982",
+    "PAYANN": "745876",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "5221",
+    "NAICS2017_LABEL": "Depository credit intermediation",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "68",
+    "EMP": "860",
+    "PAYANN": "119284",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "52211",
+    "NAICS2017_LABEL": "Commercial banking",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "53",
+    "EMP": "542",
+    "PAYANN": "62461",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "522110",
+    "NAICS2017_LABEL": "Commercial banking",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "53",
+    "EMP": "542",
+    "PAYANN": "62461",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "52212",
+    "NAICS2017_LABEL": "Savings institutions",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "190",
+    "PAYANN": "45888",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "522120",
+    "NAICS2017_LABEL": "Savings institutions",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "190",
+    "PAYANN": "45888",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "52213",
+    "NAICS2017_LABEL": "Credit unions",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "12",
+    "EMP": "128",
+    "PAYANN": "10935",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "522130",
+    "NAICS2017_LABEL": "Credit unions",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "12",
+    "EMP": "128",
+    "PAYANN": "10935",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "5222",
+    "NAICS2017_LABEL": "Nondepository credit intermediation",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "20",
+    "EMP": "2545",
+    "PAYANN": "485479",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "52229",
+    "NAICS2017_LABEL": "Other nondepository credit intermediation",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "18",
+    "EMP": "198",
+    "PAYANN": "24406",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "522292",
+    "NAICS2017_LABEL": "Real estate credit",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "12",
+    "EMP": "83",
+    "PAYANN": "10464",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "522298",
+    "NAICS2017_LABEL": "All other nondepository credit intermediation",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "12",
+    "PAYANN": "1549",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "5223",
+    "NAICS2017_LABEL": "Activities related to credit intermediation",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "11",
+    "EMP": "577",
+    "PAYANN": "141113",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "52231",
+    "NAICS2017_LABEL": "Mortgage and nonmortgage loan brokers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "50",
+    "PAYANN": "17252",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "522310",
+    "NAICS2017_LABEL": "Mortgage and nonmortgage loan brokers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "50",
+    "PAYANN": "17252",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "52232",
+    "NAICS2017_LABEL": "Financial transactions processing, reserve, and clearinghouse activities",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "429",
+    "PAYANN": "85954",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "522320",
+    "NAICS2017_LABEL": "Financial transactions processing, reserve, and clearinghouse activities",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "429",
+    "PAYANN": "85954",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "52239",
+    "NAICS2017_LABEL": "Other activities related to credit intermediation",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "98",
+    "PAYANN": "37907",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "522390",
+    "NAICS2017_LABEL": "Other activities related to credit intermediation",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "98",
+    "PAYANN": "37907",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "523",
+    "NAICS2017_LABEL": "Securities, commodity contracts, and other financial investments and related activities",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "82",
+    "EMP": "1568",
+    "PAYANN": "456414",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "5231",
+    "NAICS2017_LABEL": "Securities and commodity contracts intermediation and brokerage",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "25",
+    "EMP": "559",
+    "PAYANN": "145495",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "52311",
+    "NAICS2017_LABEL": "Investment banking and securities dealing",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "54",
+    "PAYANN": "32141",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "523110",
+    "NAICS2017_LABEL": "Investment banking and securities dealing",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "54",
+    "PAYANN": "32141",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "52312",
+    "NAICS2017_LABEL": "Securities brokerage",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "20",
+    "EMP": "503",
+    "PAYANN": "112654",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "523120",
+    "NAICS2017_LABEL": "Securities brokerage",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "20",
+    "EMP": "503",
+    "PAYANN": "112654",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "5239",
+    "NAICS2017_LABEL": "Other financial investment activities",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "57",
+    "EMP": "1009",
+    "PAYANN": "310919",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "52391",
+    "NAICS2017_LABEL": "Miscellaneous intermediation",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "11",
+    "EMP": "90",
+    "PAYANN": "14587",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "523910",
+    "NAICS2017_LABEL": "Miscellaneous intermediation",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "11",
+    "EMP": "90",
+    "PAYANN": "14587",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "52392",
+    "NAICS2017_LABEL": "Portfolio management",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "23",
+    "EMP": "454",
+    "PAYANN": "207256",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "523920",
+    "NAICS2017_LABEL": "Portfolio management",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "23",
+    "EMP": "454",
+    "PAYANN": "207256",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "52393",
+    "NAICS2017_LABEL": "Investment advice",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "18",
+    "EMP": "449",
+    "PAYANN": "85754",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "523930",
+    "NAICS2017_LABEL": "Investment advice",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "18",
+    "EMP": "449",
+    "PAYANN": "85754",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "52399",
+    "NAICS2017_LABEL": "All other financial investment activities",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "5",
+    "EMP": "16",
+    "PAYANN": "3322",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "523999",
+    "NAICS2017_LABEL": "Miscellaneous financial investment activities",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "12",
+    "PAYANN": "3096",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "524",
+    "NAICS2017_LABEL": "Insurance carriers and related activities",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "55",
+    "EMP": "647",
+    "PAYANN": "99880",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "5241",
+    "NAICS2017_LABEL": "Insurance carriers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "19",
+    "EMP": "327",
+    "PAYANN": "67006",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "52411",
+    "NAICS2017_LABEL": "Direct life, health, and medical insurance carriers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "16",
+    "EMP": "273",
+    "PAYANN": "62198",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "524113",
+    "NAICS2017_LABEL": "Direct life insurance carriers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "7",
+    "EMP": "184",
+    "PAYANN": "33249",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "524114",
+    "NAICS2017_LABEL": "Direct health and medical insurance carriers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "9",
+    "EMP": "89",
+    "PAYANN": "28949",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "5242",
+    "NAICS2017_LABEL": "Agencies, brokerages, and other insurance related activities",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "36",
+    "EMP": "320",
+    "PAYANN": "32874",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "52421",
+    "NAICS2017_LABEL": "Insurance agencies and brokerages",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "32",
+    "EMP": "114",
+    "PAYANN": "14746",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "524210",
+    "NAICS2017_LABEL": "Insurance agencies and brokerages",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "32",
+    "EMP": "114",
+    "PAYANN": "14746",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "52429",
+    "NAICS2017_LABEL": "Other insurance related activities",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "206",
+    "PAYANN": "18128",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "524292",
+    "NAICS2017_LABEL": "Third party administration of insurance and pension funds",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "206",
+    "PAYANN": "18128",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "53",
+    "NAICS2017_LABEL": "Real estate and rental and leasing",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "538",
+    "EMP": "4071",
+    "PAYANN": "398484",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "531",
+    "NAICS2017_LABEL": "Real estate",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "503",
+    "EMP": "3630",
+    "PAYANN": "376598",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "5311",
+    "NAICS2017_LABEL": "Lessors of real estate",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "216",
+    "EMP": "1724",
+    "PAYANN": "204576",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "53111",
+    "NAICS2017_LABEL": "Lessors of residential buildings and dwellings",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "129",
+    "EMP": "1332",
+    "PAYANN": "157288",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "531110",
+    "NAICS2017_LABEL": "Lessors of residential buildings and dwellings",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "129",
+    "EMP": "1332",
+    "PAYANN": "157288",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "53112",
+    "NAICS2017_LABEL": "Lessors of nonresidential buildings (except miniwarehouses)",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "74",
+    "EMP": "363",
+    "PAYANN": "45274",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "531120",
+    "NAICS2017_LABEL": "Lessors of nonresidential buildings (except miniwarehouses)",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "74",
+    "EMP": "363",
+    "PAYANN": "45274",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "53113",
+    "NAICS2017_LABEL": "Lessors of miniwarehouses and self-storage units",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "10",
+    "EMP": "27",
+    "PAYANN": "1494",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "531130",
+    "NAICS2017_LABEL": "Lessors of miniwarehouses and self-storage units",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "10",
+    "EMP": "27",
+    "PAYANN": "1494",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "53119",
+    "NAICS2017_LABEL": "Lessors of other real estate property",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "2",
+    "PAYANN": "520",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "531190",
+    "NAICS2017_LABEL": "Lessors of other real estate property",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "2",
+    "PAYANN": "520",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "5312",
+    "NAICS2017_LABEL": "Offices of real estate agents and brokers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "140",
+    "EMP": "371",
+    "PAYANN": "39528",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "53121",
+    "NAICS2017_LABEL": "Offices of real estate agents and brokers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "140",
+    "EMP": "371",
+    "PAYANN": "39528",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "531210",
+    "NAICS2017_LABEL": "Offices of real estate agents and brokers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "140",
+    "EMP": "371",
+    "PAYANN": "39528",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "5313",
+    "NAICS2017_LABEL": "Activities related to real estate",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "147",
+    "EMP": "1535",
+    "PAYANN": "132494",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "53131",
+    "NAICS2017_LABEL": "Real estate property managers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "104",
+    "EMP": "1378",
+    "PAYANN": "105688",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "531311",
+    "NAICS2017_LABEL": "Residential property managers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "64",
+    "EMP": "838",
+    "PAYANN": "53330",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "531312",
+    "NAICS2017_LABEL": "Nonresidential property managers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "40",
+    "EMP": "540",
+    "PAYANN": "52358",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "53132",
+    "NAICS2017_LABEL": "Offices of real estate appraisers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "7",
+    "EMP": "7",
+    "PAYANN": "436",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "531320",
+    "NAICS2017_LABEL": "Offices of real estate appraisers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "7",
+    "EMP": "7",
+    "PAYANN": "436",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "53139",
+    "NAICS2017_LABEL": "Other activities related to real estate",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "36",
+    "EMP": "150",
+    "PAYANN": "26370",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "531390",
+    "NAICS2017_LABEL": "Other activities related to real estate",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "36",
+    "EMP": "150",
+    "PAYANN": "26370",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "532",
+    "NAICS2017_LABEL": "Rental and leasing services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "31",
+    "EMP": "424",
+    "PAYANN": "19742",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "5321",
+    "NAICS2017_LABEL": "Automotive equipment rental and leasing",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "21",
+    "EMP": "388",
+    "PAYANN": "17944",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "53211",
+    "NAICS2017_LABEL": "Passenger car rental and leasing",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "18",
+    "EMP": "382",
+    "PAYANN": "17564",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "532111",
+    "NAICS2017_LABEL": "Passenger car rental",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "17",
+    "EMP": "357",
+    "PAYANN": "16508",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "53212",
+    "NAICS2017_LABEL": "Truck, utility trailer, and RV (recreational vehicle) rental and leasing",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "6",
+    "PAYANN": "380",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "532120",
+    "NAICS2017_LABEL": "Truck, utility trailer, and RV (recreational vehicle) rental and leasing",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "6",
+    "PAYANN": "380",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "5322",
+    "NAICS2017_LABEL": "Consumer goods rental",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "3",
+    "PAYANN": "209",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "53228",
+    "NAICS2017_LABEL": "Other consumer goods rental",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "3",
+    "PAYANN": "209",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "5324",
+    "NAICS2017_LABEL": "Commercial and industrial machinery and equipment rental and leasing",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "6",
+    "EMP": "32",
+    "PAYANN": "1383",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "53249",
+    "NAICS2017_LABEL": "Other commercial and industrial machinery and equipment rental and leasing",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "6",
+    "EMP": "32",
+    "PAYANN": "1383",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "532490",
+    "NAICS2017_LABEL": "Other commercial and industrial machinery and equipment rental and leasing",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "6",
+    "EMP": "32",
+    "PAYANN": "1383",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "533",
+    "NAICS2017_LABEL": "Lessors of nonfinancial intangible assets (except copyrighted works)",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "17",
+    "PAYANN": "2144",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "5331",
+    "NAICS2017_LABEL": "Lessors of nonfinancial intangible assets (except copyrighted works)",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "17",
+    "PAYANN": "2144",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "53311",
+    "NAICS2017_LABEL": "Lessors of nonfinancial intangible assets (except copyrighted works)",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "17",
+    "PAYANN": "2144",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "533110",
+    "NAICS2017_LABEL": "Lessors of nonfinancial intangible assets (except copyrighted works)",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "17",
+    "PAYANN": "2144",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "54",
+    "NAICS2017_LABEL": "Professional, scientific, and technical services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "1805",
+    "EMP": "54262",
+    "PAYANN": "7677986",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "541",
+    "NAICS2017_LABEL": "Professional, scientific, and technical services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "1805",
+    "EMP": "54262",
+    "PAYANN": "7677986",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "5411",
+    "NAICS2017_LABEL": "Legal services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "128",
+    "EMP": "1386",
+    "PAYANN": "174335",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "54111",
+    "NAICS2017_LABEL": "Offices of lawyers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "107",
+    "EMP": "1308",
+    "PAYANN": "168001",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "541110",
+    "NAICS2017_LABEL": "Offices of lawyers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "107",
+    "EMP": "1308",
+    "PAYANN": "168001",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "54119",
+    "NAICS2017_LABEL": "Other legal services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "21",
+    "EMP": "78",
+    "PAYANN": "6334",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "541191",
+    "NAICS2017_LABEL": "Title abstract and settlement offices",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "7",
+    "EMP": "18",
+    "PAYANN": "1680",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "541199",
+    "NAICS2017_LABEL": "All other legal services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "14",
+    "EMP": "60",
+    "PAYANN": "4654",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "5412",
+    "NAICS2017_LABEL": "Accounting, tax preparation, bookkeeping, and payroll services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "67",
+    "EMP": "3500",
+    "PAYANN": "535282",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "54121",
+    "NAICS2017_LABEL": "Accounting, tax preparation, bookkeeping, and payroll services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "67",
+    "EMP": "3500",
+    "PAYANN": "535282",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "541211",
+    "NAICS2017_LABEL": "Offices of certified public accountants",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "29",
+    "EMP": "2895",
+    "PAYANN": "448525",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "541213",
+    "NAICS2017_LABEL": "Tax preparation services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "11",
+    "EMP": "63",
+    "PAYANN": "1952",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "541214",
+    "NAICS2017_LABEL": "Payroll services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "29",
+    "PAYANN": "2108",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "541219",
+    "NAICS2017_LABEL": "Other accounting services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "24",
+    "EMP": "513",
+    "PAYANN": "82697",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "5413",
+    "NAICS2017_LABEL": "Architectural, engineering, and related services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "190",
+    "EMP": "4465",
+    "PAYANN": "561127",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "54131",
+    "NAICS2017_LABEL": "Architectural services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "25",
+    "EMP": "316",
+    "PAYANN": "31690",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "541310",
+    "NAICS2017_LABEL": "Architectural services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "25",
+    "EMP": "316",
+    "PAYANN": "31690",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "54132",
+    "NAICS2017_LABEL": "Landscape architectural services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "7",
+    "EMP": "29",
+    "PAYANN": "1962",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "541320",
+    "NAICS2017_LABEL": "Landscape architectural services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "7",
+    "EMP": "29",
+    "PAYANN": "1962",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "54133",
+    "NAICS2017_LABEL": "Engineering services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "154",
+    "EMP": "3919",
+    "PAYANN": "507488",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "541330",
+    "NAICS2017_LABEL": "Engineering services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "154",
+    "EMP": "3919",
+    "PAYANN": "507488",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "5414",
+    "NAICS2017_LABEL": "Specialized design services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "48",
+    "EMP": "108",
+    "PAYANN": "7654",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "54141",
+    "NAICS2017_LABEL": "Interior design services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "17",
+    "EMP": "37",
+    "PAYANN": "2412",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "541410",
+    "NAICS2017_LABEL": "Interior design services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "17",
+    "EMP": "37",
+    "PAYANN": "2412",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "54143",
+    "NAICS2017_LABEL": "Graphic design services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "25",
+    "EMP": "53",
+    "PAYANN": "3916",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "541430",
+    "NAICS2017_LABEL": "Graphic design services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "25",
+    "EMP": "53",
+    "PAYANN": "3916",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "54149",
+    "NAICS2017_LABEL": "Other specialized design services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "6",
+    "EMP": "18",
+    "PAYANN": "1326",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "541490",
+    "NAICS2017_LABEL": "Other specialized design services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "6",
+    "EMP": "18",
+    "PAYANN": "1326",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "5415",
+    "NAICS2017_LABEL": "Computer systems design and related services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "501",
+    "EMP": "15037",
+    "PAYANN": "2180448",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "54151",
+    "NAICS2017_LABEL": "Computer systems design and related services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "501",
+    "EMP": "15037",
+    "PAYANN": "2180448",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "541511",
+    "NAICS2017_LABEL": "Custom computer programming services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "228",
+    "EMP": "5328",
+    "PAYANN": "755074",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "541512",
+    "NAICS2017_LABEL": "Computer systems design services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "210",
+    "EMP": "7740",
+    "PAYANN": "1161015",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "541513",
+    "NAICS2017_LABEL": "Computer facilities management services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "17",
+    "EMP": "644",
+    "PAYANN": "80027",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "541519",
+    "NAICS2017_LABEL": "Other computer related services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "46",
+    "EMP": "1325",
+    "PAYANN": "184332",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "5416",
+    "NAICS2017_LABEL": "Management, scientific, and technical consulting services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "589",
+    "EMP": "21994",
+    "PAYANN": "3160607",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "54161",
+    "NAICS2017_LABEL": "Management consulting services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "514",
+    "EMP": "20092",
+    "PAYANN": "2926793",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "541611",
+    "NAICS2017_LABEL": "Administrative management and general management consulting services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "365",
+    "EMP": "17801",
+    "PAYANN": "2527525",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "541612",
+    "NAICS2017_LABEL": "Human resources consulting services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "23",
+    "EMP": "509",
+    "PAYANN": "89642",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "541613",
+    "NAICS2017_LABEL": "Marketing consulting services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "68",
+    "EMP": "625",
+    "PAYANN": "72702",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "541614",
+    "NAICS2017_LABEL": "Process, physical distribution, and logistics consulting services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "13",
+    "EMP": "113",
+    "PAYANN": "89772",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "541618",
+    "NAICS2017_LABEL": "Other management consulting services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "45",
+    "EMP": "1044",
+    "PAYANN": "147152",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "54162",
+    "NAICS2017_LABEL": "Environmental consulting services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "11",
+    "EMP": "246",
+    "PAYANN": "26673",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "541620",
+    "NAICS2017_LABEL": "Environmental consulting services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "11",
+    "EMP": "246",
+    "PAYANN": "26673",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "54169",
+    "NAICS2017_LABEL": "Other scientific and technical consulting services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "64",
+    "EMP": "1656",
+    "PAYANN": "207141",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "541690",
+    "NAICS2017_LABEL": "Other scientific and technical consulting services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "64",
+    "EMP": "1656",
+    "PAYANN": "207141",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "5417",
+    "NAICS2017_LABEL": "Scientific research and development services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "77",
+    "EMP": "5398",
+    "PAYANN": "770451",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "54171",
+    "NAICS2017_LABEL": "Research and development in the physical, engineering, and life sciences",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "63",
+    "EMP": "3298",
+    "PAYANN": "499273",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "541713",
+    "NAICS2017_LABEL": "Research and development in nanotechnology",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "9",
+    "EMP": "569",
+    "PAYANN": "80695",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "541714",
+    "NAICS2017_LABEL": "Research and development in biotechnology (except nanobiotechnology)",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "20",
+    "PAYANN": "1931",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "541715",
+    "NAICS2017_LABEL": "Research and development in the physical, engineering, and life sciences (except nanotechnology and biotechnology)",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "51",
+    "EMP": "2709",
+    "PAYANN": "416647",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "54172",
+    "NAICS2017_LABEL": "Research and development in the social sciences and humanities",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "14",
+    "EMP": "2100",
+    "PAYANN": "271178",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "541720",
+    "NAICS2017_LABEL": "Research and development in the social sciences and humanities",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "14",
+    "EMP": "2100",
+    "PAYANN": "271178",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "5418",
+    "NAICS2017_LABEL": "Advertising, public relations, and related services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "80",
+    "EMP": "965",
+    "PAYANN": "110989",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "54181",
+    "NAICS2017_LABEL": "Advertising agencies",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "17",
+    "EMP": "222",
+    "PAYANN": "28788",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "541810",
+    "NAICS2017_LABEL": "Advertising agencies",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "17",
+    "EMP": "222",
+    "PAYANN": "28788",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "54182",
+    "NAICS2017_LABEL": "Public relations agencies",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "51",
+    "EMP": "525",
+    "PAYANN": "64996",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "541820",
+    "NAICS2017_LABEL": "Public relations agencies",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "51",
+    "EMP": "525",
+    "PAYANN": "64996",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "54186",
+    "NAICS2017_LABEL": "Direct mail advertising",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "5",
+    "EMP": "126",
+    "PAYANN": "12147",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "541860",
+    "NAICS2017_LABEL": "Direct mail advertising",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "5",
+    "EMP": "126",
+    "PAYANN": "12147",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "54189",
+    "NAICS2017_LABEL": "Other services related to advertising",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "80",
+    "PAYANN": "3750",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "541890",
+    "NAICS2017_LABEL": "Other services related to advertising",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "80",
+    "PAYANN": "3750",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "5419",
+    "NAICS2017_LABEL": "Other professional, scientific, and technical services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "125",
+    "EMP": "1409",
+    "PAYANN": "177093",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "54191",
+    "NAICS2017_LABEL": "Marketing research and public opinion polling",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "15",
+    "EMP": "289",
+    "PAYANN": "38900",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "541910",
+    "NAICS2017_LABEL": "Marketing research and public opinion polling",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "15",
+    "EMP": "289",
+    "PAYANN": "38900",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "54192",
+    "NAICS2017_LABEL": "Photographic services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "7",
+    "EMP": "8",
+    "PAYANN": "213",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "541921",
+    "NAICS2017_LABEL": "Photography studios, portrait",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "6",
+    "EMP": "8",
+    "PAYANN": "206",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "54193",
+    "NAICS2017_LABEL": "Translation and interpretation services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "9",
+    "EMP": "108",
+    "PAYANN": "8839",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "541930",
+    "NAICS2017_LABEL": "Translation and interpretation services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "9",
+    "EMP": "108",
+    "PAYANN": "8839",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "54194",
+    "NAICS2017_LABEL": "Veterinary services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "17",
+    "EMP": "279",
+    "PAYANN": "16420",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "541940",
+    "NAICS2017_LABEL": "Veterinary services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "17",
+    "EMP": "279",
+    "PAYANN": "16420",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "54199",
+    "NAICS2017_LABEL": "All other professional, scientific, and technical services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "77",
+    "EMP": "725",
+    "PAYANN": "112721",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "541990",
+    "NAICS2017_LABEL": "All other professional, scientific, and technical services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "77",
+    "EMP": "725",
+    "PAYANN": "112721",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "55",
+    "NAICS2017_LABEL": "Management of companies and enterprises",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "47",
+    "EMP": "4610",
+    "PAYANN": "652050",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "551",
+    "NAICS2017_LABEL": "Management of companies and enterprises",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "47",
+    "EMP": "4610",
+    "PAYANN": "652050",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "5511",
+    "NAICS2017_LABEL": "Management of companies and enterprises",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "47",
+    "EMP": "4610",
+    "PAYANN": "652050",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "55111",
+    "NAICS2017_LABEL": "Management of companies and enterprises",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "47",
+    "EMP": "4610",
+    "PAYANN": "652050",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "551112",
+    "NAICS2017_LABEL": "Offices of other holding companies",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "10",
+    "EMP": "151",
+    "PAYANN": "23285",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "551114",
+    "NAICS2017_LABEL": "Corporate, subsidiary, and regional managing offices",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "37",
+    "EMP": "4459",
+    "PAYANN": "628765",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "56",
+    "NAICS2017_LABEL": "Administrative and support and waste management and remediation services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "271",
+    "EMP": "10558",
+    "PAYANN": "870808",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "561",
+    "NAICS2017_LABEL": "Administrative and support services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "268",
+    "EMP": "10553",
+    "PAYANN": "870484",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "5611",
+    "NAICS2017_LABEL": "Office administrative services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "25",
+    "EMP": "2759",
+    "PAYANN": "284280",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "56111",
+    "NAICS2017_LABEL": "Office administrative services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "25",
+    "EMP": "2759",
+    "PAYANN": "284280",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "561110",
+    "NAICS2017_LABEL": "Office administrative services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "25",
+    "EMP": "2759",
+    "PAYANN": "284280",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "5612",
+    "NAICS2017_LABEL": "Facilities support services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "27",
+    "EMP": "1269",
+    "PAYANN": "113520",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "56121",
+    "NAICS2017_LABEL": "Facilities support services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "27",
+    "EMP": "1269",
+    "PAYANN": "113520",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "561210",
+    "NAICS2017_LABEL": "Facilities support services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "27",
+    "EMP": "1269",
+    "PAYANN": "113520",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "5613",
+    "NAICS2017_LABEL": "Employment services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "49",
+    "EMP": "1505",
+    "PAYANN": "120028",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "56131",
+    "NAICS2017_LABEL": "Employment placement agencies and executive search services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "7",
+    "EMP": "42",
+    "PAYANN": "3576",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "561311",
+    "NAICS2017_LABEL": "Employment placement agencies",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "7",
+    "PAYANN": "208",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "561312",
+    "NAICS2017_LABEL": "Executive search services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "35",
+    "PAYANN": "3368",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "56132",
+    "NAICS2017_LABEL": "Temporary help services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "39",
+    "EMP": "1233",
+    "PAYANN": "94777",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "561320",
+    "NAICS2017_LABEL": "Temporary help services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "39",
+    "EMP": "1233",
+    "PAYANN": "94777",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "56133",
+    "NAICS2017_LABEL": "Professional employer organizations",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "230",
+    "PAYANN": "21675",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "561330",
+    "NAICS2017_LABEL": "Professional employer organizations",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "230",
+    "PAYANN": "21675",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "5614",
+    "NAICS2017_LABEL": "Business support services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "25",
+    "EMP": "339",
+    "PAYANN": "37001",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "56141",
+    "NAICS2017_LABEL": "Document preparation services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "38",
+    "PAYANN": "2120",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "561410",
+    "NAICS2017_LABEL": "Document preparation services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "38",
+    "PAYANN": "2120",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "56143",
+    "NAICS2017_LABEL": "Business service centers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "11",
+    "EMP": "58",
+    "PAYANN": "2189",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "561431",
+    "NAICS2017_LABEL": "Private mail centers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "11",
+    "EMP": "58",
+    "PAYANN": "2189",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "56149",
+    "NAICS2017_LABEL": "Other business support services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "7",
+    "EMP": "185",
+    "PAYANN": "20685",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "561499",
+    "NAICS2017_LABEL": "All other business support services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "6",
+    "EMP": "174",
+    "PAYANN": "19586",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "5615",
+    "NAICS2017_LABEL": "Travel arrangement and reservation services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "24",
+    "EMP": "94",
+    "PAYANN": "7361",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "56151",
+    "NAICS2017_LABEL": "Travel agencies",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "12",
+    "EMP": "41",
+    "PAYANN": "3972",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "561510",
+    "NAICS2017_LABEL": "Travel agencies",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "12",
+    "EMP": "41",
+    "PAYANN": "3972",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "56159",
+    "NAICS2017_LABEL": "Other travel arrangement and reservation services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "10",
+    "EMP": "49",
+    "PAYANN": "3267",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "561599",
+    "NAICS2017_LABEL": "All other travel arrangement and reservation services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "10",
+    "EMP": "49",
+    "PAYANN": "3267",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "5616",
+    "NAICS2017_LABEL": "Investigation and security services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "33",
+    "EMP": "1821",
+    "PAYANN": "136656",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "56161",
+    "NAICS2017_LABEL": "Investigation, guard, and armored car services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "24",
+    "EMP": "1771",
+    "PAYANN": "130151",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "561612",
+    "NAICS2017_LABEL": "Security guards and patrol services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "21",
+    "EMP": "1759",
+    "PAYANN": "129558",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "56162",
+    "NAICS2017_LABEL": "Security systems services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "9",
+    "EMP": "50",
+    "PAYANN": "6505",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "561621",
+    "NAICS2017_LABEL": "Security systems services (except locksmiths)",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "5",
+    "EMP": "15",
+    "PAYANN": "3142",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "561622",
+    "NAICS2017_LABEL": "Locksmiths",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "35",
+    "PAYANN": "3363",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "5617",
+    "NAICS2017_LABEL": "Services to buildings and dwellings",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "61",
+    "EMP": "1659",
+    "PAYANN": "78239",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "56172",
+    "NAICS2017_LABEL": "Janitorial services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "30",
+    "EMP": "1402",
+    "PAYANN": "66673",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "561720",
+    "NAICS2017_LABEL": "Janitorial services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "30",
+    "EMP": "1402",
+    "PAYANN": "66673",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "56173",
+    "NAICS2017_LABEL": "Landscaping services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "26",
+    "EMP": "206",
+    "PAYANN": "9453",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "561730",
+    "NAICS2017_LABEL": "Landscaping services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "26",
+    "EMP": "206",
+    "PAYANN": "9453",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "5619",
+    "NAICS2017_LABEL": "Other support services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "24",
+    "EMP": "1107",
+    "PAYANN": "93399",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "56192",
+    "NAICS2017_LABEL": "Convention and trade show organizers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "15",
+    "EMP": "202",
+    "PAYANN": "17295",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "561920",
+    "NAICS2017_LABEL": "Convention and trade show organizers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "15",
+    "EMP": "202",
+    "PAYANN": "17295",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "56199",
+    "NAICS2017_LABEL": "All other support services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "9",
+    "EMP": "905",
+    "PAYANN": "76104",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "561990",
+    "NAICS2017_LABEL": "All other support services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "9",
+    "EMP": "905",
+    "PAYANN": "76104",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "562",
+    "NAICS2017_LABEL": "Waste management and remediation services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "5",
+    "PAYANN": "324",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "61",
+    "NAICS2017_LABEL": "Educational services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "117",
+    "EMP": "4296",
+    "PAYANN": "327284",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "611",
+    "NAICS2017_LABEL": "Educational services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "117",
+    "EMP": "4296",
+    "PAYANN": "327284",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "6111",
+    "NAICS2017_LABEL": "Elementary and secondary schools",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "13",
+    "EMP": "855",
+    "PAYANN": "51641",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "61111",
+    "NAICS2017_LABEL": "Elementary and secondary schools",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "13",
+    "EMP": "855",
+    "PAYANN": "51641",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "611110",
+    "NAICS2017_LABEL": "Elementary and secondary schools",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "13",
+    "EMP": "855",
+    "PAYANN": "51641",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "6113",
+    "NAICS2017_LABEL": "Colleges, universities, and professional schools",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "13",
+    "EMP": "943",
+    "PAYANN": "46430",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "61131",
+    "NAICS2017_LABEL": "Colleges, universities, and professional schools",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "13",
+    "EMP": "943",
+    "PAYANN": "46430",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "611310",
+    "NAICS2017_LABEL": "Colleges, universities, and professional schools",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "13",
+    "EMP": "943",
+    "PAYANN": "46430",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "6114",
+    "NAICS2017_LABEL": "Business schools and computer and management training",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "25",
+    "EMP": "972",
+    "PAYANN": "147927",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "61142",
+    "NAICS2017_LABEL": "Computer training",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "6",
+    "EMP": "48",
+    "PAYANN": "5823",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "611420",
+    "NAICS2017_LABEL": "Computer training",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "6",
+    "EMP": "48",
+    "PAYANN": "5823",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "61143",
+    "NAICS2017_LABEL": "Professional and management development training",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "19",
+    "EMP": "924",
+    "PAYANN": "142104",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "611430",
+    "NAICS2017_LABEL": "Professional and management development training",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "19",
+    "EMP": "924",
+    "PAYANN": "142104",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "6115",
+    "NAICS2017_LABEL": "Technical and trade schools",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "7",
+    "EMP": "84",
+    "PAYANN": "3899",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "61151",
+    "NAICS2017_LABEL": "Technical and trade schools",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "7",
+    "EMP": "84",
+    "PAYANN": "3899",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "611519",
+    "NAICS2017_LABEL": "Other technical and trade schools",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "6",
+    "EMP": "69",
+    "PAYANN": "3885",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "6116",
+    "NAICS2017_LABEL": "Other schools and instruction",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "38",
+    "EMP": "1062",
+    "PAYANN": "38265",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "61161",
+    "NAICS2017_LABEL": "Fine arts schools",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "11",
+    "EMP": "132",
+    "PAYANN": "3458",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "611610",
+    "NAICS2017_LABEL": "Fine arts schools",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "11",
+    "EMP": "132",
+    "PAYANN": "3458",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "61162",
+    "NAICS2017_LABEL": "Sports and recreation instruction",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "10",
+    "EMP": "127",
+    "PAYANN": "2969",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "611620",
+    "NAICS2017_LABEL": "Sports and recreation instruction",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "10",
+    "EMP": "127",
+    "PAYANN": "2969",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "61163",
+    "NAICS2017_LABEL": "Language schools",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "6",
+    "EMP": "686",
+    "PAYANN": "29275",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "611630",
+    "NAICS2017_LABEL": "Language schools",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "6",
+    "EMP": "686",
+    "PAYANN": "29275",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "61169",
+    "NAICS2017_LABEL": "All other schools and instruction",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "11",
+    "EMP": "117",
+    "PAYANN": "2563",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "611691",
+    "NAICS2017_LABEL": "Exam preparation and tutoring",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "50",
+    "PAYANN": "1160",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "611699",
+    "NAICS2017_LABEL": "All other miscellaneous schools and instruction",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "7",
+    "EMP": "67",
+    "PAYANN": "1403",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "6117",
+    "NAICS2017_LABEL": "Educational support services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "21",
+    "EMP": "380",
+    "PAYANN": "39122",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "61171",
+    "NAICS2017_LABEL": "Educational support services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "21",
+    "EMP": "380",
+    "PAYANN": "39122",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "611710",
+    "NAICS2017_LABEL": "Educational support services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "21",
+    "EMP": "380",
+    "PAYANN": "39122",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "62",
+    "NAICS2017_LABEL": "Health care and social assistance",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "586",
+    "EMP": "11551",
+    "PAYANN": "1042985",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "621",
+    "NAICS2017_LABEL": "Ambulatory health care services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "427",
+    "EMP": "4156",
+    "PAYANN": "501333",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "6211",
+    "NAICS2017_LABEL": "Offices of physicians",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "144",
+    "EMP": "2201",
+    "PAYANN": "365857",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "62111",
+    "NAICS2017_LABEL": "Offices of physicians",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "144",
+    "EMP": "2201",
+    "PAYANN": "365857",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "621111",
+    "NAICS2017_LABEL": "Offices of physicians (except mental health specialists)",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "127",
+    "EMP": "2084",
+    "PAYANN": "354073",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "621112",
+    "NAICS2017_LABEL": "Offices of physicians, mental health specialists",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "17",
+    "EMP": "117",
+    "PAYANN": "11784",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "6212",
+    "NAICS2017_LABEL": "Offices of dentists",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "110",
+    "EMP": "795",
+    "PAYANN": "58832",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "62121",
+    "NAICS2017_LABEL": "Offices of dentists",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "110",
+    "EMP": "795",
+    "PAYANN": "58832",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "621210",
+    "NAICS2017_LABEL": "Offices of dentists",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "110",
+    "EMP": "795",
+    "PAYANN": "58832",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "6213",
+    "NAICS2017_LABEL": "Offices of other health practitioners",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "109",
+    "EMP": "558",
+    "PAYANN": "30010",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "62131",
+    "NAICS2017_LABEL": "Offices of chiropractors",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "22",
+    "EMP": "74",
+    "PAYANN": "3621",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "621310",
+    "NAICS2017_LABEL": "Offices of chiropractors",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "22",
+    "EMP": "74",
+    "PAYANN": "3621",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "62132",
+    "NAICS2017_LABEL": "Offices of optometrists",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "15",
+    "EMP": "152",
+    "PAYANN": "8805",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "621320",
+    "NAICS2017_LABEL": "Offices of optometrists",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "15",
+    "EMP": "152",
+    "PAYANN": "8805",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "62133",
+    "NAICS2017_LABEL": "Offices of mental health practitioners (except physicians)",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "27",
+    "EMP": "109",
+    "PAYANN": "5683",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "621330",
+    "NAICS2017_LABEL": "Offices of mental health practitioners (except physicians)",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "27",
+    "EMP": "109",
+    "PAYANN": "5683",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "62134",
+    "NAICS2017_LABEL": "Offices of physical, occupational and speech therapists, and audiologists",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "22",
+    "EMP": "116",
+    "PAYANN": "8341",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "621340",
+    "NAICS2017_LABEL": "Offices of physical, occupational and speech therapists, and audiologists",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "22",
+    "EMP": "116",
+    "PAYANN": "8341",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "62139",
+    "NAICS2017_LABEL": "Offices of all other health practitioners",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "23",
+    "EMP": "107",
+    "PAYANN": "3560",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "621391",
+    "NAICS2017_LABEL": "Offices of podiatrists",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "5",
+    "EMP": "15",
+    "PAYANN": "533",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "621399",
+    "NAICS2017_LABEL": "Offices of all other miscellaneous health practitioners",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "18",
+    "EMP": "92",
+    "PAYANN": "3027",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "6214",
+    "NAICS2017_LABEL": "Outpatient care centers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "24",
+    "EMP": "288",
+    "PAYANN": "26012",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "62141",
+    "NAICS2017_LABEL": "Family planning centers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "134",
+    "PAYANN": "15009",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "621410",
+    "NAICS2017_LABEL": "Family planning centers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "134",
+    "PAYANN": "15009",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "62149",
+    "NAICS2017_LABEL": "Other outpatient care centers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "19",
+    "EMP": "151",
+    "PAYANN": "10809",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "621492",
+    "NAICS2017_LABEL": "Kidney dialysis centers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "6",
+    "EMP": "62",
+    "PAYANN": "4184",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "621493",
+    "NAICS2017_LABEL": "Freestanding ambulatory surgical and emergency centers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "12",
+    "PAYANN": "685",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "621498",
+    "NAICS2017_LABEL": "All other outpatient care centers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "9",
+    "EMP": "58",
+    "PAYANN": "3424",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "6215",
+    "NAICS2017_LABEL": "Medical and diagnostic laboratories",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "19",
+    "EMP": "86",
+    "PAYANN": "5210",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "62151",
+    "NAICS2017_LABEL": "Medical and diagnostic laboratories",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "19",
+    "EMP": "86",
+    "PAYANN": "5210",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "621511",
+    "NAICS2017_LABEL": "Medical laboratories",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "15",
+    "EMP": "50",
+    "PAYANN": "2626",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "621512",
+    "NAICS2017_LABEL": "Diagnostic imaging centers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "36",
+    "PAYANN": "2584",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "6216",
+    "NAICS2017_LABEL": "Home health care services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "15",
+    "EMP": "176",
+    "PAYANN": "7283",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "62161",
+    "NAICS2017_LABEL": "Home health care services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "15",
+    "EMP": "176",
+    "PAYANN": "7283",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "621610",
+    "NAICS2017_LABEL": "Home health care services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "15",
+    "EMP": "176",
+    "PAYANN": "7283",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "6219",
+    "NAICS2017_LABEL": "Other ambulatory health care services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "6",
+    "EMP": "52",
+    "PAYANN": "8129",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "62199",
+    "NAICS2017_LABEL": "All other ambulatory health care services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "6",
+    "EMP": "52",
+    "PAYANN": "8129",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "621999",
+    "NAICS2017_LABEL": "All other miscellaneous ambulatory health care services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "6",
+    "EMP": "52",
+    "PAYANN": "8129",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "623",
+    "NAICS2017_LABEL": "Nursing and residential care facilities",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "33",
+    "EMP": "1332",
+    "PAYANN": "65617",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "6231",
+    "NAICS2017_LABEL": "Nursing care facilities (skilled nursing facilities)",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "6",
+    "EMP": "540",
+    "PAYANN": "29300",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "62311",
+    "NAICS2017_LABEL": "Nursing care facilities (skilled nursing facilities)",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "6",
+    "EMP": "540",
+    "PAYANN": "29300",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "623110",
+    "NAICS2017_LABEL": "Nursing care facilities (skilled nursing facilities)",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "6",
+    "EMP": "540",
+    "PAYANN": "29300",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "6232",
+    "NAICS2017_LABEL": "Residential intellectual and developmental disability, mental health, and substance abuse facilities",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "19",
+    "EMP": "205",
+    "PAYANN": "10592",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "62321",
+    "NAICS2017_LABEL": "Residential intellectual and developmental disability facilities",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "14",
+    "EMP": "84",
+    "PAYANN": "5166",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "623210",
+    "NAICS2017_LABEL": "Residential intellectual and developmental disability facilities",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "14",
+    "EMP": "84",
+    "PAYANN": "5166",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "62322",
+    "NAICS2017_LABEL": "Residential mental health and substance abuse facilities",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "5",
+    "EMP": "121",
+    "PAYANN": "5426",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "623220",
+    "NAICS2017_LABEL": "Residential mental health and substance abuse facilities",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "5",
+    "EMP": "121",
+    "PAYANN": "5426",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "6233",
+    "NAICS2017_LABEL": "Continuing care retirement communities and assisted living facilities for the elderly",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "6",
+    "EMP": "583",
+    "PAYANN": "25556",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "62331",
+    "NAICS2017_LABEL": "Continuing care retirement communities and assisted living facilities for the elderly",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "6",
+    "EMP": "583",
+    "PAYANN": "25556",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "623312",
+    "NAICS2017_LABEL": "Assisted living facilities for the elderly",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "5",
+    "EMP": "312",
+    "PAYANN": "14259",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "624",
+    "NAICS2017_LABEL": "Social assistance",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "124",
+    "EMP": "2405",
+    "PAYANN": "138266",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "6241",
+    "NAICS2017_LABEL": "Individual and family services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "39",
+    "EMP": "881",
+    "PAYANN": "55181",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "62411",
+    "NAICS2017_LABEL": "Child and youth services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "10",
+    "EMP": "112",
+    "PAYANN": "2603",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "624110",
+    "NAICS2017_LABEL": "Child and youth services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "10",
+    "EMP": "112",
+    "PAYANN": "2603",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "62412",
+    "NAICS2017_LABEL": "Services for the elderly and persons with disabilities",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "11",
+    "EMP": "392",
+    "PAYANN": "23488",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "624120",
+    "NAICS2017_LABEL": "Services for the elderly and persons with disabilities",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "11",
+    "EMP": "392",
+    "PAYANN": "23488",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "62419",
+    "NAICS2017_LABEL": "Other individual and family services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "18",
+    "EMP": "377",
+    "PAYANN": "29090",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "624190",
+    "NAICS2017_LABEL": "Other individual and family services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "18",
+    "EMP": "377",
+    "PAYANN": "29090",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "6242",
+    "NAICS2017_LABEL": "Community food and housing, and emergency and other relief services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "11",
+    "EMP": "581",
+    "PAYANN": "48877",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "62422",
+    "NAICS2017_LABEL": "Community housing services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "6",
+    "EMP": "185",
+    "PAYANN": "10828",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "624221",
+    "NAICS2017_LABEL": "Temporary shelters",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "151",
+    "PAYANN": "7396",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "624229",
+    "NAICS2017_LABEL": "Other community housing services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "34",
+    "PAYANN": "3432",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "62423",
+    "NAICS2017_LABEL": "Emergency and other relief services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "349",
+    "PAYANN": "32374",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "624230",
+    "NAICS2017_LABEL": "Emergency and other relief services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "349",
+    "PAYANN": "32374",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "6244",
+    "NAICS2017_LABEL": "Child day care services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "73",
+    "EMP": "908",
+    "PAYANN": "32976",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "62441",
+    "NAICS2017_LABEL": "Child day care services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "73",
+    "EMP": "908",
+    "PAYANN": "32976",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "624410",
+    "NAICS2017_LABEL": "Child day care services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "73",
+    "EMP": "908",
+    "PAYANN": "32976",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "71",
+    "NAICS2017_LABEL": "Arts, entertainment, and recreation",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "132",
+    "EMP": "2867",
+    "PAYANN": "86047",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "711",
+    "NAICS2017_LABEL": "Performing arts, spectator sports, and related industries",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "33",
+    "EMP": "510",
+    "PAYANN": "18733",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "7111",
+    "NAICS2017_LABEL": "Performing arts companies",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "8",
+    "EMP": "374",
+    "PAYANN": "8122",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "71111",
+    "NAICS2017_LABEL": "Theater companies and dinner theaters",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "360",
+    "PAYANN": "7994",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "711110",
+    "NAICS2017_LABEL": "Theater companies and dinner theaters",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "360",
+    "PAYANN": "7994",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "71113",
+    "NAICS2017_LABEL": "Musical groups and artists",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "5",
+    "PAYANN": "61",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "711130",
+    "NAICS2017_LABEL": "Musical groups and artists",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "5",
+    "PAYANN": "61",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "7113",
+    "NAICS2017_LABEL": "Promoters of performing arts, sports, and similar events",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "6",
+    "EMP": "18",
+    "PAYANN": "1024",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "71132",
+    "NAICS2017_LABEL": "Promoters of performing arts, sports, and similar events without facilities",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "10",
+    "PAYANN": "428",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "711320",
+    "NAICS2017_LABEL": "Promoters of performing arts, sports, and similar events without facilities",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "10",
+    "PAYANN": "428",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "7115",
+    "NAICS2017_LABEL": "Independent artists, writers, and performers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "16",
+    "EMP": "7",
+    "PAYANN": "981",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "71151",
+    "NAICS2017_LABEL": "Independent artists, writers, and performers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "16",
+    "EMP": "7",
+    "PAYANN": "981",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "711510",
+    "NAICS2017_LABEL": "Independent artists, writers, and performers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "16",
+    "EMP": "7",
+    "PAYANN": "981",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "712",
+    "NAICS2017_LABEL": "Museums, historical sites, and similar institutions",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "13",
+    "PAYANN": "967",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "7121",
+    "NAICS2017_LABEL": "Museums, historical sites, and similar institutions",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "13",
+    "PAYANN": "967",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "71211",
+    "NAICS2017_LABEL": "Museums",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "13",
+    "PAYANN": "967",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "712110",
+    "NAICS2017_LABEL": "Museums",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "13",
+    "PAYANN": "967",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "713",
+    "NAICS2017_LABEL": "Amusement, gambling, and recreation industries",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "95",
+    "EMP": "2344",
+    "PAYANN": "66347",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "7139",
+    "NAICS2017_LABEL": "Other amusement and recreation industries",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "93",
+    "EMP": "2329",
+    "PAYANN": "66016",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "71394",
+    "NAICS2017_LABEL": "Fitness and recreational sports centers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "74",
+    "EMP": "1597",
+    "PAYANN": "32524",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "713940",
+    "NAICS2017_LABEL": "Fitness and recreational sports centers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "74",
+    "EMP": "1597",
+    "PAYANN": "32524",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "71399",
+    "NAICS2017_LABEL": "All other amusement and recreation industries",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "14",
+    "EMP": "165",
+    "PAYANN": "6248",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "713990",
+    "NAICS2017_LABEL": "All other amusement and recreation industries",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "14",
+    "EMP": "165",
+    "PAYANN": "6248",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "72",
+    "NAICS2017_LABEL": "Accommodation and food services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "657",
+    "EMP": "16712",
+    "PAYANN": "594152",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "721",
+    "NAICS2017_LABEL": "Accommodation",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "37",
+    "EMP": "2886",
+    "PAYANN": "168849",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "7211",
+    "NAICS2017_LABEL": "Traveler accommodation",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "37",
+    "EMP": "2886",
+    "PAYANN": "168849",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "72111",
+    "NAICS2017_LABEL": "Hotels (except casino hotels) and motels",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "37",
+    "EMP": "2886",
+    "PAYANN": "168849",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "721110",
+    "NAICS2017_LABEL": "Hotels (except casino hotels) and motels",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "37",
+    "EMP": "2886",
+    "PAYANN": "168849",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "722",
+    "NAICS2017_LABEL": "Food services and drinking places",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "620",
+    "EMP": "13826",
+    "PAYANN": "425303",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "7223",
+    "NAICS2017_LABEL": "Special food services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "65",
+    "EMP": "1861",
+    "PAYANN": "73015",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "72231",
+    "NAICS2017_LABEL": "Food service contractors",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "50",
+    "EMP": "844",
+    "PAYANN": "32756",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "722310",
+    "NAICS2017_LABEL": "Food service contractors",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "50",
+    "EMP": "844",
+    "PAYANN": "32756",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "72232",
+    "NAICS2017_LABEL": "Caterers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "10",
+    "EMP": "977",
+    "PAYANN": "38457",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "722320",
+    "NAICS2017_LABEL": "Caterers",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "10",
+    "EMP": "977",
+    "PAYANN": "38457",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "72233",
+    "NAICS2017_LABEL": "Mobile food services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "5",
+    "EMP": "40",
+    "PAYANN": "1802",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "722330",
+    "NAICS2017_LABEL": "Mobile food services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "5",
+    "EMP": "40",
+    "PAYANN": "1802",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "7224",
+    "NAICS2017_LABEL": "Drinking places (alcoholic beverages)",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "14",
+    "EMP": "431",
+    "PAYANN": "16801",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "72241",
+    "NAICS2017_LABEL": "Drinking places (alcoholic beverages)",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "14",
+    "EMP": "431",
+    "PAYANN": "16801",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "722410",
+    "NAICS2017_LABEL": "Drinking places (alcoholic beverages)",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "14",
+    "EMP": "431",
+    "PAYANN": "16801",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "7225",
+    "NAICS2017_LABEL": "Restaurants and other eating places",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "541",
+    "EMP": "11534",
+    "PAYANN": "335487",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "72251",
+    "NAICS2017_LABEL": "Restaurants and other eating places",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "541",
+    "EMP": "11534",
+    "PAYANN": "335487",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "722511",
+    "NAICS2017_LABEL": "Full-service restaurants",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "247",
+    "EMP": "6601",
+    "PAYANN": "214589",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "722513",
+    "NAICS2017_LABEL": "Limited-service restaurants",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "225",
+    "EMP": "3910",
+    "PAYANN": "98615",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "722514",
+    "NAICS2017_LABEL": "Cafeterias, grill buffets, and buffets",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "4",
+    "EMP": "21",
+    "PAYANN": "515",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "722515",
+    "NAICS2017_LABEL": "Snack and nonalcoholic beverage bars",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "65",
+    "EMP": "1002",
+    "PAYANN": "21768",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "81",
+    "NAICS2017_LABEL": "Other services (except public administration)",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "823",
+    "EMP": "17021",
+    "PAYANN": "1560735",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "811",
+    "NAICS2017_LABEL": "Repair and maintenance",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "63",
+    "EMP": "585",
+    "PAYANN": "90095",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "8111",
+    "NAICS2017_LABEL": "Automotive repair and maintenance",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "45",
+    "EMP": "236",
+    "PAYANN": "15755",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "81111",
+    "NAICS2017_LABEL": "Automotive mechanical and electrical repair and maintenance",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "30",
+    "EMP": "136",
+    "PAYANN": "8720",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "811111",
+    "NAICS2017_LABEL": "General automotive repair",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "30",
+    "EMP": "136",
+    "PAYANN": "8720",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "81112",
+    "NAICS2017_LABEL": "Automotive body, paint, interior, and glass repair",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "6",
+    "EMP": "67",
+    "PAYANN": "5195",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "811121",
+    "NAICS2017_LABEL": "Automotive body, paint, and interior repair and maintenance",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "5",
+    "EMP": "61",
+    "PAYANN": "4782",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "81119",
+    "NAICS2017_LABEL": "Other automotive repair and maintenance",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "9",
+    "EMP": "33",
+    "PAYANN": "1840",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "811192",
+    "NAICS2017_LABEL": "Car washes",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "5",
+    "EMP": "24",
+    "PAYANN": "1174",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "811198",
+    "NAICS2017_LABEL": "All other automotive repair and maintenance",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "4",
+    "PAYANN": "340",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "8112",
+    "NAICS2017_LABEL": "Electronic and precision equipment repair and maintenance",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "7",
+    "EMP": "316",
+    "PAYANN": "72799",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "81121",
+    "NAICS2017_LABEL": "Electronic and precision equipment repair and maintenance",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "7",
+    "EMP": "316",
+    "PAYANN": "72799",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "811219",
+    "NAICS2017_LABEL": "Other electronic and precision equipment repair and maintenance",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "293",
+    "PAYANN": "70823",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "8114",
+    "NAICS2017_LABEL": "Personal and household goods repair and maintenance",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "11",
+    "EMP": "33",
+    "PAYANN": "1541",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "81149",
+    "NAICS2017_LABEL": "Other personal and household goods repair and maintenance",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "7",
+    "EMP": "14",
+    "PAYANN": "478",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "811490",
+    "NAICS2017_LABEL": "Other personal and household goods repair and maintenance",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "7",
+    "EMP": "14",
+    "PAYANN": "478",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "812",
+    "NAICS2017_LABEL": "Personal and laundry services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "312",
+    "EMP": "2645",
+    "PAYANN": "88093",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "8121",
+    "NAICS2017_LABEL": "Personal care services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "156",
+    "EMP": "1046",
+    "PAYANN": "39412",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "81211",
+    "NAICS2017_LABEL": "Hair, nail, and skin care services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "123",
+    "EMP": "801",
+    "PAYANN": "28364",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "812111",
+    "NAICS2017_LABEL": "Barber shops",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "15",
+    "EMP": "97",
+    "PAYANN": "4013",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "812112",
+    "NAICS2017_LABEL": "Beauty salons",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "76",
+    "EMP": "480",
+    "PAYANN": "17653",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "812113",
+    "NAICS2017_LABEL": "Nail salons",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "32",
+    "EMP": "224",
+    "PAYANN": "6698",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "81219",
+    "NAICS2017_LABEL": "Other personal care services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "33",
+    "EMP": "245",
+    "PAYANN": "11048",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "812199",
+    "NAICS2017_LABEL": "Other personal care services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "33",
+    "EMP": "245",
+    "PAYANN": "11048",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "8122",
+    "NAICS2017_LABEL": "Death care services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "38",
+    "PAYANN": "2462",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "8123",
+    "NAICS2017_LABEL": "Drycleaning and laundry services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "31",
+    "EMP": "109",
+    "PAYANN": "3775",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "81231",
+    "NAICS2017_LABEL": "Coin-operated laundries and drycleaners",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "20",
+    "PAYANN": "474",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "812310",
+    "NAICS2017_LABEL": "Coin-operated laundries and drycleaners",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "20",
+    "PAYANN": "474",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "81232",
+    "NAICS2017_LABEL": "Drycleaning and laundry services (except coin-operated)",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "28",
+    "EMP": "89",
+    "PAYANN": "3301",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "812320",
+    "NAICS2017_LABEL": "Drycleaning and laundry services (except coin-operated)",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "28",
+    "EMP": "89",
+    "PAYANN": "3301",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "8129",
+    "NAICS2017_LABEL": "Other personal services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "122",
+    "EMP": "1452",
+    "PAYANN": "42444",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "81291",
+    "NAICS2017_LABEL": "Pet care (except veterinary) services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "19",
+    "EMP": "279",
+    "PAYANN": "6368",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "812910",
+    "NAICS2017_LABEL": "Pet care (except veterinary) services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "19",
+    "EMP": "279",
+    "PAYANN": "6368",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "81293",
+    "NAICS2017_LABEL": "Parking lots and garages",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "74",
+    "EMP": "590",
+    "PAYANN": "17750",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "812930",
+    "NAICS2017_LABEL": "Parking lots and garages",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "74",
+    "EMP": "590",
+    "PAYANN": "17750",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "81299",
+    "NAICS2017_LABEL": "All other personal services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "28",
+    "EMP": "580",
+    "PAYANN": "18288",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "812990",
+    "NAICS2017_LABEL": "All other personal services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "28",
+    "EMP": "580",
+    "PAYANN": "18288",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "813",
+    "NAICS2017_LABEL": "Religious, grantmaking, civic, professional, and similar organizations",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "448",
+    "EMP": "13791",
+    "PAYANN": "1382547",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "8131",
+    "NAICS2017_LABEL": "Religious organizations",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "99",
+    "EMP": "1144",
+    "PAYANN": "47920",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "81311",
+    "NAICS2017_LABEL": "Religious organizations",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "99",
+    "EMP": "1144",
+    "PAYANN": "47920",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "813110",
+    "NAICS2017_LABEL": "Religious organizations",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "99",
+    "EMP": "1144",
+    "PAYANN": "47920",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "8132",
+    "NAICS2017_LABEL": "Grantmaking and giving services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "59",
+    "EMP": "1575",
+    "PAYANN": "152605",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "81321",
+    "NAICS2017_LABEL": "Grantmaking and giving services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "59",
+    "EMP": "1575",
+    "PAYANN": "152605",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "813211",
+    "NAICS2017_LABEL": "Grantmaking foundations",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "35",
+    "EMP": "667",
+    "PAYANN": "74310",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "813212",
+    "NAICS2017_LABEL": "Voluntary health organizations",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "11",
+    "EMP": "598",
+    "PAYANN": "49253",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "813219",
+    "NAICS2017_LABEL": "Other grantmaking and giving services",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "13",
+    "EMP": "310",
+    "PAYANN": "29042",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "8133",
+    "NAICS2017_LABEL": "Social advocacy organizations",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "74",
+    "EMP": "3922",
+    "PAYANN": "411790",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "81331",
+    "NAICS2017_LABEL": "Social advocacy organizations",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "74",
+    "EMP": "3922",
+    "PAYANN": "411790",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "813311",
+    "NAICS2017_LABEL": "Human rights organizations",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "15",
+    "EMP": "957",
+    "PAYANN": "87553",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "813312",
+    "NAICS2017_LABEL": "Environment, conservation and wildlife organizations",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "23",
+    "EMP": "1785",
+    "PAYANN": "204673",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "813319",
+    "NAICS2017_LABEL": "Other social advocacy organizations",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "36",
+    "EMP": "1180",
+    "PAYANN": "119564",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "8134",
+    "NAICS2017_LABEL": "Civic and social organizations",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "22",
+    "EMP": "212",
+    "PAYANN": "22389",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "81341",
+    "NAICS2017_LABEL": "Civic and social organizations",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "22",
+    "EMP": "212",
+    "PAYANN": "22389",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "813410",
+    "NAICS2017_LABEL": "Civic and social organizations",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "22",
+    "EMP": "212",
+    "PAYANN": "22389",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "8139",
+    "NAICS2017_LABEL": "Business, professional, labor, political, and similar organizations",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "194",
+    "EMP": "6938",
+    "PAYANN": "747843",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "81391",
+    "NAICS2017_LABEL": "Business associations",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "97",
+    "EMP": "5323",
+    "PAYANN": "598210",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "813910",
+    "NAICS2017_LABEL": "Business associations",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "97",
+    "EMP": "5323",
+    "PAYANN": "598210",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "81392",
+    "NAICS2017_LABEL": "Professional organizations",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "46",
+    "EMP": "1304",
+    "PAYANN": "129588",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "813920",
+    "NAICS2017_LABEL": "Professional organizations",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "46",
+    "EMP": "1304",
+    "PAYANN": "129588",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "81393",
+    "NAICS2017_LABEL": "Labor unions and similar labor organizations",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "32",
+    "PAYANN": "1287",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "813930",
+    "NAICS2017_LABEL": "Labor unions and similar labor organizations",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "3",
+    "EMP": "32",
+    "PAYANN": "1287",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "81394",
+    "NAICS2017_LABEL": "Political organizations",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "13",
+    "EMP": "79",
+    "PAYANN": "7601",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "813940",
+    "NAICS2017_LABEL": "Political organizations",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "13",
+    "EMP": "79",
+    "PAYANN": "7601",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "81399",
+    "NAICS2017_LABEL": "Other similar organizations (except business, professional, labor, and political organizations)",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "35",
+    "EMP": "200",
+    "PAYANN": "11157",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "813990",
+    "NAICS2017_LABEL": "Other similar organizations (except business, professional, labor, and political organizations)",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "35",
+    "EMP": "200",
+    "PAYANN": "11157",
+    "state": "51",
+    "county": "013"
+  },
+  {
+    "NAICS2017": "99",
+    "NAICS2017_LABEL": "Industries not classified",
+    "NAME": "Arlington County, Virginia",
+    "ESTAB": "12",
+    "EMP": "7",
+    "PAYANN": "645",
+    "state": "51",
+    "county": "013"
+  }
+]
