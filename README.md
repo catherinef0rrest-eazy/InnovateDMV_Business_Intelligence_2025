@@ -2,14 +2,14 @@
 
 This repository contains comprehensive market analysis of the Washington DC metropolitan area, focusing on County Business Patterns (CBP) and Quarterly Workforce Indicators (QWI) data from the US Census Bureau.
 
-## 📊 Analysis Overview
+##  Analysis Overview
 
 ### Target Counties Analyzed
 - **Virginia:** Arlington County, Fairfax County, Loudoun County, Prince William County
 - **Maryland:** Montgomery County, Howard County  
 - **District of Columbia:** Washington, DC
 
-## 🏢 County Business Patterns (CBP) Analysis
+##  County Business Patterns (CBP) Analysis
 
 ### Data Sources
 - **Census API:** County Business Patterns (CBP) data
@@ -38,7 +38,7 @@ This repository contains comprehensive market analysis of the Washington DC metr
 - County comparisons for each sector
 - Growth trends in technology sectors
 
-## 📈 Quarterly Workforce Indicators (QWI) Analysis
+##  Quarterly Workforce Indicators (QWI) Analysis
 
 ### Data Sources
 - **Census API:** Quarterly Workforce Indicators (QWI)
@@ -70,7 +70,7 @@ This repository contains comprehensive market analysis of the Washington DC metr
 - **Fairfax County** had the largest absolute job growth (+34,734 jobs)
 - All counties showed positive employment growth over the 7-quarter period
 
-## 📁 File Structure
+##  File Structure
 
 ```
 Market Analysis Files/
@@ -101,7 +101,7 @@ Market Analysis Files/
 └── qwi_visualization_analysis_fixed.py # Main visualization script
 ```
 
-## 🛠️ Scripts and Tools
+## ️ Scripts and Tools
 
 ### Data Processing Scripts
 - **convert_to_proper_json.py:** Converts raw JSON responses to proper key-value format
@@ -117,7 +117,7 @@ The main visualization script creates three interactive charts:
 2. **Growth Rates Chart** - Bar chart comparing growth rates across counties  
 3. **Quarterly Changes Heatmap** - Color-coded matrix showing quarterly employment changes
 
-## 📋 Data Sources and APIs
+##  Data Sources and APIs
 
 ### Census Bureau APIs Used
 1. **County Business Patterns (CBP) API**
@@ -131,7 +131,7 @@ The main visualization script creates three interactive charts:
    - Geographic level: County
    - Time periods: 2023-Q1 to 2024-Q3
 
-## 🎯 Key Business Insights
+##  Key Business Insights
 
 ### Regional Growth Patterns
 - **Northern Virginia** is experiencing the strongest employment growth
@@ -148,7 +148,7 @@ The main visualization script creates three interactive charts:
 - **Fairfax County** offers the largest market size with strong growth
 - Technology and professional services sectors show consistent demand
 
-## 🔧 Technical Requirements
+##  Technical Requirements
 
 ### Python Dependencies
 ```bash
@@ -164,14 +164,14 @@ python qwi_visualization_analysis_fixed.py
 python cbp_analysis.py
 ```
 
-## 📊 Data Quality Notes
+##  Data Quality Notes
 
 - All data sourced from official US Census Bureau APIs
 - Data converted to proper JSON format for analysis
 - Missing data points handled gracefully in analysis scripts
 - Growth calculations based on consistent time periods
 
-## 🚀 Future Analysis Opportunities
+##  Future Analysis Opportunities
 
 ### Potential Extensions
 1. **Longitudinal Analysis:** Extend QWI analysis to include more historical data

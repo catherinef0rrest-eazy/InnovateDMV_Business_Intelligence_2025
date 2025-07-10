@@ -26,7 +26,7 @@ def load_county_data(file_2023, file_2024, county_name):
     data = []
     for filename in [file_2023, file_2024]:
         if not os.path.exists(filename):
-            print(f"❌ File not found: {filename}")
+            print(f" File not found: {filename}")
             continue
         with open(filename, 'r') as file:
             records = json.load(file)
@@ -210,24 +210,24 @@ def main():
         data = load_county_data(file_2023, file_2024, county_name)
         if data:
             all_county_data[county_name] = data
-            print(f"✅ Loaded {len(data)} records for {county_name}")
+            print(f" Loaded {len(data)} records for {county_name}")
         else:
-            print(f"❌ Failed to load data for {county_name}")
+            print(f" Failed to load data for {county_name}")
     
-    print(f"\n📊 Loaded data for {len(all_county_data)} counties")
+    print(f"\n Loaded data for {len(all_county_data)} counties")
     
     # Create visualizations
-    print("\n📈 Creating employment trends chart...")
+    print("\n Creating employment trends chart...")
     create_employment_chart(all_county_data)
     
-    print("\n📊 Creating growth rates chart...")
+    print("\n Creating growth rates chart...")
     create_growth_rate_chart(all_county_data)
     
-    print("\n🔥 Creating quarterly changes heatmap...")
+    print("\n Creating quarterly changes heatmap...")
     create_quarterly_change_chart(all_county_data)
     
     # Analyze growth rates
-    print("\n📋 Analyzing growth rates...")
+    print("\n Analyzing growth rates...")
     analyze_growth_rates(all_county_data)
     
     print("\n" + "=" * 80)
