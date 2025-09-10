@@ -1,0 +1,992 @@
+[
+  [
+    "ESTAB",
+    "EMP",
+    "PAYANN",
+    "NAICS2017",
+    "NAICS2017_LABEL",
+    "state",
+    "county"
+  ],
+  [
+    "200",
+    "1042",
+    "43483",
+    "00",
+    "Total for all sectors",
+    "51",
+    "157"
+  ],
+  [
+    "4",
+    "7",
+    "216",
+    "11",
+    "Agriculture, forestry, fishing and hunting",
+    "51",
+    "157"
+  ],
+  [
+    "4",
+    "7",
+    "216",
+    "115",
+    "Support activities for agriculture and forestry",
+    "51",
+    "157"
+  ],
+  [
+    "3",
+    "7",
+    "189",
+    "1152",
+    "Support activities for animal production",
+    "51",
+    "157"
+  ],
+  [
+    "3",
+    "7",
+    "189",
+    "11521",
+    "Support activities for animal production",
+    "51",
+    "157"
+  ],
+  [
+    "3",
+    "7",
+    "189",
+    "115210",
+    "Support activities for animal production",
+    "51",
+    "157"
+  ],
+  [
+    "37",
+    "116",
+    "5091",
+    "23",
+    "Construction",
+    "51",
+    "157"
+  ],
+  [
+    "16",
+    "44",
+    "1909",
+    "236",
+    "Construction of buildings",
+    "51",
+    "157"
+  ],
+  [
+    "14",
+    "35",
+    "1349",
+    "2361",
+    "Residential building construction",
+    "51",
+    "157"
+  ],
+  [
+    "14",
+    "35",
+    "1349",
+    "23611",
+    "Residential building construction",
+    "51",
+    "157"
+  ],
+  [
+    "5",
+    "8",
+    "456",
+    "236115",
+    "New single-family housing construction (except for-sale builders)",
+    "51",
+    "157"
+  ],
+  [
+    "7",
+    "27",
+    "885",
+    "236118",
+    "Residential remodelers",
+    "51",
+    "157"
+  ],
+  [
+    "21",
+    "72",
+    "3182",
+    "238",
+    "Specialty trade contractors",
+    "51",
+    "157"
+  ],
+  [
+    "12",
+    "50",
+    "2288",
+    "2382",
+    "Building equipment contractors",
+    "51",
+    "157"
+  ],
+  [
+    "8",
+    "44",
+    "2027",
+    "23821",
+    "Electrical contractors and other wiring installation contractors",
+    "51",
+    "157"
+  ],
+  [
+    "8",
+    "44",
+    "2027",
+    "238210",
+    "Electrical contractors and other wiring installation contractors",
+    "51",
+    "157"
+  ],
+  [
+    "4",
+    "6",
+    "261",
+    "23822",
+    "Plumbing, heating, and air-conditioning contractors",
+    "51",
+    "157"
+  ],
+  [
+    "4",
+    "6",
+    "261",
+    "238220",
+    "Plumbing, heating, and air-conditioning contractors",
+    "51",
+    "157"
+  ],
+  [
+    "5",
+    "7",
+    "217",
+    "2389",
+    "Other specialty trade contractors",
+    "51",
+    "157"
+  ],
+  [
+    "4",
+    "4",
+    "150",
+    "23891",
+    "Site preparation contractors",
+    "51",
+    "157"
+  ],
+  [
+    "4",
+    "4",
+    "150",
+    "238910",
+    "Site preparation contractors",
+    "51",
+    "157"
+  ],
+  [
+    "13",
+    "74",
+    "2382",
+    "31-33",
+    "Manufacturing",
+    "51",
+    "157"
+  ],
+  [
+    "7",
+    "54",
+    "1837",
+    "312",
+    "Beverage and tobacco product manufacturing",
+    "51",
+    "157"
+  ],
+  [
+    "7",
+    "54",
+    "1837",
+    "3121",
+    "Beverage manufacturing",
+    "51",
+    "157"
+  ],
+  [
+    "5",
+    "47",
+    "1620",
+    "31213",
+    "Wineries",
+    "51",
+    "157"
+  ],
+  [
+    "5",
+    "47",
+    "1620",
+    "312130",
+    "Wineries",
+    "51",
+    "157"
+  ],
+  [
+    "5",
+    "17",
+    "1023",
+    "42",
+    "Wholesale trade",
+    "51",
+    "157"
+  ],
+  [
+    "3",
+    "13",
+    "454",
+    "423",
+    "Merchant wholesalers, durable goods",
+    "51",
+    "157"
+  ],
+  [
+    "19",
+    "139",
+    "4977",
+    "44-45",
+    "Retail trade",
+    "51",
+    "157"
+  ],
+  [
+    "3",
+    "36",
+    "1037",
+    "445",
+    "Food and beverage stores",
+    "51",
+    "157"
+  ],
+  [
+    "4",
+    "30",
+    "898",
+    "447",
+    "Gasoline stations",
+    "51",
+    "157"
+  ],
+  [
+    "4",
+    "30",
+    "898",
+    "4471",
+    "Gasoline stations",
+    "51",
+    "157"
+  ],
+  [
+    "4",
+    "30",
+    "898",
+    "44711",
+    "Gasoline stations with convenience stores",
+    "51",
+    "157"
+  ],
+  [
+    "4",
+    "30",
+    "898",
+    "447110",
+    "Gasoline stations with convenience stores",
+    "51",
+    "157"
+  ],
+  [
+    "4",
+    "12",
+    "327",
+    "453",
+    "Miscellaneous store retailers",
+    "51",
+    "157"
+  ],
+  [
+    "3",
+    "9",
+    "303",
+    "4539",
+    "Other miscellaneous store retailers",
+    "51",
+    "157"
+  ],
+  [
+    "3",
+    "9",
+    "303",
+    "45392",
+    "Art dealers",
+    "51",
+    "157"
+  ],
+  [
+    "3",
+    "9",
+    "303",
+    "453920",
+    "Art dealers",
+    "51",
+    "157"
+  ],
+  [
+    "7",
+    "37",
+    "3324",
+    "51",
+    "Information",
+    "51",
+    "157"
+  ],
+  [
+    "3",
+    "31",
+    "2997",
+    "511",
+    "Publishing industries (except internet)",
+    "51",
+    "157"
+  ],
+  [
+    "3",
+    "3",
+    "114",
+    "519",
+    "Other information services",
+    "51",
+    "157"
+  ],
+  [
+    "3",
+    "3",
+    "114",
+    "5191",
+    "Other information services",
+    "51",
+    "157"
+  ],
+  [
+    "4",
+    "5",
+    "336",
+    "531210",
+    "Offices of real estate agents and brokers",
+    "51",
+    "157"
+  ],
+  [
+    "29",
+    "66",
+    "5177",
+    "54",
+    "Professional, scientific, and technical services",
+    "51",
+    "157"
+  ],
+  [
+    "29",
+    "66",
+    "5177",
+    "541",
+    "Professional, scientific, and technical services",
+    "51",
+    "157"
+  ],
+  [
+    "3",
+    "7",
+    "1483",
+    "5411",
+    "Legal services",
+    "51",
+    "157"
+  ],
+  [
+    "3",
+    "7",
+    "1483",
+    "54111",
+    "Offices of lawyers",
+    "51",
+    "157"
+  ],
+  [
+    "3",
+    "7",
+    "1483",
+    "541110",
+    "Offices of lawyers",
+    "51",
+    "157"
+  ],
+  [
+    "4",
+    "6",
+    "289",
+    "5413",
+    "Architectural, engineering, and related services",
+    "51",
+    "157"
+  ],
+  [
+    "3",
+    "3",
+    "361",
+    "5415",
+    "Computer systems design and related services",
+    "51",
+    "157"
+  ],
+  [
+    "3",
+    "3",
+    "361",
+    "54151",
+    "Computer systems design and related services",
+    "51",
+    "157"
+  ],
+  [
+    "7",
+    "9",
+    "395",
+    "5416",
+    "Management, scientific, and technical consulting services",
+    "51",
+    "157"
+  ],
+  [
+    "6",
+    "9",
+    "287",
+    "54161",
+    "Management consulting services",
+    "51",
+    "157"
+  ],
+  [
+    "3",
+    "5",
+    "213",
+    "541611",
+    "Administrative management and general management consulting services",
+    "51",
+    "157"
+  ],
+  [
+    "8",
+    "36",
+    "2298",
+    "5419",
+    "Other professional, scientific, and technical services",
+    "51",
+    "157"
+  ],
+  [
+    "9",
+    "55",
+    "1888",
+    "56",
+    "Administrative and support and waste management and remediation services",
+    "51",
+    "157"
+  ],
+  [
+    "3",
+    "8",
+    "391",
+    "52",
+    "Finance and insurance",
+    "51",
+    "157"
+  ],
+  [
+    "8",
+    "14",
+    "746",
+    "53",
+    "Real estate and rental and leasing",
+    "51",
+    "157"
+  ],
+  [
+    "8",
+    "14",
+    "746",
+    "531",
+    "Real estate",
+    "51",
+    "157"
+  ],
+  [
+    "4",
+    "5",
+    "336",
+    "5312",
+    "Offices of real estate agents and brokers",
+    "51",
+    "157"
+  ],
+  [
+    "4",
+    "5",
+    "336",
+    "53121",
+    "Offices of real estate agents and brokers",
+    "51",
+    "157"
+  ],
+  [
+    "6",
+    "36",
+    "2225",
+    "54194",
+    "Veterinary services",
+    "51",
+    "157"
+  ],
+  [
+    "6",
+    "36",
+    "2225",
+    "541940",
+    "Veterinary services",
+    "51",
+    "157"
+  ],
+  [
+    "9",
+    "55",
+    "1888",
+    "561",
+    "Administrative and support services",
+    "51",
+    "157"
+  ],
+  [
+    "8",
+    "45",
+    "1428",
+    "5617",
+    "Services to buildings and dwellings",
+    "51",
+    "157"
+  ],
+  [
+    "7",
+    "44",
+    "1368",
+    "56173",
+    "Landscaping services",
+    "51",
+    "157"
+  ],
+  [
+    "7",
+    "44",
+    "1368",
+    "561730",
+    "Landscaping services",
+    "51",
+    "157"
+  ],
+  [
+    "4",
+    "54",
+    "1878",
+    "61",
+    "Educational services",
+    "51",
+    "157"
+  ],
+  [
+    "4",
+    "54",
+    "1878",
+    "611",
+    "Educational services",
+    "51",
+    "157"
+  ],
+  [
+    "3",
+    "50",
+    "1691",
+    "6111",
+    "Elementary and secondary schools",
+    "51",
+    "157"
+  ],
+  [
+    "3",
+    "50",
+    "1691",
+    "61111",
+    "Elementary and secondary schools",
+    "51",
+    "157"
+  ],
+  [
+    "3",
+    "50",
+    "1691",
+    "611110",
+    "Elementary and secondary schools",
+    "51",
+    "157"
+  ],
+  [
+    "11",
+    "107",
+    "2907",
+    "62",
+    "Health care and social assistance",
+    "51",
+    "157"
+  ],
+  [
+    "5",
+    "36",
+    "1059",
+    "621",
+    "Ambulatory health care services",
+    "51",
+    "157"
+  ],
+  [
+    "3",
+    "29",
+    "830",
+    "6213",
+    "Offices of other health practitioners",
+    "51",
+    "157"
+  ],
+  [
+    "6",
+    "71",
+    "1848",
+    "624",
+    "Social assistance",
+    "51",
+    "157"
+  ],
+  [
+    "4",
+    "2",
+    "240",
+    "7115",
+    "Independent artists, writers, and performers",
+    "51",
+    "157"
+  ],
+  [
+    "3",
+    "15",
+    "600",
+    "6241",
+    "Individual and family services",
+    "51",
+    "157"
+  ],
+  [
+    "6",
+    "3",
+    "318",
+    "71",
+    "Arts, entertainment, and recreation",
+    "51",
+    "157"
+  ],
+  [
+    "5",
+    "2",
+    "243",
+    "711",
+    "Performing arts, spectator sports, and related industries",
+    "51",
+    "157"
+  ],
+  [
+    "7",
+    "191",
+    "8438",
+    "721",
+    "Accommodation",
+    "51",
+    "157"
+  ],
+  [
+    "4",
+    "2",
+    "240",
+    "71151",
+    "Independent artists, writers, and performers",
+    "51",
+    "157"
+  ],
+  [
+    "4",
+    "2",
+    "240",
+    "711510",
+    "Independent artists, writers, and performers",
+    "51",
+    "157"
+  ],
+  [
+    "18",
+    "280",
+    "11182",
+    "72",
+    "Accommodation and food services",
+    "51",
+    "157"
+  ],
+  [
+    "7",
+    "191",
+    "8438",
+    "7211",
+    "Traveler accommodation",
+    "51",
+    "157"
+  ],
+  [
+    "6",
+    "38",
+    "946",
+    "72119",
+    "Other traveler accommodation",
+    "51",
+    "157"
+  ],
+  [
+    "6",
+    "38",
+    "946",
+    "721191",
+    "Bed-and-breakfast inns",
+    "51",
+    "157"
+  ],
+  [
+    "11",
+    "89",
+    "2744",
+    "722",
+    "Food services and drinking places",
+    "51",
+    "157"
+  ],
+  [
+    "11",
+    "89",
+    "2744",
+    "7225",
+    "Restaurants and other eating places",
+    "51",
+    "157"
+  ],
+  [
+    "11",
+    "89",
+    "2744",
+    "72251",
+    "Restaurants and other eating places",
+    "51",
+    "157"
+  ],
+  [
+    "8",
+    "68",
+    "2387",
+    "722511",
+    "Full-service restaurants",
+    "51",
+    "157"
+  ],
+  [
+    "6",
+    "15",
+    "151",
+    "8129",
+    "Other personal services",
+    "51",
+    "157"
+  ],
+  [
+    "3",
+    "5",
+    "84",
+    "81291",
+    "Pet care (except veterinary) services",
+    "51",
+    "157"
+  ],
+  [
+    "3",
+    "5",
+    "84",
+    "812910",
+    "Pet care (except veterinary) services",
+    "51",
+    "157"
+  ],
+  [
+    "3",
+    "10",
+    "67",
+    "81299",
+    "All other personal services",
+    "51",
+    "157"
+  ],
+  [
+    "3",
+    "10",
+    "67",
+    "812990",
+    "All other personal services",
+    "51",
+    "157"
+  ],
+  [
+    "15",
+    "40",
+    "1490",
+    "813",
+    "Religious, grantmaking, civic, professional, and similar organizations",
+    "51",
+    "157"
+  ],
+  [
+    "8",
+    "15",
+    "265",
+    "8131",
+    "Religious organizations",
+    "51",
+    "157"
+  ],
+  [
+    "8",
+    "15",
+    "265",
+    "81311",
+    "Religious organizations",
+    "51",
+    "157"
+  ],
+  [
+    "8",
+    "15",
+    "265",
+    "813110",
+    "Religious organizations",
+    "51",
+    "157"
+  ],
+  [
+    "3",
+    "10",
+    "925",
+    "8132",
+    "Grantmaking and giving services",
+    "51",
+    "157"
+  ],
+  [
+    "3",
+    "10",
+    "925",
+    "81321",
+    "Grantmaking and giving services",
+    "51",
+    "157"
+  ],
+  [
+    "3",
+    "13",
+    "266",
+    "8133",
+    "Social advocacy organizations",
+    "51",
+    "157"
+  ],
+  [
+    "3",
+    "13",
+    "266",
+    "81331",
+    "Social advocacy organizations",
+    "51",
+    "157"
+  ],
+  [
+    "3",
+    "13",
+    "266",
+    "813312",
+    "Environment, conservation and wildlife organizations",
+    "51",
+    "157"
+  ],
+  [
+    "6",
+    "15",
+    "151",
+    "812",
+    "Personal and laundry services",
+    "51",
+    "157"
+  ],
+  [
+    "3",
+    "21",
+    "357",
+    "722513",
+    "Limited-service restaurants",
+    "51",
+    "157"
+  ],
+  [
+    "25",
+    "63",
+    "1890",
+    "81",
+    "Other services (except public administration)",
+    "51",
+    "157"
+  ],
+  [
+    "4",
+    "8",
+    "249",
+    "811",
+    "Repair and maintenance",
+    "51",
+    "157"
+  ]
+]

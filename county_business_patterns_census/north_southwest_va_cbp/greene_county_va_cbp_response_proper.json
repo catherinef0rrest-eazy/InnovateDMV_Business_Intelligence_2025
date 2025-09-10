@@ -1,0 +1,866 @@
+[
+  {
+    "ESTAB": "166",
+    "EMP": "1260",
+    "PAYANN": "46657",
+    "NAICS2017": "00",
+    "NAICS2017_LABEL": "Total for all sectors",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "3",
+    "EMP": "4",
+    "PAYANN": "154",
+    "NAICS2017": "11",
+    "NAICS2017_LABEL": "Agriculture, forestry, fishing and hunting",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "3",
+    "EMP": "4",
+    "PAYANN": "154",
+    "NAICS2017": "113",
+    "NAICS2017_LABEL": "Forestry and logging",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "3",
+    "EMP": "4",
+    "PAYANN": "154",
+    "NAICS2017": "1133",
+    "NAICS2017_LABEL": "Logging",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "3",
+    "EMP": "4",
+    "PAYANN": "154",
+    "NAICS2017": "11331",
+    "NAICS2017_LABEL": "Logging",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "3",
+    "EMP": "4",
+    "PAYANN": "154",
+    "NAICS2017": "113310",
+    "NAICS2017_LABEL": "Logging",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "3",
+    "EMP": "22",
+    "PAYANN": "1229",
+    "NAICS2017": "21",
+    "NAICS2017_LABEL": "Mining, quarrying, and oil and gas extraction",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "3",
+    "EMP": "22",
+    "PAYANN": "1229",
+    "NAICS2017": "212",
+    "NAICS2017_LABEL": "Mining (except oil and gas)",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "3",
+    "EMP": "22",
+    "PAYANN": "1229",
+    "NAICS2017": "2123",
+    "NAICS2017_LABEL": "Nonmetallic mineral mining and quarrying",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "3",
+    "EMP": "22",
+    "PAYANN": "1229",
+    "NAICS2017": "21231",
+    "NAICS2017_LABEL": "Stone mining and quarrying",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "18",
+    "EMP": "31",
+    "PAYANN": "954",
+    "NAICS2017": "23",
+    "NAICS2017_LABEL": "Construction",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "6",
+    "EMP": "10",
+    "PAYANN": "265",
+    "NAICS2017": "236",
+    "NAICS2017_LABEL": "Construction of buildings",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "6",
+    "EMP": "10",
+    "PAYANN": "265",
+    "NAICS2017": "2361",
+    "NAICS2017_LABEL": "Residential building construction",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "6",
+    "EMP": "10",
+    "PAYANN": "265",
+    "NAICS2017": "23611",
+    "NAICS2017_LABEL": "Residential building construction",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "3",
+    "EMP": "3",
+    "PAYANN": "71",
+    "NAICS2017": "236115",
+    "NAICS2017_LABEL": "New single-family housing construction (except for-sale builders)",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "3",
+    "EMP": "7",
+    "PAYANN": "194",
+    "NAICS2017": "236118",
+    "NAICS2017_LABEL": "Residential remodelers",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "3",
+    "EMP": "5",
+    "PAYANN": "85",
+    "NAICS2017": "237",
+    "NAICS2017_LABEL": "Heavy and civil engineering construction",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "3",
+    "EMP": "5",
+    "PAYANN": "85",
+    "NAICS2017": "2371",
+    "NAICS2017_LABEL": "Utility system construction",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "3",
+    "EMP": "5",
+    "PAYANN": "85",
+    "NAICS2017": "23711",
+    "NAICS2017_LABEL": "Water and sewer line and related structures construction",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "3",
+    "EMP": "5",
+    "PAYANN": "85",
+    "NAICS2017": "237110",
+    "NAICS2017_LABEL": "Water and sewer line and related structures construction",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "9",
+    "EMP": "16",
+    "PAYANN": "604",
+    "NAICS2017": "238",
+    "NAICS2017_LABEL": "Specialty trade contractors",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "7",
+    "EMP": "13",
+    "PAYANN": "571",
+    "NAICS2017": "2389",
+    "NAICS2017_LABEL": "Other specialty trade contractors",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "4",
+    "EMP": "8",
+    "PAYANN": "329",
+    "NAICS2017": "23891",
+    "NAICS2017_LABEL": "Site preparation contractors",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "4",
+    "EMP": "8",
+    "PAYANN": "329",
+    "NAICS2017": "238910",
+    "NAICS2017_LABEL": "Site preparation contractors",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "3",
+    "EMP": "5",
+    "PAYANN": "242",
+    "NAICS2017": "23899",
+    "NAICS2017_LABEL": "All other specialty trade contractors",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "3",
+    "EMP": "5",
+    "PAYANN": "242",
+    "NAICS2017": "238990",
+    "NAICS2017_LABEL": "All other specialty trade contractors",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "15",
+    "EMP": "376",
+    "PAYANN": "15206",
+    "NAICS2017": "31-33",
+    "NAICS2017_LABEL": "Manufacturing",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "4",
+    "EMP": "163",
+    "PAYANN": "5154",
+    "NAICS2017": "321",
+    "NAICS2017_LABEL": "Wood product manufacturing",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "3",
+    "EMP": "26",
+    "PAYANN": "1247",
+    "NAICS2017": "337",
+    "NAICS2017_LABEL": "Furniture and related product manufacturing",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "3",
+    "EMP": "26",
+    "PAYANN": "1247",
+    "NAICS2017": "3371",
+    "NAICS2017_LABEL": "Household and institutional furniture and kitchen cabinet manufacturing",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "7",
+    "EMP": "33",
+    "PAYANN": "1409",
+    "NAICS2017": "42",
+    "NAICS2017_LABEL": "Wholesale trade",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "3",
+    "EMP": "8",
+    "PAYANN": "175",
+    "NAICS2017": "423",
+    "NAICS2017_LABEL": "Merchant wholesalers, durable goods",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "4",
+    "EMP": "25",
+    "PAYANN": "1234",
+    "NAICS2017": "424",
+    "NAICS2017_LABEL": "Merchant wholesalers, nondurable goods",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "22",
+    "EMP": "127",
+    "PAYANN": "3164",
+    "NAICS2017": "44-45",
+    "NAICS2017_LABEL": "Retail trade",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "3",
+    "EMP": "8",
+    "PAYANN": "82",
+    "NAICS2017": "441",
+    "NAICS2017_LABEL": "Motor vehicle and parts dealers",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "9",
+    "EMP": "34",
+    "PAYANN": "578",
+    "NAICS2017": "447",
+    "NAICS2017_LABEL": "Gasoline stations",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "9",
+    "EMP": "34",
+    "PAYANN": "578",
+    "NAICS2017": "4471",
+    "NAICS2017_LABEL": "Gasoline stations",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "9",
+    "EMP": "34",
+    "PAYANN": "578",
+    "NAICS2017": "44711",
+    "NAICS2017_LABEL": "Gasoline stations with convenience stores",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "3",
+    "EMP": "18",
+    "PAYANN": "370",
+    "NAICS2017": "45231",
+    "NAICS2017_LABEL": "General merchandise stores, including warehouse clubs and supercenters",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "9",
+    "EMP": "34",
+    "PAYANN": "578",
+    "NAICS2017": "447110",
+    "NAICS2017_LABEL": "Gasoline stations with convenience stores",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "3",
+    "EMP": "18",
+    "PAYANN": "370",
+    "NAICS2017": "452",
+    "NAICS2017_LABEL": "General merchandise stores",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "3",
+    "EMP": "18",
+    "PAYANN": "370",
+    "NAICS2017": "4523",
+    "NAICS2017_LABEL": "General merchandise stores, including warehouse clubs and supercenters",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "3",
+    "EMP": "18",
+    "PAYANN": "370",
+    "NAICS2017": "452319",
+    "NAICS2017_LABEL": "All other general merchandise stores",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "12",
+    "EMP": "113",
+    "PAYANN": "5466",
+    "NAICS2017": "48-49",
+    "NAICS2017_LABEL": "Transportation and warehousing",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "10",
+    "EMP": "83",
+    "PAYANN": "4441",
+    "NAICS2017": "484",
+    "NAICS2017_LABEL": "Truck transportation",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "4",
+    "EMP": "9",
+    "PAYANN": "397",
+    "NAICS2017": "4841",
+    "NAICS2017_LABEL": "General freight trucking",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "3",
+    "EMP": "6",
+    "PAYANN": "192",
+    "NAICS2017": "48411",
+    "NAICS2017_LABEL": "General freight trucking, local",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "3",
+    "EMP": "6",
+    "PAYANN": "192",
+    "NAICS2017": "484110",
+    "NAICS2017_LABEL": "General freight trucking, local",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "3",
+    "EMP": "14",
+    "PAYANN": "636",
+    "NAICS2017": "51",
+    "NAICS2017_LABEL": "Information",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "6",
+    "EMP": "74",
+    "PAYANN": "4044",
+    "NAICS2017": "4842",
+    "NAICS2017_LABEL": "Specialized freight trucking",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "6",
+    "EMP": "74",
+    "PAYANN": "4044",
+    "NAICS2017": "48422",
+    "NAICS2017_LABEL": "Specialized freight (except used goods) trucking, local",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "6",
+    "EMP": "74",
+    "PAYANN": "4044",
+    "NAICS2017": "484220",
+    "NAICS2017_LABEL": "Specialized freight (except used goods) trucking, local",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "12",
+    "EMP": "121",
+    "PAYANN": "6911",
+    "NAICS2017": "52",
+    "NAICS2017_LABEL": "Finance and insurance",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "8",
+    "EMP": "113",
+    "PAYANN": "6417",
+    "NAICS2017": "522",
+    "NAICS2017_LABEL": "Credit intermediation and related activities",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "3",
+    "EMP": "7",
+    "PAYANN": "212",
+    "NAICS2017": "524",
+    "NAICS2017_LABEL": "Insurance carriers and related activities",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "8",
+    "EMP": "113",
+    "PAYANN": "6417",
+    "NAICS2017": "5221",
+    "NAICS2017_LABEL": "Depository credit intermediation",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "8",
+    "EMP": "113",
+    "PAYANN": "6417",
+    "NAICS2017": "52211",
+    "NAICS2017_LABEL": "Commercial banking",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "8",
+    "EMP": "113",
+    "PAYANN": "6417",
+    "NAICS2017": "522110",
+    "NAICS2017_LABEL": "Commercial banking",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "3",
+    "EMP": "7",
+    "PAYANN": "212",
+    "NAICS2017": "5242",
+    "NAICS2017_LABEL": "Agencies, brokerages, and other insurance related activities",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "3",
+    "EMP": "7",
+    "PAYANN": "212",
+    "NAICS2017": "52421",
+    "NAICS2017_LABEL": "Insurance agencies and brokerages",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "3",
+    "EMP": "7",
+    "PAYANN": "212",
+    "NAICS2017": "524210",
+    "NAICS2017_LABEL": "Insurance agencies and brokerages",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "9",
+    "EMP": "10",
+    "PAYANN": "576",
+    "NAICS2017": "53",
+    "NAICS2017_LABEL": "Real estate and rental and leasing",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "8",
+    "EMP": "8",
+    "PAYANN": "388",
+    "NAICS2017": "531",
+    "NAICS2017_LABEL": "Real estate",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "7",
+    "EMP": "6",
+    "PAYANN": "341",
+    "NAICS2017": "5312",
+    "NAICS2017_LABEL": "Offices of real estate agents and brokers",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "7",
+    "EMP": "6",
+    "PAYANN": "341",
+    "NAICS2017": "53121",
+    "NAICS2017_LABEL": "Offices of real estate agents and brokers",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "7",
+    "EMP": "6",
+    "PAYANN": "341",
+    "NAICS2017": "531210",
+    "NAICS2017_LABEL": "Offices of real estate agents and brokers",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "9",
+    "EMP": "10",
+    "PAYANN": "569",
+    "NAICS2017": "54",
+    "NAICS2017_LABEL": "Professional, scientific, and technical services",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "9",
+    "EMP": "10",
+    "PAYANN": "569",
+    "NAICS2017": "541",
+    "NAICS2017_LABEL": "Professional, scientific, and technical services",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "3",
+    "EMP": "4",
+    "PAYANN": "54",
+    "NAICS2017": "5413",
+    "NAICS2017_LABEL": "Architectural, engineering, and related services",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "3",
+    "EMP": "2",
+    "PAYANN": "114",
+    "NAICS2017": "5419",
+    "NAICS2017_LABEL": "Other professional, scientific, and technical services",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "8",
+    "EMP": "29",
+    "PAYANN": "751",
+    "NAICS2017": "56",
+    "NAICS2017_LABEL": "Administrative and support and waste management and remediation services",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "7",
+    "EMP": "29",
+    "PAYANN": "748",
+    "NAICS2017": "561",
+    "NAICS2017_LABEL": "Administrative and support services",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "6",
+    "EMP": "28",
+    "PAYANN": "734",
+    "NAICS2017": "5617",
+    "NAICS2017_LABEL": "Services to buildings and dwellings",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "5",
+    "EMP": "14",
+    "PAYANN": "293",
+    "NAICS2017": "56173",
+    "NAICS2017_LABEL": "Landscaping services",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "5",
+    "EMP": "14",
+    "PAYANN": "293",
+    "NAICS2017": "561730",
+    "NAICS2017_LABEL": "Landscaping services",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "9",
+    "EMP": "146",
+    "PAYANN": "4772",
+    "NAICS2017": "62",
+    "NAICS2017_LABEL": "Health care and social assistance",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "7",
+    "EMP": "57",
+    "PAYANN": "1124",
+    "NAICS2017": "621",
+    "NAICS2017_LABEL": "Ambulatory health care services",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "3",
+    "EMP": "39",
+    "PAYANN": "406",
+    "NAICS2017": "6219",
+    "NAICS2017_LABEL": "Other ambulatory health care services",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "3",
+    "EMP": "39",
+    "PAYANN": "406",
+    "NAICS2017": "62191",
+    "NAICS2017_LABEL": "Ambulance services",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "3",
+    "EMP": "39",
+    "PAYANN": "406",
+    "NAICS2017": "621910",
+    "NAICS2017_LABEL": "Ambulance services",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "5",
+    "EMP": "16",
+    "PAYANN": "189",
+    "NAICS2017": "71",
+    "NAICS2017_LABEL": "Arts, entertainment, and recreation",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "3",
+    "EMP": "3",
+    "PAYANN": "46",
+    "NAICS2017": "713",
+    "NAICS2017_LABEL": "Amusement, gambling, and recreation industries",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "3",
+    "EMP": "3",
+    "PAYANN": "46",
+    "NAICS2017": "7139",
+    "NAICS2017_LABEL": "Other amusement and recreation industries",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "13",
+    "EMP": "114",
+    "PAYANN": "1513",
+    "NAICS2017": "72",
+    "NAICS2017_LABEL": "Accommodation and food services",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "4",
+    "EMP": "7",
+    "PAYANN": "149",
+    "NAICS2017": "721",
+    "NAICS2017_LABEL": "Accommodation",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "9",
+    "EMP": "107",
+    "PAYANN": "1364",
+    "NAICS2017": "722",
+    "NAICS2017_LABEL": "Food services and drinking places",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "8",
+    "EMP": "83",
+    "PAYANN": "1251",
+    "NAICS2017": "72251",
+    "NAICS2017_LABEL": "Restaurants and other eating places",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "6",
+    "EMP": "63",
+    "PAYANN": "764",
+    "NAICS2017": "722511",
+    "NAICS2017_LABEL": "Full-service restaurants",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "16",
+    "EMP": "29",
+    "PAYANN": "749",
+    "NAICS2017": "81",
+    "NAICS2017_LABEL": "Other services (except public administration)",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "6",
+    "EMP": "7",
+    "PAYANN": "280",
+    "NAICS2017": "811",
+    "NAICS2017_LABEL": "Repair and maintenance",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "5",
+    "EMP": "6",
+    "PAYANN": "215",
+    "NAICS2017": "8111",
+    "NAICS2017_LABEL": "Automotive repair and maintenance",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "9",
+    "EMP": "18",
+    "PAYANN": "256",
+    "NAICS2017": "813",
+    "NAICS2017_LABEL": "Religious, grantmaking, civic, professional, and similar organizations",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "9",
+    "EMP": "18",
+    "PAYANN": "256",
+    "NAICS2017": "8131",
+    "NAICS2017_LABEL": "Religious organizations",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "9",
+    "EMP": "18",
+    "PAYANN": "256",
+    "NAICS2017": "81311",
+    "NAICS2017_LABEL": "Religious organizations",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "9",
+    "EMP": "18",
+    "PAYANN": "256",
+    "NAICS2017": "813110",
+    "NAICS2017_LABEL": "Religious organizations",
+    "state": "51",
+    "county": "077"
+  },
+  {
+    "ESTAB": "8",
+    "EMP": "83",
+    "PAYANN": "1251",
+    "NAICS2017": "7225",
+    "NAICS2017_LABEL": "Restaurants and other eating places",
+    "state": "51",
+    "county": "077"
+  }
+]

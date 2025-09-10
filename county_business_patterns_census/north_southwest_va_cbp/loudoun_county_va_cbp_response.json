@@ -1,0 +1,8552 @@
+[
+  [
+    "ESTAB",
+    "EMP",
+    "PAYANN",
+    "NAICS2017",
+    "NAICS2017_LABEL",
+    "state",
+    "county"
+  ],
+  [
+    "11720",
+    "164564",
+    "11376219",
+    "00",
+    "Total for all sectors",
+    "51",
+    "107"
+  ],
+  [
+    "27",
+    "61",
+    "2218",
+    "11",
+    "Agriculture, forestry, fishing and hunting",
+    "51",
+    "107"
+  ],
+  [
+    "26",
+    "60",
+    "2215",
+    "115",
+    "Support activities for agriculture and forestry",
+    "51",
+    "107"
+  ],
+  [
+    "25",
+    "53",
+    "1944",
+    "1152",
+    "Support activities for animal production",
+    "51",
+    "107"
+  ],
+  [
+    "25",
+    "53",
+    "1944",
+    "11521",
+    "Support activities for animal production",
+    "51",
+    "107"
+  ],
+  [
+    "25",
+    "53",
+    "1944",
+    "115210",
+    "Support activities for animal production",
+    "51",
+    "107"
+  ],
+  [
+    "7",
+    "199",
+    "23897",
+    "21",
+    "Mining, quarrying, and oil and gas extraction",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "198",
+    "23786",
+    "212",
+    "Mining (except oil and gas)",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "198",
+    "23786",
+    "2123",
+    "Nonmetallic mineral mining and quarrying",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "198",
+    "23786",
+    "21231",
+    "Stone mining and quarrying",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "119",
+    "14765",
+    "212313",
+    "Crushed and broken granite mining and quarrying",
+    "51",
+    "107"
+  ],
+  [
+    "8",
+    "127",
+    "11602",
+    "22",
+    "Utilities",
+    "51",
+    "107"
+  ],
+  [
+    "8",
+    "127",
+    "11602",
+    "221",
+    "Utilities",
+    "51",
+    "107"
+  ],
+  [
+    "7",
+    "125",
+    "11574",
+    "2211",
+    "Electric power generation, transmission and distribution",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "8",
+    "667",
+    "22111",
+    "Electric power generation",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "8",
+    "667",
+    "221114",
+    "Solar electric power generation",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "117",
+    "10907",
+    "22112",
+    "Electric power transmission, control, and distribution",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "115",
+    "10889",
+    "221122",
+    "Electric power distribution",
+    "51",
+    "107"
+  ],
+  [
+    "911",
+    "14266",
+    "1076546",
+    "23",
+    "Construction",
+    "51",
+    "107"
+  ],
+  [
+    "295",
+    "2404",
+    "189326",
+    "236",
+    "Construction of buildings",
+    "51",
+    "107"
+  ],
+  [
+    "231",
+    "1438",
+    "112462",
+    "2361",
+    "Residential building construction",
+    "51",
+    "107"
+  ],
+  [
+    "231",
+    "1438",
+    "112462",
+    "23611",
+    "Residential building construction",
+    "51",
+    "107"
+  ],
+  [
+    "36",
+    "273",
+    "34720",
+    "236115",
+    "New single-family housing construction (except for-sale builders)",
+    "51",
+    "107"
+  ],
+  [
+    "8",
+    "96",
+    "10171",
+    "236116",
+    "New multifamily housing construction (except for-sale builders)",
+    "51",
+    "107"
+  ],
+  [
+    "9",
+    "39",
+    "4568",
+    "236117",
+    "New housing for-sale builders",
+    "51",
+    "107"
+  ],
+  [
+    "178",
+    "1030",
+    "63003",
+    "236118",
+    "Residential remodelers",
+    "51",
+    "107"
+  ],
+  [
+    "47",
+    "1262",
+    "87763",
+    "237",
+    "Heavy and civil engineering construction",
+    "51",
+    "107"
+  ],
+  [
+    "64",
+    "966",
+    "76864",
+    "2362",
+    "Nonresidential building construction",
+    "51",
+    "107"
+  ],
+  [
+    "63",
+    "964",
+    "76767",
+    "23622",
+    "Commercial and institutional building construction",
+    "51",
+    "107"
+  ],
+  [
+    "63",
+    "964",
+    "76767",
+    "236220",
+    "Commercial and institutional building construction",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "16",
+    "4899",
+    "2372",
+    "Land subdivision",
+    "51",
+    "107"
+  ],
+  [
+    "22",
+    "668",
+    "44933",
+    "2371",
+    "Utility system construction",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "114",
+    "6424",
+    "23711",
+    "Water and sewer line and related structures construction",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "114",
+    "6424",
+    "237110",
+    "Water and sewer line and related structures construction",
+    "51",
+    "107"
+  ],
+  [
+    "16",
+    "554",
+    "38509",
+    "23713",
+    "Power and communication line and related structures construction",
+    "51",
+    "107"
+  ],
+  [
+    "16",
+    "554",
+    "38509",
+    "237130",
+    "Power and communication line and related structures construction",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "16",
+    "4899",
+    "23721",
+    "Land subdivision",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "16",
+    "4899",
+    "237210",
+    "Land subdivision",
+    "51",
+    "107"
+  ],
+  [
+    "14",
+    "376",
+    "26823",
+    "2373",
+    "Highway, street, and bridge construction",
+    "51",
+    "107"
+  ],
+  [
+    "14",
+    "376",
+    "26823",
+    "23731",
+    "Highway, street, and bridge construction",
+    "51",
+    "107"
+  ],
+  [
+    "14",
+    "376",
+    "26823",
+    "237310",
+    "Highway, street, and bridge construction",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "202",
+    "11108",
+    "2379",
+    "Other heavy and civil engineering construction",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "202",
+    "11108",
+    "23799",
+    "Other heavy and civil engineering construction",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "202",
+    "11108",
+    "237990",
+    "Other heavy and civil engineering construction",
+    "51",
+    "107"
+  ],
+  [
+    "569",
+    "10600",
+    "799457",
+    "238",
+    "Specialty trade contractors",
+    "51",
+    "107"
+  ],
+  [
+    "25",
+    "140",
+    "7425",
+    "23814",
+    "Masonry contractors",
+    "51",
+    "107"
+  ],
+  [
+    "105",
+    "1342",
+    "89302",
+    "2381",
+    "Foundation, structure, and building exterior contractors",
+    "51",
+    "107"
+  ],
+  [
+    "16",
+    "570",
+    "33437",
+    "23811",
+    "Poured concrete foundation and structure contractors",
+    "51",
+    "107"
+  ],
+  [
+    "16",
+    "570",
+    "33437",
+    "238110",
+    "Poured concrete foundation and structure contractors",
+    "51",
+    "107"
+  ],
+  [
+    "14",
+    "77",
+    "5203",
+    "23813",
+    "Framing contractors",
+    "51",
+    "107"
+  ],
+  [
+    "14",
+    "77",
+    "5203",
+    "238130",
+    "Framing contractors",
+    "51",
+    "107"
+  ],
+  [
+    "25",
+    "140",
+    "7425",
+    "238140",
+    "Masonry contractors",
+    "51",
+    "107"
+  ],
+  [
+    "15",
+    "207",
+    "15707",
+    "23815",
+    "Glass and glazing contractors",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "71",
+    "4016",
+    "23817",
+    "Siding contractors",
+    "51",
+    "107"
+  ],
+  [
+    "15",
+    "207",
+    "15707",
+    "238150",
+    "Glass and glazing contractors",
+    "51",
+    "107"
+  ],
+  [
+    "23",
+    "191",
+    "16326",
+    "23816",
+    "Roofing contractors",
+    "51",
+    "107"
+  ],
+  [
+    "23",
+    "191",
+    "16326",
+    "238160",
+    "Roofing contractors",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "71",
+    "4016",
+    "238170",
+    "Siding contractors",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "5",
+    "342",
+    "23819",
+    "Other foundation, structure, and building exterior contractors",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "5",
+    "342",
+    "238190",
+    "Other foundation, structure, and building exterior contractors",
+    "51",
+    "107"
+  ],
+  [
+    "202",
+    "6111",
+    "509074",
+    "2382",
+    "Building equipment contractors",
+    "51",
+    "107"
+  ],
+  [
+    "77",
+    "3535",
+    "299177",
+    "23821",
+    "Electrical contractors and other wiring installation contractors",
+    "51",
+    "107"
+  ],
+  [
+    "49",
+    "325",
+    "16903",
+    "238320",
+    "Painting and wall covering contractors",
+    "51",
+    "107"
+  ],
+  [
+    "77",
+    "3535",
+    "299177",
+    "238210",
+    "Electrical contractors and other wiring installation contractors",
+    "51",
+    "107"
+  ],
+  [
+    "121",
+    "2486",
+    "204777",
+    "23822",
+    "Plumbing, heating, and air-conditioning contractors",
+    "51",
+    "107"
+  ],
+  [
+    "121",
+    "2486",
+    "204777",
+    "238220",
+    "Plumbing, heating, and air-conditioning contractors",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "90",
+    "5120",
+    "23829",
+    "Other building equipment contractors",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "90",
+    "5120",
+    "238290",
+    "Other building equipment contractors",
+    "51",
+    "107"
+  ],
+  [
+    "160",
+    "1766",
+    "109592",
+    "2383",
+    "Building finishing contractors",
+    "51",
+    "107"
+  ],
+  [
+    "19",
+    "207",
+    "14058",
+    "23831",
+    "Drywall and insulation contractors",
+    "51",
+    "107"
+  ],
+  [
+    "19",
+    "207",
+    "14058",
+    "238310",
+    "Drywall and insulation contractors",
+    "51",
+    "107"
+  ],
+  [
+    "49",
+    "325",
+    "16903",
+    "23832",
+    "Painting and wall covering contractors",
+    "51",
+    "107"
+  ],
+  [
+    "27",
+    "179",
+    "13859",
+    "23833",
+    "Flooring contractors",
+    "51",
+    "107"
+  ],
+  [
+    "27",
+    "179",
+    "13859",
+    "238330",
+    "Flooring contractors",
+    "51",
+    "107"
+  ],
+  [
+    "15",
+    "90",
+    "4693",
+    "23834",
+    "Tile and terrazzo contractors",
+    "51",
+    "107"
+  ],
+  [
+    "15",
+    "90",
+    "4693",
+    "238340",
+    "Tile and terrazzo contractors",
+    "51",
+    "107"
+  ],
+  [
+    "9",
+    "606",
+    "37665",
+    "238390",
+    "Other building finishing contractors",
+    "51",
+    "107"
+  ],
+  [
+    "41",
+    "359",
+    "22414",
+    "23835",
+    "Finish carpentry contractors",
+    "51",
+    "107"
+  ],
+  [
+    "41",
+    "359",
+    "22414",
+    "238350",
+    "Finish carpentry contractors",
+    "51",
+    "107"
+  ],
+  [
+    "9",
+    "606",
+    "37665",
+    "23839",
+    "Other building finishing contractors",
+    "51",
+    "107"
+  ],
+  [
+    "102",
+    "1381",
+    "91489",
+    "2389",
+    "Other specialty trade contractors",
+    "51",
+    "107"
+  ],
+  [
+    "29",
+    "576",
+    "41345",
+    "23891",
+    "Site preparation contractors",
+    "51",
+    "107"
+  ],
+  [
+    "14",
+    "363",
+    "8506",
+    "3118",
+    "Bakeries and tortilla manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "29",
+    "576",
+    "41345",
+    "238910",
+    "Site preparation contractors",
+    "51",
+    "107"
+  ],
+  [
+    "73",
+    "805",
+    "50144",
+    "23899",
+    "All other specialty trade contractors",
+    "51",
+    "107"
+  ],
+  [
+    "73",
+    "805",
+    "50144",
+    "238990",
+    "All other specialty trade contractors",
+    "51",
+    "107"
+  ],
+  [
+    "203",
+    "6223",
+    "498233",
+    "31-33",
+    "Manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "22",
+    "418",
+    "12027",
+    "311",
+    "Food manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "14",
+    "363",
+    "8506",
+    "31181",
+    "Bread and bakery product manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "48",
+    "798",
+    "23013",
+    "312",
+    "Beverage and tobacco product manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "9",
+    "50",
+    "1295",
+    "311811",
+    "Retail bakeries",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "313",
+    "7211",
+    "311812",
+    "Commercial bakeries",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "21",
+    "379",
+    "3119",
+    "Other food manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "48",
+    "798",
+    "23013",
+    "3121",
+    "Beverage manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "19",
+    "261",
+    "7643",
+    "31212",
+    "Breweries",
+    "51",
+    "107"
+  ],
+  [
+    "19",
+    "261",
+    "7643",
+    "312120",
+    "Breweries",
+    "51",
+    "107"
+  ],
+  [
+    "26",
+    "498",
+    "13482",
+    "31213",
+    "Wineries",
+    "51",
+    "107"
+  ],
+  [
+    "26",
+    "498",
+    "13482",
+    "312130",
+    "Wineries",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "130",
+    "6473",
+    "321",
+    "Wood product manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "39",
+    "1888",
+    "31214",
+    "Distilleries",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "39",
+    "1888",
+    "312140",
+    "Distilleries",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "25",
+    "1478",
+    "314",
+    "Textile product mills",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "121",
+    "6061",
+    "3219",
+    "Other wood product manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "102",
+    "5308",
+    "32191",
+    "Millwork",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "102",
+    "5308",
+    "321918",
+    "Other millwork (including flooring)",
+    "51",
+    "107"
+  ],
+  [
+    "20",
+    "195",
+    "10898",
+    "323",
+    "Printing and related support activities",
+    "51",
+    "107"
+  ],
+  [
+    "20",
+    "195",
+    "10898",
+    "3231",
+    "Printing and related support activities",
+    "51",
+    "107"
+  ],
+  [
+    "20",
+    "195",
+    "10898",
+    "32311",
+    "Printing",
+    "51",
+    "107"
+  ],
+  [
+    "17",
+    "109",
+    "6265",
+    "323111",
+    "Commercial printing (except screen and books)",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "57",
+    "3201",
+    "325",
+    "Chemical manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "16",
+    "337",
+    "19729",
+    "327",
+    "Nonmetallic mineral product manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "10",
+    "185",
+    "11768",
+    "3273",
+    "Cement and concrete product manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "9",
+    "171",
+    "10894",
+    "32732",
+    "Ready-mix concrete manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "9",
+    "171",
+    "10894",
+    "327320",
+    "Ready-mix concrete manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "152",
+    "7961",
+    "3279",
+    "Other nonmetallic mineral product manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "152",
+    "7961",
+    "32799",
+    "All other nonmetallic mineral product manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "152",
+    "7961",
+    "327991",
+    "Cut stone and stone product manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "16",
+    "309",
+    "19359",
+    "332",
+    "Fabricated metal product manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "7",
+    "216",
+    "13338",
+    "3323",
+    "Architectural and structural metals manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "172",
+    "10990",
+    "33231",
+    "Plate work and fabricated structural product manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "172",
+    "10990",
+    "332312",
+    "Fabricated structural metal manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "44",
+    "2348",
+    "33232",
+    "Ornamental and architectural metal products manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "41",
+    "1614",
+    "332710",
+    "Machine shops",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "44",
+    "2348",
+    "332322",
+    "Sheet metal work manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "43",
+    "1916",
+    "3327",
+    "Machine shops; turned product; and screw, nut, and bolt manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "41",
+    "1614",
+    "33271",
+    "Machine shops",
+    "51",
+    "107"
+  ],
+  [
+    "9",
+    "276",
+    "32003",
+    "333",
+    "Machinery manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "210",
+    "26004",
+    "3333",
+    "Commercial and service industry machinery manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "210",
+    "26004",
+    "33331",
+    "Commercial and service industry machinery manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "209",
+    "25921",
+    "333318",
+    "Other commercial and service industry machinery manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "10",
+    "582",
+    "39458",
+    "334",
+    "Computer and electronic product manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "17",
+    "882",
+    "3342",
+    "Communications equipment manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "512",
+    "32956",
+    "3344",
+    "Semiconductor and other electronic component manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "512",
+    "32956",
+    "33441",
+    "Semiconductor and other electronic component manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "52",
+    "5508",
+    "3345",
+    "Navigational, measuring, electromedical, and control instruments manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "52",
+    "5508",
+    "33451",
+    "Navigational, measuring, electromedical, and control instruments manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "72",
+    "2837",
+    "3371",
+    "Household and institutional furniture and kitchen cabinet manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "18",
+    "1365",
+    "335",
+    "Electrical equipment, appliance, and component manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "2036",
+    "228228",
+    "336",
+    "Transportation equipment manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "10",
+    "195",
+    "11882",
+    "337",
+    "Furniture and related product manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "123",
+    "9045",
+    "3372",
+    "Office furniture (including fixtures) manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "123",
+    "9045",
+    "33721",
+    "Office furniture (including fixtures) manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "120",
+    "9026",
+    "337212",
+    "Custom architectural woodwork and millwork manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "23",
+    "718",
+    "80886",
+    "339",
+    "Miscellaneous manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "12",
+    "668",
+    "78295",
+    "3391",
+    "Medical equipment and supplies manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "12",
+    "668",
+    "78295",
+    "33911",
+    "Medical equipment and supplies manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "17",
+    "457",
+    "33995",
+    "Sign manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "68",
+    "4246",
+    "339113",
+    "Surgical appliance and supplies manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "8",
+    "46",
+    "2292",
+    "339116",
+    "Dental laboratories",
+    "51",
+    "107"
+  ],
+  [
+    "11",
+    "50",
+    "2591",
+    "3399",
+    "Other miscellaneous manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "17",
+    "457",
+    "339950",
+    "Sign manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "15",
+    "808",
+    "33999",
+    "All other miscellaneous manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "11",
+    "755",
+    "339999",
+    "All other miscellaneous manufacturing",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "4",
+    "175",
+    "42311",
+    "Automobile and other motor vehicle merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "298",
+    "3308",
+    "267624",
+    "42",
+    "Wholesale trade",
+    "51",
+    "107"
+  ],
+  [
+    "196",
+    "2404",
+    "213328",
+    "423",
+    "Merchant wholesalers, durable goods",
+    "51",
+    "107"
+  ],
+  [
+    "13",
+    "32",
+    "1711",
+    "4231",
+    "Motor vehicle and motor vehicle parts and supplies merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "4",
+    "175",
+    "423110",
+    "Automobile and other motor vehicle merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "9",
+    "28",
+    "1536",
+    "42312",
+    "Motor vehicle supplies and new parts merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "9",
+    "28",
+    "1536",
+    "423120",
+    "Motor vehicle supplies and new parts merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "15",
+    "301",
+    "22215",
+    "4232",
+    "Furniture and home furnishing merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "13",
+    "285",
+    "21483",
+    "42322",
+    "Home furnishing merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "13",
+    "285",
+    "21483",
+    "423220",
+    "Home furnishing merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "16",
+    "211",
+    "13299",
+    "4233",
+    "Lumber and other construction materials merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "8",
+    "100",
+    "6337",
+    "42331",
+    "Lumber, plywood, millwork, and wood panel merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "8",
+    "100",
+    "6337",
+    "423310",
+    "Lumber, plywood, millwork, and wood panel merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "41",
+    "2872",
+    "42333",
+    "Roofing, siding, and insulation material merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "41",
+    "2872",
+    "423330",
+    "Roofing, siding, and insulation material merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "44",
+    "528",
+    "68304",
+    "4234",
+    "Professional and commercial equipment and supplies merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "10",
+    "99",
+    "8129",
+    "42342",
+    "Office equipment merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "10",
+    "99",
+    "8129",
+    "423420",
+    "Office equipment merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "18",
+    "275",
+    "36983",
+    "42343",
+    "Computer and computer peripheral equipment and software merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "18",
+    "275",
+    "36983",
+    "423430",
+    "Computer and computer peripheral equipment and software merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "21",
+    "1825",
+    "423490",
+    "Other professional equipment and supplies merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "9",
+    "43",
+    "3435",
+    "42345",
+    "Medical, dental, and hospital equipment and supplies merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "9",
+    "43",
+    "3435",
+    "423450",
+    "Medical, dental, and hospital equipment and supplies merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "21",
+    "1825",
+    "42349",
+    "Other professional equipment and supplies merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "14",
+    "1271",
+    "4235",
+    "Metal and mineral (except petroleum) merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "14",
+    "1271",
+    "42351",
+    "Metal service centers and other metal merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "14",
+    "1271",
+    "423510",
+    "Metal service centers and other metal merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "28",
+    "317",
+    "26038",
+    "4236",
+    "Household appliances and electrical and electronic goods merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "14",
+    "223",
+    "17302",
+    "42361",
+    "Electrical apparatus and equipment, wiring supplies, and related equipment merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "14",
+    "223",
+    "17302",
+    "423610",
+    "Electrical apparatus and equipment, wiring supplies, and related equipment merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "14",
+    "94",
+    "8736",
+    "42369",
+    "Other electronic parts and equipment merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "14",
+    "94",
+    "8736",
+    "423690",
+    "Other electronic parts and equipment merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "24",
+    "195",
+    "17913",
+    "4237",
+    "Hardware, plumbing and heating equipment and supplies merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "21",
+    "1223",
+    "42371",
+    "Hardware merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "21",
+    "1223",
+    "423710",
+    "Hardware merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "43",
+    "3191",
+    "42372",
+    "Plumbing and heating equipment and supplies (hydronics) merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "26",
+    "667",
+    "54074",
+    "4238",
+    "Machinery, equipment, and supplies merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "43",
+    "3191",
+    "423720",
+    "Plumbing and heating equipment and supplies (hydronics) merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "11",
+    "92",
+    "7931",
+    "42373",
+    "Warm air heating and air-conditioning equipment and supplies merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "11",
+    "92",
+    "7931",
+    "423730",
+    "Warm air heating and air-conditioning equipment and supplies merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "43",
+    "2471",
+    "42382",
+    "Farm and garden machinery and equipment merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "43",
+    "2471",
+    "423820",
+    "Farm and garden machinery and equipment merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "9",
+    "192",
+    "17418",
+    "42383",
+    "Industrial machinery and equipment merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "9",
+    "192",
+    "17418",
+    "423830",
+    "Industrial machinery and equipment merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "87",
+    "5041",
+    "42385",
+    "Service establishment equipment and supplies merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "87",
+    "5041",
+    "423850",
+    "Service establishment equipment and supplies merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "7",
+    "285",
+    "24543",
+    "42386",
+    "Transportation equipment and supplies (except motor vehicle) merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "7",
+    "285",
+    "24543",
+    "423860",
+    "Transportation equipment and supplies (except motor vehicle) merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "27",
+    "139",
+    "8503",
+    "4239",
+    "Miscellaneous durable goods merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "27",
+    "2597",
+    "42391",
+    "Sporting and recreational goods and supplies merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "27",
+    "2597",
+    "423910",
+    "Sporting and recreational goods and supplies merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "38",
+    "2780",
+    "42393",
+    "Recyclable material merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "38",
+    "2780",
+    "423930",
+    "Recyclable material merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "16",
+    "72",
+    "3079",
+    "42399",
+    "Other miscellaneous durable goods merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "16",
+    "72",
+    "3079",
+    "423990",
+    "Other miscellaneous durable goods merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "72",
+    "594",
+    "37391",
+    "424",
+    "Merchant wholesalers, nondurable goods",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "90",
+    "6300",
+    "4241",
+    "Paper and paper product merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "88",
+    "6031",
+    "42412",
+    "Stationery and office supplies merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "88",
+    "6031",
+    "424120",
+    "Stationery and office supplies merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "16",
+    "489",
+    "4243",
+    "Apparel, piece goods, and notions merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "10",
+    "49",
+    "3473",
+    "4242",
+    "Drugs and druggists' sundries merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "10",
+    "49",
+    "3473",
+    "42421",
+    "Drugs and druggists' sundries merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "10",
+    "49",
+    "3473",
+    "424210",
+    "Drugs and druggists' sundries merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "19",
+    "165",
+    "9037",
+    "4244",
+    "Grocery and related product merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "17",
+    "783",
+    "42441",
+    "General line grocery merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "17",
+    "783",
+    "424410",
+    "General line grocery merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "9",
+    "97",
+    "4173",
+    "42449",
+    "Other grocery and related products merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "9",
+    "97",
+    "4173",
+    "424490",
+    "Other grocery and related products merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "7",
+    "166",
+    "11492",
+    "4246",
+    "Chemical and allied products merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "39",
+    "4459",
+    "42469",
+    "Other chemical and allied products merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "39",
+    "4459",
+    "424690",
+    "Other chemical and allied products merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "7",
+    "33",
+    "1789",
+    "4248",
+    "Beer, wine, and distilled alcoholic beverage merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "29",
+    "1583",
+    "42482",
+    "Wine and distilled alcoholic beverage merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "29",
+    "1583",
+    "424820",
+    "Wine and distilled alcoholic beverage merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "17",
+    "74",
+    "4762",
+    "4249",
+    "Miscellaneous nondurable goods merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "11",
+    "36",
+    "2236",
+    "42499",
+    "Other miscellaneous nondurable goods merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "11",
+    "36",
+    "2236",
+    "424990",
+    "Other miscellaneous nondurable goods merchant wholesalers",
+    "51",
+    "107"
+  ],
+  [
+    "29",
+    "310",
+    "16891",
+    "425120",
+    "Wholesale trade agents and brokers",
+    "51",
+    "107"
+  ],
+  [
+    "1021",
+    "18656",
+    "685927",
+    "44-45",
+    "Retail trade",
+    "51",
+    "107"
+  ],
+  [
+    "117",
+    "2063",
+    "146718",
+    "441",
+    "Motor vehicle and parts dealers",
+    "51",
+    "107"
+  ],
+  [
+    "70",
+    "1588",
+    "125681",
+    "4411",
+    "Automobile dealers",
+    "51",
+    "107"
+  ],
+  [
+    "18",
+    "1155",
+    "100218",
+    "44111",
+    "New car dealers",
+    "51",
+    "107"
+  ],
+  [
+    "18",
+    "1155",
+    "100218",
+    "441110",
+    "New car dealers",
+    "51",
+    "107"
+  ],
+  [
+    "52",
+    "433",
+    "25463",
+    "44112",
+    "Used car dealers",
+    "51",
+    "107"
+  ],
+  [
+    "52",
+    "433",
+    "25463",
+    "441120",
+    "Used car dealers",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "35",
+    "2392",
+    "4412",
+    "Other motor vehicle dealers",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "35",
+    "2223",
+    "44122",
+    "Motorcycle, boat, and other motor vehicle dealers",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "35",
+    "2223",
+    "441228",
+    "Motorcycle, ATV, and all other motor vehicle dealers",
+    "51",
+    "107"
+  ],
+  [
+    "42",
+    "440",
+    "18645",
+    "4413",
+    "Automotive parts, accessories, and tire stores",
+    "51",
+    "107"
+  ],
+  [
+    "24",
+    "255",
+    "8975",
+    "44131",
+    "Automotive parts and accessories stores",
+    "51",
+    "107"
+  ],
+  [
+    "24",
+    "255",
+    "8975",
+    "441310",
+    "Automotive parts and accessories stores",
+    "51",
+    "107"
+  ],
+  [
+    "18",
+    "185",
+    "9670",
+    "44132",
+    "Tire dealers",
+    "51",
+    "107"
+  ],
+  [
+    "18",
+    "185",
+    "9670",
+    "441320",
+    "Tire dealers",
+    "51",
+    "107"
+  ],
+  [
+    "69",
+    "592",
+    "23925",
+    "442",
+    "Furniture and home furnishings stores",
+    "51",
+    "107"
+  ],
+  [
+    "34",
+    "222",
+    "14099",
+    "4421",
+    "Furniture stores",
+    "51",
+    "107"
+  ],
+  [
+    "34",
+    "222",
+    "14099",
+    "44211",
+    "Furniture stores",
+    "51",
+    "107"
+  ],
+  [
+    "17",
+    "111",
+    "4546",
+    "44221",
+    "Floor covering stores",
+    "51",
+    "107"
+  ],
+  [
+    "30",
+    "310",
+    "16905",
+    "425",
+    "Wholesale electronic markets and agents and brokers",
+    "51",
+    "107"
+  ],
+  [
+    "30",
+    "310",
+    "16905",
+    "4251",
+    "Wholesale electronic markets and agents and brokers",
+    "51",
+    "107"
+  ],
+  [
+    "29",
+    "310",
+    "16891",
+    "42512",
+    "Wholesale trade agents and brokers",
+    "51",
+    "107"
+  ],
+  [
+    "34",
+    "222",
+    "14099",
+    "442110",
+    "Furniture stores",
+    "51",
+    "107"
+  ],
+  [
+    "35",
+    "370",
+    "9826",
+    "4422",
+    "Home furnishings stores",
+    "51",
+    "107"
+  ],
+  [
+    "17",
+    "111",
+    "4546",
+    "442210",
+    "Floor covering stores",
+    "51",
+    "107"
+  ],
+  [
+    "18",
+    "259",
+    "5280",
+    "44229",
+    "Other home furnishings stores",
+    "51",
+    "107"
+  ],
+  [
+    "18",
+    "259",
+    "5280",
+    "442299",
+    "All other home furnishings stores",
+    "51",
+    "107"
+  ],
+  [
+    "28",
+    "279",
+    "11586",
+    "443",
+    "Electronics and appliance stores",
+    "51",
+    "107"
+  ],
+  [
+    "28",
+    "279",
+    "11586",
+    "4431",
+    "Electronics and appliance stores",
+    "51",
+    "107"
+  ],
+  [
+    "28",
+    "279",
+    "11586",
+    "44314",
+    "Electronics and appliance stores",
+    "51",
+    "107"
+  ],
+  [
+    "34",
+    "1436",
+    "50272",
+    "4441",
+    "Building material and supplies dealers",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "41",
+    "1918",
+    "443141",
+    "Household appliance stores",
+    "51",
+    "107"
+  ],
+  [
+    "22",
+    "238",
+    "9668",
+    "443142",
+    "Electronics stores",
+    "51",
+    "107"
+  ],
+  [
+    "46",
+    "1603",
+    "57138",
+    "444",
+    "Building material and garden equipment and supplies dealers",
+    "51",
+    "107"
+  ],
+  [
+    "7",
+    "1075",
+    "28294",
+    "44411",
+    "Home centers",
+    "51",
+    "107"
+  ],
+  [
+    "7",
+    "1075",
+    "28294",
+    "444110",
+    "Home centers",
+    "51",
+    "107"
+  ],
+  [
+    "7",
+    "33",
+    "1664",
+    "44412",
+    "Paint and wallpaper stores",
+    "51",
+    "107"
+  ],
+  [
+    "7",
+    "33",
+    "1664",
+    "444120",
+    "Paint and wallpaper stores",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "62",
+    "1694",
+    "44413",
+    "Hardware stores",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "62",
+    "1694",
+    "444130",
+    "Hardware stores",
+    "51",
+    "107"
+  ],
+  [
+    "15",
+    "266",
+    "18620",
+    "44419",
+    "Other building material dealers",
+    "51",
+    "107"
+  ],
+  [
+    "15",
+    "266",
+    "18620",
+    "444190",
+    "Other building material dealers",
+    "51",
+    "107"
+  ],
+  [
+    "12",
+    "167",
+    "6866",
+    "4442",
+    "Lawn and garden equipment and supplies stores",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "51",
+    "2434",
+    "44421",
+    "Outdoor power equipment stores",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "51",
+    "2434",
+    "444210",
+    "Outdoor power equipment stores",
+    "51",
+    "107"
+  ],
+  [
+    "7",
+    "116",
+    "4432",
+    "44422",
+    "Nursery, garden center, and farm supply stores",
+    "51",
+    "107"
+  ],
+  [
+    "23",
+    "197",
+    "4622",
+    "44512",
+    "Convenience stores",
+    "51",
+    "107"
+  ],
+  [
+    "7",
+    "116",
+    "4432",
+    "444220",
+    "Nursery, garden center, and farm supply stores",
+    "51",
+    "107"
+  ],
+  [
+    "127",
+    "4562",
+    "128145",
+    "445",
+    "Food and beverage stores",
+    "51",
+    "107"
+  ],
+  [
+    "80",
+    "4181",
+    "119297",
+    "4451",
+    "Grocery stores",
+    "51",
+    "107"
+  ],
+  [
+    "57",
+    "3984",
+    "114675",
+    "44511",
+    "Supermarkets and other grocery (except convenience) stores",
+    "51",
+    "107"
+  ],
+  [
+    "57",
+    "3984",
+    "114675",
+    "445110",
+    "Supermarkets and other grocery (except convenience) stores",
+    "51",
+    "107"
+  ],
+  [
+    "23",
+    "197",
+    "4622",
+    "445120",
+    "Convenience stores",
+    "51",
+    "107"
+  ],
+  [
+    "28",
+    "162",
+    "3554",
+    "4452",
+    "Specialty food stores",
+    "51",
+    "107"
+  ],
+  [
+    "25",
+    "129",
+    "2653",
+    "44529",
+    "Other specialty food stores",
+    "51",
+    "107"
+  ],
+  [
+    "8",
+    "62",
+    "1307",
+    "445291",
+    "Baked goods stores",
+    "51",
+    "107"
+  ],
+  [
+    "19",
+    "219",
+    "5294",
+    "44531",
+    "Beer, wine, and liquor stores",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "19",
+    "231",
+    "445292",
+    "Confectionery and nut stores",
+    "51",
+    "107"
+  ],
+  [
+    "12",
+    "48",
+    "1115",
+    "445299",
+    "All other specialty food stores",
+    "51",
+    "107"
+  ],
+  [
+    "19",
+    "219",
+    "5294",
+    "4453",
+    "Beer, wine, and liquor stores",
+    "51",
+    "107"
+  ],
+  [
+    "19",
+    "219",
+    "5294",
+    "445310",
+    "Beer, wine, and liquor stores",
+    "51",
+    "107"
+  ],
+  [
+    "76",
+    "956",
+    "31494",
+    "446",
+    "Health and personal care stores",
+    "51",
+    "107"
+  ],
+  [
+    "76",
+    "956",
+    "31494",
+    "4461",
+    "Health and personal care stores",
+    "51",
+    "107"
+  ],
+  [
+    "30",
+    "611",
+    "23443",
+    "44611",
+    "Pharmacies and drug stores",
+    "51",
+    "107"
+  ],
+  [
+    "30",
+    "611",
+    "23443",
+    "446110",
+    "Pharmacies and drug stores",
+    "51",
+    "107"
+  ],
+  [
+    "14",
+    "155",
+    "3633",
+    "44612",
+    "Cosmetics, beauty supplies, and perfume stores",
+    "51",
+    "107"
+  ],
+  [
+    "14",
+    "155",
+    "3633",
+    "446120",
+    "Cosmetics, beauty supplies, and perfume stores",
+    "51",
+    "107"
+  ],
+  [
+    "16",
+    "125",
+    "3217",
+    "44613",
+    "Optical goods stores",
+    "51",
+    "107"
+  ],
+  [
+    "16",
+    "125",
+    "3217",
+    "446130",
+    "Optical goods stores",
+    "51",
+    "107"
+  ],
+  [
+    "16",
+    "65",
+    "1201",
+    "44619",
+    "Other health and personal care stores",
+    "51",
+    "107"
+  ],
+  [
+    "12",
+    "57",
+    "852",
+    "446191",
+    "Food (health) supplement stores",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "8",
+    "349",
+    "446199",
+    "All other health and personal care stores",
+    "51",
+    "107"
+  ],
+  [
+    "73",
+    "737",
+    "21682",
+    "447",
+    "Gasoline stations",
+    "51",
+    "107"
+  ],
+  [
+    "73",
+    "737",
+    "21682",
+    "4471",
+    "Gasoline stations",
+    "51",
+    "107"
+  ],
+  [
+    "67",
+    "715",
+    "20720",
+    "44711",
+    "Gasoline stations with convenience stores",
+    "51",
+    "107"
+  ],
+  [
+    "67",
+    "715",
+    "20720",
+    "447110",
+    "Gasoline stations with convenience stores",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "22",
+    "962",
+    "44719",
+    "Other gasoline stations",
+    "51",
+    "107"
+  ],
+  [
+    "28",
+    "208",
+    "3543",
+    "44812",
+    "Women's clothing stores",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "22",
+    "962",
+    "447190",
+    "Other gasoline stations",
+    "51",
+    "107"
+  ],
+  [
+    "183",
+    "2257",
+    "47022",
+    "448",
+    "Clothing and clothing accessories stores",
+    "51",
+    "107"
+  ],
+  [
+    "127",
+    "1699",
+    "33855",
+    "4481",
+    "Clothing stores",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "70",
+    "1585",
+    "44811",
+    "Men's clothing stores",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "70",
+    "1585",
+    "448110",
+    "Men's clothing stores",
+    "51",
+    "107"
+  ],
+  [
+    "28",
+    "208",
+    "3543",
+    "448120",
+    "Women's clothing stores",
+    "51",
+    "107"
+  ],
+  [
+    "8",
+    "56",
+    "1218",
+    "44813",
+    "Children's and infants' clothing stores",
+    "51",
+    "107"
+  ],
+  [
+    "8",
+    "56",
+    "1218",
+    "448130",
+    "Children's and infants' clothing stores",
+    "51",
+    "107"
+  ],
+  [
+    "56",
+    "1082",
+    "21363",
+    "44814",
+    "Family clothing stores",
+    "51",
+    "107"
+  ],
+  [
+    "12",
+    "138",
+    "2682",
+    "44819",
+    "Other clothing stores",
+    "51",
+    "107"
+  ],
+  [
+    "56",
+    "1082",
+    "21363",
+    "448140",
+    "Family clothing stores",
+    "51",
+    "107"
+  ],
+  [
+    "17",
+    "145",
+    "3464",
+    "44815",
+    "Clothing accessories stores",
+    "51",
+    "107"
+  ],
+  [
+    "17",
+    "145",
+    "3464",
+    "448150",
+    "Clothing accessories stores",
+    "51",
+    "107"
+  ],
+  [
+    "12",
+    "138",
+    "2682",
+    "448190",
+    "Other clothing stores",
+    "51",
+    "107"
+  ],
+  [
+    "37",
+    "420",
+    "7942",
+    "4482",
+    "Shoe stores",
+    "51",
+    "107"
+  ],
+  [
+    "37",
+    "420",
+    "7942",
+    "44821",
+    "Shoe stores",
+    "51",
+    "107"
+  ],
+  [
+    "37",
+    "420",
+    "7942",
+    "448210",
+    "Shoe stores",
+    "51",
+    "107"
+  ],
+  [
+    "19",
+    "138",
+    "5225",
+    "4483",
+    "Jewelry, luggage, and leather goods stores",
+    "51",
+    "107"
+  ],
+  [
+    "17",
+    "128",
+    "4896",
+    "44831",
+    "Jewelry stores",
+    "51",
+    "107"
+  ],
+  [
+    "20",
+    "363",
+    "9401",
+    "45111",
+    "Sporting goods stores",
+    "51",
+    "107"
+  ],
+  [
+    "17",
+    "128",
+    "4896",
+    "448310",
+    "Jewelry stores",
+    "51",
+    "107"
+  ],
+  [
+    "52",
+    "694",
+    "15897",
+    "451",
+    "Sporting goods, hobby, musical instrument, and book stores",
+    "51",
+    "107"
+  ],
+  [
+    "47",
+    "654",
+    "15166",
+    "4511",
+    "Sporting goods, hobby, and musical instrument stores",
+    "51",
+    "107"
+  ],
+  [
+    "20",
+    "363",
+    "9401",
+    "451110",
+    "Sporting goods stores",
+    "51",
+    "107"
+  ],
+  [
+    "10",
+    "170",
+    "3181",
+    "45112",
+    "Hobby, toy, and game stores",
+    "51",
+    "107"
+  ],
+  [
+    "10",
+    "170",
+    "3181",
+    "451120",
+    "Hobby, toy, and game stores",
+    "51",
+    "107"
+  ],
+  [
+    "8",
+    "52",
+    "839",
+    "45113",
+    "Sewing, needlework, and piece goods stores",
+    "51",
+    "107"
+  ],
+  [
+    "8",
+    "52",
+    "839",
+    "451130",
+    "Sewing, needlework, and piece goods stores",
+    "51",
+    "107"
+  ],
+  [
+    "9",
+    "69",
+    "1745",
+    "45114",
+    "Musical instrument and supplies stores",
+    "51",
+    "107"
+  ],
+  [
+    "9",
+    "69",
+    "1745",
+    "451140",
+    "Musical instrument and supplies stores",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "40",
+    "731",
+    "4512",
+    "Book stores and news dealers",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "40",
+    "731",
+    "45121",
+    "Book stores and news dealers",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "40",
+    "731",
+    "451211",
+    "Book stores",
+    "51",
+    "107"
+  ],
+  [
+    "34",
+    "3404",
+    "100504",
+    "452",
+    "General merchandise stores",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "477",
+    "9827",
+    "45221",
+    "Department stores",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "477",
+    "9827",
+    "452210",
+    "Department stores",
+    "51",
+    "107"
+  ],
+  [
+    "104",
+    "795",
+    "19097",
+    "453",
+    "Miscellaneous store retailers",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "477",
+    "9827",
+    "4522",
+    "Department stores",
+    "51",
+    "107"
+  ],
+  [
+    "29",
+    "2927",
+    "90677",
+    "4523",
+    "General merchandise stores, including warehouse clubs and supercenters",
+    "51",
+    "107"
+  ],
+  [
+    "29",
+    "2927",
+    "90677",
+    "45231",
+    "General merchandise stores, including warehouse clubs and supercenters",
+    "51",
+    "107"
+  ],
+  [
+    "9",
+    "2498",
+    "85693",
+    "452311",
+    "Warehouse clubs and supercenters",
+    "51",
+    "107"
+  ],
+  [
+    "20",
+    "429",
+    "4984",
+    "452319",
+    "All other general merchandise stores",
+    "51",
+    "107"
+  ],
+  [
+    "9",
+    "37",
+    "1334",
+    "4531",
+    "Florists",
+    "51",
+    "107"
+  ],
+  [
+    "9",
+    "37",
+    "1334",
+    "45311",
+    "Florists",
+    "51",
+    "107"
+  ],
+  [
+    "9",
+    "37",
+    "1334",
+    "453110",
+    "Florists",
+    "51",
+    "107"
+  ],
+  [
+    "29",
+    "372",
+    "5891",
+    "4532",
+    "Office supplies, stationery, and gift stores",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "55",
+    "1527",
+    "45321",
+    "Office supplies and stationery stores",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "55",
+    "1527",
+    "453210",
+    "Office supplies and stationery stores",
+    "51",
+    "107"
+  ],
+  [
+    "25",
+    "317",
+    "4364",
+    "45322",
+    "Gift, novelty, and souvenir stores",
+    "51",
+    "107"
+  ],
+  [
+    "16",
+    "81",
+    "1419",
+    "453310",
+    "Used merchandise stores",
+    "51",
+    "107"
+  ],
+  [
+    "50",
+    "305",
+    "10453",
+    "4539",
+    "Other miscellaneous store retailers",
+    "51",
+    "107"
+  ],
+  [
+    "16",
+    "164",
+    "4523",
+    "45391",
+    "Pet and pet supplies stores",
+    "51",
+    "107"
+  ],
+  [
+    "16",
+    "164",
+    "4523",
+    "453910",
+    "Pet and pet supplies stores",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "15",
+    "710",
+    "45392",
+    "Art dealers",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "15",
+    "710",
+    "453920",
+    "Art dealers",
+    "51",
+    "107"
+  ],
+  [
+    "30",
+    "126",
+    "5220",
+    "45399",
+    "All other miscellaneous store retailers",
+    "51",
+    "107"
+  ],
+  [
+    "15",
+    "60",
+    "2129",
+    "453991",
+    "Tobacco stores",
+    "51",
+    "107"
+  ],
+  [
+    "15",
+    "66",
+    "3091",
+    "453998",
+    "All other miscellaneous store retailers (except tobacco stores)",
+    "51",
+    "107"
+  ],
+  [
+    "27",
+    "128",
+    "11140",
+    "4543",
+    "Direct selling establishments",
+    "51",
+    "107"
+  ],
+  [
+    "25",
+    "317",
+    "4364",
+    "453220",
+    "Gift, novelty, and souvenir stores",
+    "51",
+    "107"
+  ],
+  [
+    "16",
+    "81",
+    "1419",
+    "4533",
+    "Used merchandise stores",
+    "51",
+    "107"
+  ],
+  [
+    "16",
+    "81",
+    "1419",
+    "45331",
+    "Used merchandise stores",
+    "51",
+    "107"
+  ],
+  [
+    "112",
+    "714",
+    "82719",
+    "454",
+    "Nonstore retailers",
+    "51",
+    "107"
+  ],
+  [
+    "85",
+    "586",
+    "71579",
+    "4541",
+    "Electronic shopping and mail-order houses",
+    "51",
+    "107"
+  ],
+  [
+    "85",
+    "586",
+    "71579",
+    "45411",
+    "Electronic shopping and mail-order houses",
+    "51",
+    "107"
+  ],
+  [
+    "85",
+    "586",
+    "71579",
+    "454110",
+    "Electronic shopping and mail-order houses",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "59",
+    "3171",
+    "45431",
+    "Fuel dealers",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "59",
+    "3171",
+    "454310",
+    "Fuel dealers",
+    "51",
+    "107"
+  ],
+  [
+    "24",
+    "69",
+    "7969",
+    "45439",
+    "Other direct selling establishments",
+    "51",
+    "107"
+  ],
+  [
+    "24",
+    "69",
+    "7969",
+    "454390",
+    "Other direct selling establishments",
+    "51",
+    "107"
+  ],
+  [
+    "372",
+    "13302",
+    "644773",
+    "48-49",
+    "Transportation and warehousing",
+    "51",
+    "107"
+  ],
+  [
+    "32",
+    "4899",
+    "275977",
+    "481",
+    "Air transportation",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "16",
+    "1126",
+    "481112",
+    "Scheduled freight air transportation",
+    "51",
+    "107"
+  ],
+  [
+    "25",
+    "4827",
+    "266886",
+    "4811",
+    "Scheduled air transportation",
+    "51",
+    "107"
+  ],
+  [
+    "25",
+    "4827",
+    "266886",
+    "48111",
+    "Scheduled air transportation",
+    "51",
+    "107"
+  ],
+  [
+    "22",
+    "4811",
+    "265760",
+    "481111",
+    "Scheduled passenger air transportation",
+    "51",
+    "107"
+  ],
+  [
+    "7",
+    "72",
+    "9091",
+    "4812",
+    "Nonscheduled air transportation",
+    "51",
+    "107"
+  ],
+  [
+    "7",
+    "72",
+    "9091",
+    "48121",
+    "Nonscheduled air transportation",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "69",
+    "8574",
+    "481211",
+    "Nonscheduled chartered passenger air transportation",
+    "51",
+    "107"
+  ],
+  [
+    "164",
+    "1911",
+    "111400",
+    "484",
+    "Truck transportation",
+    "51",
+    "107"
+  ],
+  [
+    "100",
+    "647",
+    "26815",
+    "4841",
+    "General freight trucking",
+    "51",
+    "107"
+  ],
+  [
+    "51",
+    "396",
+    "16137",
+    "48411",
+    "General freight trucking, local",
+    "51",
+    "107"
+  ],
+  [
+    "51",
+    "396",
+    "16137",
+    "484110",
+    "General freight trucking, local",
+    "51",
+    "107"
+  ],
+  [
+    "49",
+    "251",
+    "10678",
+    "48412",
+    "General freight trucking, long-distance",
+    "51",
+    "107"
+  ],
+  [
+    "36",
+    "101",
+    "5505",
+    "484121",
+    "General freight trucking, long-distance, truckload",
+    "51",
+    "107"
+  ],
+  [
+    "37",
+    "1013",
+    "69908",
+    "48421",
+    "Used household and office goods moving",
+    "51",
+    "107"
+  ],
+  [
+    "37",
+    "1013",
+    "69908",
+    "484210",
+    "Used household and office goods moving",
+    "51",
+    "107"
+  ],
+  [
+    "23",
+    "233",
+    "13676",
+    "48422",
+    "Specialized freight (except used goods) trucking, local",
+    "51",
+    "107"
+  ],
+  [
+    "23",
+    "233",
+    "13676",
+    "484220",
+    "Specialized freight (except used goods) trucking, local",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "18",
+    "1001",
+    "48423",
+    "Specialized freight (except used goods) trucking, long-distance",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "18",
+    "1001",
+    "484230",
+    "Specialized freight (except used goods) trucking, long-distance",
+    "51",
+    "107"
+  ],
+  [
+    "34",
+    "752",
+    "34109",
+    "485",
+    "Transit and ground passenger transportation",
+    "51",
+    "107"
+  ],
+  [
+    "17",
+    "118",
+    "7147",
+    "48532",
+    "Limousine service",
+    "51",
+    "107"
+  ],
+  [
+    "13",
+    "150",
+    "5173",
+    "484122",
+    "General freight trucking, long-distance, less than truckload",
+    "51",
+    "107"
+  ],
+  [
+    "64",
+    "1264",
+    "84585",
+    "4842",
+    "Specialized freight trucking",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "272",
+    "12581",
+    "4851",
+    "Urban transit systems",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "272",
+    "12581",
+    "48511",
+    "Urban transit systems",
+    "51",
+    "107"
+  ],
+  [
+    "19",
+    "136",
+    "8028",
+    "4853",
+    "Taxi and limousine service",
+    "51",
+    "107"
+  ],
+  [
+    "17",
+    "118",
+    "7147",
+    "485320",
+    "Limousine service",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "220",
+    "10048",
+    "4855",
+    "Charter bus industry",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "220",
+    "10048",
+    "48551",
+    "Charter bus industry",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "220",
+    "10048",
+    "485510",
+    "Charter bus industry",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "124",
+    "3452",
+    "4859",
+    "Other transit and ground passenger transportation",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "124",
+    "3452",
+    "48599",
+    "Other transit and ground passenger transportation",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "58",
+    "2687",
+    "485999",
+    "All other transit and ground passenger transportation",
+    "51",
+    "107"
+  ],
+  [
+    "98",
+    "3889",
+    "151932",
+    "488",
+    "Support activities for transportation",
+    "51",
+    "107"
+  ],
+  [
+    "25",
+    "3032",
+    "96757",
+    "4881",
+    "Support activities for air transportation",
+    "51",
+    "107"
+  ],
+  [
+    "21",
+    "2974",
+    "92815",
+    "48811",
+    "Airport operations",
+    "51",
+    "107"
+  ],
+  [
+    "20",
+    "2968",
+    "92172",
+    "488119",
+    "Other airport operations",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "58",
+    "3942",
+    "48819",
+    "Other support activities for air transportation",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "58",
+    "3942",
+    "488190",
+    "Other support activities for air transportation",
+    "51",
+    "107"
+  ],
+  [
+    "23",
+    "186",
+    "10563",
+    "4884",
+    "Support activities for road transportation",
+    "51",
+    "107"
+  ],
+  [
+    "15",
+    "119",
+    "4918",
+    "48841",
+    "Motor vehicle towing",
+    "51",
+    "107"
+  ],
+  [
+    "15",
+    "119",
+    "4918",
+    "488410",
+    "Motor vehicle towing",
+    "51",
+    "107"
+  ],
+  [
+    "8",
+    "67",
+    "5645",
+    "48849",
+    "Other support activities for road transportation",
+    "51",
+    "107"
+  ],
+  [
+    "48",
+    "638",
+    "42688",
+    "488510",
+    "Freight transportation arrangement",
+    "51",
+    "107"
+  ],
+  [
+    "8",
+    "67",
+    "5645",
+    "488490",
+    "Other support activities for road transportation",
+    "51",
+    "107"
+  ],
+  [
+    "48",
+    "638",
+    "42688",
+    "4885",
+    "Freight transportation arrangement",
+    "51",
+    "107"
+  ],
+  [
+    "48",
+    "638",
+    "42688",
+    "48851",
+    "Freight transportation arrangement",
+    "51",
+    "107"
+  ],
+  [
+    "23",
+    "940",
+    "38100",
+    "492",
+    "Couriers and messengers",
+    "51",
+    "107"
+  ],
+  [
+    "16",
+    "563",
+    "27204",
+    "4921",
+    "Couriers and express delivery services",
+    "51",
+    "107"
+  ],
+  [
+    "16",
+    "563",
+    "27204",
+    "49211",
+    "Couriers and express delivery services",
+    "51",
+    "107"
+  ],
+  [
+    "16",
+    "563",
+    "27204",
+    "492110",
+    "Couriers and express delivery services",
+    "51",
+    "107"
+  ],
+  [
+    "7",
+    "377",
+    "10896",
+    "4922",
+    "Local messengers and local delivery",
+    "51",
+    "107"
+  ],
+  [
+    "7",
+    "377",
+    "10896",
+    "49221",
+    "Local messengers and local delivery",
+    "51",
+    "107"
+  ],
+  [
+    "7",
+    "377",
+    "10896",
+    "492210",
+    "Local messengers and local delivery",
+    "51",
+    "107"
+  ],
+  [
+    "15",
+    "896",
+    "31830",
+    "493",
+    "Warehousing and storage",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "72",
+    "4693",
+    "49319",
+    "Other warehousing and storage",
+    "51",
+    "107"
+  ],
+  [
+    "15",
+    "896",
+    "31830",
+    "4931",
+    "Warehousing and storage",
+    "51",
+    "107"
+  ],
+  [
+    "9",
+    "805",
+    "26202",
+    "49311",
+    "General warehousing and storage",
+    "51",
+    "107"
+  ],
+  [
+    "9",
+    "805",
+    "26202",
+    "493110",
+    "General warehousing and storage",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "72",
+    "4693",
+    "493190",
+    "Other warehousing and storage",
+    "51",
+    "107"
+  ],
+  [
+    "326",
+    "9296",
+    "1256890",
+    "51",
+    "Information",
+    "51",
+    "107"
+  ],
+  [
+    "56",
+    "776",
+    "118430",
+    "511",
+    "Publishing industries (except internet)",
+    "51",
+    "107"
+  ],
+  [
+    "16",
+    "185",
+    "9985",
+    "5111",
+    "Newspaper, periodical, book, and directory publishers",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "30",
+    "1758",
+    "51111",
+    "Newspaper publishers",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "30",
+    "1758",
+    "511110",
+    "Newspaper publishers",
+    "51",
+    "107"
+  ],
+  [
+    "7",
+    "51",
+    "2310",
+    "51112",
+    "Periodical publishers",
+    "51",
+    "107"
+  ],
+  [
+    "7",
+    "51",
+    "2310",
+    "511120",
+    "Periodical publishers",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "99",
+    "5413",
+    "51113",
+    "Book publishers",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "99",
+    "5413",
+    "511130",
+    "Book publishers",
+    "51",
+    "107"
+  ],
+  [
+    "40",
+    "591",
+    "108445",
+    "5112",
+    "Software publishers",
+    "51",
+    "107"
+  ],
+  [
+    "40",
+    "591",
+    "108445",
+    "51121",
+    "Software publishers",
+    "51",
+    "107"
+  ],
+  [
+    "40",
+    "591",
+    "108445",
+    "511210",
+    "Software publishers",
+    "51",
+    "107"
+  ],
+  [
+    "25",
+    "214",
+    "5387",
+    "512",
+    "Motion picture and sound recording industries",
+    "51",
+    "107"
+  ],
+  [
+    "24",
+    "211",
+    "5183",
+    "5121",
+    "Motion picture and video industries",
+    "51",
+    "107"
+  ],
+  [
+    "13",
+    "19",
+    "1078",
+    "51211",
+    "Motion picture and video production",
+    "51",
+    "107"
+  ],
+  [
+    "13",
+    "19",
+    "1078",
+    "512110",
+    "Motion picture and video production",
+    "51",
+    "107"
+  ],
+  [
+    "8",
+    "188",
+    "3894",
+    "51213",
+    "Motion picture and video exhibition",
+    "51",
+    "107"
+  ],
+  [
+    "8",
+    "188",
+    "3894",
+    "512131",
+    "Motion picture theaters (except drive-ins)",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "4",
+    "211",
+    "51219",
+    "Postproduction services and other motion picture and video industries",
+    "51",
+    "107"
+  ],
+  [
+    "116",
+    "3959",
+    "490304",
+    "517",
+    "Telecommunications",
+    "51",
+    "107"
+  ],
+  [
+    "101",
+    "3666",
+    "446097",
+    "5173",
+    "Wired and wireless telecommunications carriers",
+    "51",
+    "107"
+  ],
+  [
+    "101",
+    "3666",
+    "446097",
+    "51731",
+    "Wired and wireless telecommunications carriers",
+    "51",
+    "107"
+  ],
+  [
+    "13",
+    "90",
+    "6787",
+    "51791",
+    "Other telecommunications",
+    "51",
+    "107"
+  ],
+  [
+    "83",
+    "3514",
+    "434737",
+    "517311",
+    "Wired telecommunications carriers",
+    "51",
+    "107"
+  ],
+  [
+    "18",
+    "152",
+    "11360",
+    "517312",
+    "Wireless telecommunications carriers (except satellite)",
+    "51",
+    "107"
+  ],
+  [
+    "13",
+    "90",
+    "6787",
+    "5179",
+    "Other telecommunications",
+    "51",
+    "107"
+  ],
+  [
+    "9",
+    "64",
+    "4873",
+    "517911",
+    "Telecommunications resellers",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "26",
+    "1914",
+    "517919",
+    "All other telecommunications",
+    "51",
+    "107"
+  ],
+  [
+    "83",
+    "1980",
+    "339087",
+    "518",
+    "Data processing, hosting, and related services",
+    "51",
+    "107"
+  ],
+  [
+    "83",
+    "1980",
+    "339087",
+    "5182",
+    "Data processing, hosting, and related services",
+    "51",
+    "107"
+  ],
+  [
+    "83",
+    "1980",
+    "339087",
+    "51821",
+    "Data processing, hosting, and related services",
+    "51",
+    "107"
+  ],
+  [
+    "44",
+    "1942",
+    "255541",
+    "5191",
+    "Other information services",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "19",
+    "1175",
+    "51912",
+    "Libraries and archives",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "19",
+    "1175",
+    "519120",
+    "Libraries and archives",
+    "51",
+    "107"
+  ],
+  [
+    "25",
+    "1787",
+    "246329",
+    "51913",
+    "Internet publishing and broadcasting and web search portals",
+    "51",
+    "107"
+  ],
+  [
+    "25",
+    "1787",
+    "246329",
+    "519130",
+    "Internet publishing and broadcasting and web search portals",
+    "51",
+    "107"
+  ],
+  [
+    "16",
+    "136",
+    "8037",
+    "51919",
+    "All other information services",
+    "51",
+    "107"
+  ],
+  [
+    "16",
+    "136",
+    "8037",
+    "519190",
+    "All other information services",
+    "51",
+    "107"
+  ],
+  [
+    "406",
+    "3552",
+    "394186",
+    "52",
+    "Finance and insurance",
+    "51",
+    "107"
+  ],
+  [
+    "162",
+    "2101",
+    "246890",
+    "522",
+    "Credit intermediation and related activities",
+    "51",
+    "107"
+  ],
+  [
+    "111",
+    "939",
+    "52633",
+    "5221",
+    "Depository credit intermediation",
+    "51",
+    "107"
+  ],
+  [
+    "98",
+    "846",
+    "46183",
+    "52211",
+    "Commercial banking",
+    "51",
+    "107"
+  ],
+  [
+    "98",
+    "846",
+    "46183",
+    "522110",
+    "Commercial banking",
+    "51",
+    "107"
+  ],
+  [
+    "11",
+    "76",
+    "4318",
+    "52213",
+    "Credit unions",
+    "51",
+    "107"
+  ],
+  [
+    "11",
+    "76",
+    "4318",
+    "522130",
+    "Credit unions",
+    "51",
+    "107"
+  ],
+  [
+    "37",
+    "501",
+    "80091",
+    "5222",
+    "Nondepository credit intermediation",
+    "51",
+    "107"
+  ],
+  [
+    "34",
+    "488",
+    "79358",
+    "52229",
+    "Other nondepository credit intermediation",
+    "51",
+    "107"
+  ],
+  [
+    "7",
+    "35",
+    "2762",
+    "522291",
+    "Consumer lending",
+    "51",
+    "107"
+  ],
+  [
+    "20",
+    "197",
+    "32573",
+    "522292",
+    "Real estate credit",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "9",
+    "1077",
+    "522310",
+    "Mortgage and nonmortgage loan brokers",
+    "51",
+    "107"
+  ],
+  [
+    "83",
+    "1980",
+    "339087",
+    "518210",
+    "Data processing, hosting, and related services",
+    "51",
+    "107"
+  ],
+  [
+    "44",
+    "1942",
+    "255541",
+    "519",
+    "Other information services",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "254",
+    "44017",
+    "522298",
+    "All other nondepository credit intermediation",
+    "51",
+    "107"
+  ],
+  [
+    "14",
+    "661",
+    "114166",
+    "5223",
+    "Activities related to credit intermediation",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "9",
+    "1077",
+    "52231",
+    "Mortgage and nonmortgage loan brokers",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "647",
+    "112918",
+    "52232",
+    "Financial transactions processing, reserve, and clearinghouse activities",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "647",
+    "112918",
+    "522320",
+    "Financial transactions processing, reserve, and clearinghouse activities",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "5",
+    "171",
+    "52239",
+    "Other activities related to credit intermediation",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "5",
+    "171",
+    "522390",
+    "Other activities related to credit intermediation",
+    "51",
+    "107"
+  ],
+  [
+    "120",
+    "364",
+    "60040",
+    "523",
+    "Securities, commodity contracts, and other financial investments and related activities",
+    "51",
+    "107"
+  ],
+  [
+    "38",
+    "124",
+    "18563",
+    "5231",
+    "Securities and commodity contracts intermediation and brokerage",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "7",
+    "1092",
+    "52311",
+    "Investment banking and securities dealing",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "7",
+    "1092",
+    "523110",
+    "Investment banking and securities dealing",
+    "51",
+    "107"
+  ],
+  [
+    "33",
+    "117",
+    "17471",
+    "52312",
+    "Securities brokerage",
+    "51",
+    "107"
+  ],
+  [
+    "33",
+    "117",
+    "17471",
+    "523120",
+    "Securities brokerage",
+    "51",
+    "107"
+  ],
+  [
+    "82",
+    "240",
+    "41477",
+    "5239",
+    "Other financial investment activities",
+    "51",
+    "107"
+  ],
+  [
+    "7",
+    "35",
+    "2825",
+    "52391",
+    "Miscellaneous intermediation",
+    "51",
+    "107"
+  ],
+  [
+    "7",
+    "35",
+    "2825",
+    "523910",
+    "Miscellaneous intermediation",
+    "51",
+    "107"
+  ],
+  [
+    "46",
+    "148",
+    "33704",
+    "52392",
+    "Portfolio management",
+    "51",
+    "107"
+  ],
+  [
+    "22",
+    "51",
+    "4302",
+    "52393",
+    "Investment advice",
+    "51",
+    "107"
+  ],
+  [
+    "22",
+    "51",
+    "4302",
+    "523930",
+    "Investment advice",
+    "51",
+    "107"
+  ],
+  [
+    "7",
+    "6",
+    "646",
+    "52399",
+    "All other financial investment activities",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "3",
+    "521",
+    "523999",
+    "Miscellaneous financial investment activities",
+    "51",
+    "107"
+  ],
+  [
+    "119",
+    "1083",
+    "86966",
+    "524",
+    "Insurance carriers and related activities",
+    "51",
+    "107"
+  ],
+  [
+    "14",
+    "563",
+    "43658",
+    "5241",
+    "Insurance carriers",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "459",
+    "34316",
+    "52411",
+    "Direct life, health, and medical insurance carriers",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "79",
+    "7470",
+    "524113",
+    "Direct life insurance carriers",
+    "51",
+    "107"
+  ],
+  [
+    "8",
+    "104",
+    "9342",
+    "52412",
+    "Direct insurance (except life, health, and medical) carriers",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "95",
+    "8070",
+    "524126",
+    "Direct property and casualty insurance carriers",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "8",
+    "1216",
+    "524127",
+    "Direct title insurance carriers",
+    "51",
+    "107"
+  ],
+  [
+    "105",
+    "520",
+    "43308",
+    "5242",
+    "Agencies, brokerages, and other insurance related activities",
+    "51",
+    "107"
+  ],
+  [
+    "99",
+    "512",
+    "42641",
+    "52421",
+    "Insurance agencies and brokerages",
+    "51",
+    "107"
+  ],
+  [
+    "99",
+    "512",
+    "42641",
+    "524210",
+    "Insurance agencies and brokerages",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "8",
+    "667",
+    "52429",
+    "Other insurance related activities",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "4",
+    "290",
+    "525990",
+    "Other financial vehicles",
+    "51",
+    "107"
+  ],
+  [
+    "46",
+    "148",
+    "33704",
+    "523920",
+    "Portfolio management",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "3",
+    "519",
+    "524292",
+    "Third party administration of insurance and pension funds",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "4",
+    "290",
+    "525",
+    "Funds, trusts, and other financial vehicles",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "4",
+    "290",
+    "5259",
+    "Other investment pools and funds",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "4",
+    "290",
+    "52599",
+    "Other financial vehicles",
+    "51",
+    "107"
+  ],
+  [
+    "554",
+    "1621",
+    "121741",
+    "53",
+    "Real estate and rental and leasing",
+    "51",
+    "107"
+  ],
+  [
+    "501",
+    "1179",
+    "91447",
+    "531",
+    "Real estate",
+    "51",
+    "107"
+  ],
+  [
+    "112",
+    "326",
+    "27246",
+    "5311",
+    "Lessors of real estate",
+    "51",
+    "107"
+  ],
+  [
+    "39",
+    "170",
+    "15027",
+    "53111",
+    "Lessors of residential buildings and dwellings",
+    "51",
+    "107"
+  ],
+  [
+    "39",
+    "170",
+    "15027",
+    "531110",
+    "Lessors of residential buildings and dwellings",
+    "51",
+    "107"
+  ],
+  [
+    "42",
+    "97",
+    "9526",
+    "53112",
+    "Lessors of nonresidential buildings (except miniwarehouses)",
+    "51",
+    "107"
+  ],
+  [
+    "42",
+    "97",
+    "9526",
+    "531120",
+    "Lessors of nonresidential buildings (except miniwarehouses)",
+    "51",
+    "107"
+  ],
+  [
+    "26",
+    "50",
+    "2379",
+    "53113",
+    "Lessors of miniwarehouses and self-storage units",
+    "51",
+    "107"
+  ],
+  [
+    "26",
+    "50",
+    "2379",
+    "531130",
+    "Lessors of miniwarehouses and self-storage units",
+    "51",
+    "107"
+  ],
+  [
+    "277",
+    "484",
+    "40175",
+    "53121",
+    "Offices of real estate agents and brokers",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "9",
+    "314",
+    "53119",
+    "Lessors of other real estate property",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "9",
+    "314",
+    "531190",
+    "Lessors of other real estate property",
+    "51",
+    "107"
+  ],
+  [
+    "277",
+    "484",
+    "40175",
+    "5312",
+    "Offices of real estate agents and brokers",
+    "51",
+    "107"
+  ],
+  [
+    "277",
+    "484",
+    "40175",
+    "531210",
+    "Offices of real estate agents and brokers",
+    "51",
+    "107"
+  ],
+  [
+    "112",
+    "369",
+    "24026",
+    "5313",
+    "Activities related to real estate",
+    "51",
+    "107"
+  ],
+  [
+    "55",
+    "256",
+    "15618",
+    "53131",
+    "Real estate property managers",
+    "51",
+    "107"
+  ],
+  [
+    "35",
+    "197",
+    "12213",
+    "531311",
+    "Residential property managers",
+    "51",
+    "107"
+  ],
+  [
+    "20",
+    "59",
+    "3405",
+    "531312",
+    "Nonresidential property managers",
+    "51",
+    "107"
+  ],
+  [
+    "16",
+    "29",
+    "1954",
+    "53132",
+    "Offices of real estate appraisers",
+    "51",
+    "107"
+  ],
+  [
+    "16",
+    "29",
+    "1954",
+    "531320",
+    "Offices of real estate appraisers",
+    "51",
+    "107"
+  ],
+  [
+    "41",
+    "84",
+    "6454",
+    "53139",
+    "Other activities related to real estate",
+    "51",
+    "107"
+  ],
+  [
+    "41",
+    "84",
+    "6454",
+    "531390",
+    "Other activities related to real estate",
+    "51",
+    "107"
+  ],
+  [
+    "45",
+    "380",
+    "26600",
+    "532",
+    "Rental and leasing services",
+    "51",
+    "107"
+  ],
+  [
+    "24",
+    "228",
+    "14288",
+    "5321",
+    "Automotive equipment rental and leasing",
+    "51",
+    "107"
+  ],
+  [
+    "21",
+    "221",
+    "13835",
+    "53211",
+    "Passenger car rental and leasing",
+    "51",
+    "107"
+  ],
+  [
+    "20",
+    "220",
+    "13801",
+    "532111",
+    "Passenger car rental",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "7",
+    "453",
+    "53212",
+    "Truck, utility trailer, and RV (recreational vehicle) rental and leasing",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "7",
+    "453",
+    "532120",
+    "Truck, utility trailer, and RV (recreational vehicle) rental and leasing",
+    "51",
+    "107"
+  ],
+  [
+    "8",
+    "12",
+    "705",
+    "5322",
+    "Consumer goods rental",
+    "51",
+    "107"
+  ],
+  [
+    "7",
+    "10",
+    "605",
+    "53228",
+    "Other consumer goods rental",
+    "51",
+    "107"
+  ],
+  [
+    "7",
+    "10",
+    "605",
+    "532289",
+    "All other consumer goods rental",
+    "51",
+    "107"
+  ],
+  [
+    "11",
+    "135",
+    "11492",
+    "5324",
+    "Commercial and industrial machinery and equipment rental and leasing",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "46",
+    "4913",
+    "53241",
+    "Construction, transportation, mining, and forestry machinery and equipment rental and leasing",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "46",
+    "4913",
+    "532412",
+    "Construction, mining, and forestry machinery and equipment rental and leasing",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "88",
+    "6570",
+    "53249",
+    "Other commercial and industrial machinery and equipment rental and leasing",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "88",
+    "6570",
+    "532490",
+    "Other commercial and industrial machinery and equipment rental and leasing",
+    "51",
+    "107"
+  ],
+  [
+    "8",
+    "62",
+    "3694",
+    "533",
+    "Lessors of nonfinancial intangible assets (except copyrighted works)",
+    "51",
+    "107"
+  ],
+  [
+    "8",
+    "62",
+    "3694",
+    "5331",
+    "Lessors of nonfinancial intangible assets (except copyrighted works)",
+    "51",
+    "107"
+  ],
+  [
+    "8",
+    "62",
+    "3694",
+    "53311",
+    "Lessors of nonfinancial intangible assets (except copyrighted works)",
+    "51",
+    "107"
+  ],
+  [
+    "8",
+    "62",
+    "3694",
+    "533110",
+    "Lessors of nonfinancial intangible assets (except copyrighted works)",
+    "51",
+    "107"
+  ],
+  [
+    "3584",
+    "35121",
+    "3360660",
+    "54",
+    "Professional, scientific, and technical services",
+    "51",
+    "107"
+  ],
+  [
+    "3584",
+    "35121",
+    "3360660",
+    "541",
+    "Professional, scientific, and technical services",
+    "51",
+    "107"
+  ],
+  [
+    "144",
+    "800",
+    "69837",
+    "5411",
+    "Legal services",
+    "51",
+    "107"
+  ],
+  [
+    "105",
+    "446",
+    "44734",
+    "54111",
+    "Offices of lawyers",
+    "51",
+    "107"
+  ],
+  [
+    "105",
+    "446",
+    "44734",
+    "541110",
+    "Offices of lawyers",
+    "51",
+    "107"
+  ],
+  [
+    "39",
+    "354",
+    "25103",
+    "54119",
+    "Other legal services",
+    "51",
+    "107"
+  ],
+  [
+    "28",
+    "264",
+    "18334",
+    "541191",
+    "Title abstract and settlement offices",
+    "51",
+    "107"
+  ],
+  [
+    "11",
+    "90",
+    "6769",
+    "541199",
+    "All other legal services",
+    "51",
+    "107"
+  ],
+  [
+    "161",
+    "524",
+    "31384",
+    "5412",
+    "Accounting, tax preparation, bookkeeping, and payroll services",
+    "51",
+    "107"
+  ],
+  [
+    "161",
+    "524",
+    "31384",
+    "54121",
+    "Accounting, tax preparation, bookkeeping, and payroll services",
+    "51",
+    "107"
+  ],
+  [
+    "33",
+    "101",
+    "3241",
+    "541213",
+    "Tax preparation services",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "53",
+    "4733",
+    "541214",
+    "Payroll services",
+    "51",
+    "107"
+  ],
+  [
+    "61",
+    "135",
+    "7258",
+    "541219",
+    "Other accounting services",
+    "51",
+    "107"
+  ],
+  [
+    "252",
+    "4356",
+    "528483",
+    "5413",
+    "Architectural, engineering, and related services",
+    "51",
+    "107"
+  ],
+  [
+    "25",
+    "70",
+    "5765",
+    "54131",
+    "Architectural services",
+    "51",
+    "107"
+  ],
+  [
+    "25",
+    "70",
+    "5765",
+    "541310",
+    "Architectural services",
+    "51",
+    "107"
+  ],
+  [
+    "13",
+    "227",
+    "11889",
+    "54132",
+    "Landscape architectural services",
+    "51",
+    "107"
+  ],
+  [
+    "13",
+    "227",
+    "11889",
+    "541320",
+    "Landscape architectural services",
+    "51",
+    "107"
+  ],
+  [
+    "187",
+    "3528",
+    "473452",
+    "54133",
+    "Engineering services",
+    "51",
+    "107"
+  ],
+  [
+    "187",
+    "3528",
+    "473452",
+    "541330",
+    "Engineering services",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "131",
+    "9854",
+    "54138",
+    "Testing laboratories",
+    "51",
+    "107"
+  ],
+  [
+    "63",
+    "235",
+    "16152",
+    "541211",
+    "Offices of certified public accountants",
+    "51",
+    "107"
+  ],
+  [
+    "11",
+    "335",
+    "20805",
+    "54135",
+    "Building inspection services",
+    "51",
+    "107"
+  ],
+  [
+    "11",
+    "335",
+    "20805",
+    "541350",
+    "Building inspection services",
+    "51",
+    "107"
+  ],
+  [
+    "7",
+    "60",
+    "6096",
+    "54137",
+    "Surveying and mapping (except geophysical) services",
+    "51",
+    "107"
+  ],
+  [
+    "7",
+    "60",
+    "6096",
+    "541370",
+    "Surveying and mapping (except geophysical) services",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "131",
+    "9854",
+    "541380",
+    "Testing laboratories",
+    "51",
+    "107"
+  ],
+  [
+    "56",
+    "163",
+    "9513",
+    "5414",
+    "Specialized design services",
+    "51",
+    "107"
+  ],
+  [
+    "26",
+    "68",
+    "3616",
+    "54141",
+    "Interior design services",
+    "51",
+    "107"
+  ],
+  [
+    "26",
+    "68",
+    "3616",
+    "541410",
+    "Interior design services",
+    "51",
+    "107"
+  ],
+  [
+    "27",
+    "88",
+    "5124",
+    "54143",
+    "Graphic design services",
+    "51",
+    "107"
+  ],
+  [
+    "27",
+    "88",
+    "5124",
+    "541430",
+    "Graphic design services",
+    "51",
+    "107"
+  ],
+  [
+    "1973",
+    "19955",
+    "1998425",
+    "5415",
+    "Computer systems design and related services",
+    "51",
+    "107"
+  ],
+  [
+    "41",
+    "596",
+    "59504",
+    "541513",
+    "Computer facilities management services",
+    "51",
+    "107"
+  ],
+  [
+    "192",
+    "1329",
+    "123855",
+    "541519",
+    "Other computer related services",
+    "51",
+    "107"
+  ],
+  [
+    "678",
+    "6139",
+    "422906",
+    "5416",
+    "Management, scientific, and technical consulting services",
+    "51",
+    "107"
+  ],
+  [
+    "34",
+    "409",
+    "32167",
+    "541612",
+    "Human resources consulting services",
+    "51",
+    "107"
+  ],
+  [
+    "109",
+    "211",
+    "15786",
+    "541613",
+    "Marketing consulting services",
+    "51",
+    "107"
+  ],
+  [
+    "11",
+    "29",
+    "1842",
+    "541614",
+    "Process, physical distribution, and logistics consulting services",
+    "51",
+    "107"
+  ],
+  [
+    "73",
+    "277",
+    "36783",
+    "541618",
+    "Other management consulting services",
+    "51",
+    "107"
+  ],
+  [
+    "13",
+    "75",
+    "5800",
+    "54162",
+    "Environmental consulting services",
+    "51",
+    "107"
+  ],
+  [
+    "13",
+    "75",
+    "5800",
+    "541620",
+    "Environmental consulting services",
+    "51",
+    "107"
+  ],
+  [
+    "110",
+    "1227",
+    "86967",
+    "54169",
+    "Other scientific and technical consulting services",
+    "51",
+    "107"
+  ],
+  [
+    "37",
+    "1344",
+    "170577",
+    "5417",
+    "Scientific research and development services",
+    "51",
+    "107"
+  ],
+  [
+    "35",
+    "1322",
+    "165608",
+    "54171",
+    "Research and development in the physical, engineering, and life sciences",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "17",
+    "2539",
+    "541713",
+    "Research and development in nanotechnology",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "521",
+    "51349",
+    "541714",
+    "Research and development in biotechnology (except nanobiotechnology)",
+    "51",
+    "107"
+  ],
+  [
+    "26",
+    "784",
+    "111720",
+    "541715",
+    "Research and development in the physical, engineering, and life sciences (except nanotechnology and biotechnology)",
+    "51",
+    "107"
+  ],
+  [
+    "67",
+    "463",
+    "38580",
+    "5418",
+    "Advertising, public relations, and related services",
+    "51",
+    "107"
+  ],
+  [
+    "10",
+    "66",
+    "7543",
+    "54181",
+    "Advertising agencies",
+    "51",
+    "107"
+  ],
+  [
+    "22",
+    "34",
+    "5395",
+    "54182",
+    "Public relations agencies",
+    "51",
+    "107"
+  ],
+  [
+    "22",
+    "34",
+    "5395",
+    "541820",
+    "Public relations agencies",
+    "51",
+    "107"
+  ],
+  [
+    "13",
+    "225",
+    "18227",
+    "54186",
+    "Direct mail advertising",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "10",
+    "1759",
+    "54191",
+    "Marketing research and public opinion polling",
+    "51",
+    "107"
+  ],
+  [
+    "1973",
+    "19955",
+    "1998425",
+    "54151",
+    "Computer systems design and related services",
+    "51",
+    "107"
+  ],
+  [
+    "948",
+    "11680",
+    "1063631",
+    "541511",
+    "Custom computer programming services",
+    "51",
+    "107"
+  ],
+  [
+    "792",
+    "6350",
+    "751435",
+    "541512",
+    "Computer systems design services",
+    "51",
+    "107"
+  ],
+  [
+    "555",
+    "4837",
+    "330139",
+    "54161",
+    "Management consulting services",
+    "51",
+    "107"
+  ],
+  [
+    "328",
+    "3911",
+    "243561",
+    "541611",
+    "Administrative management and general management consulting services",
+    "51",
+    "107"
+  ],
+  [
+    "110",
+    "1227",
+    "86967",
+    "541690",
+    "Other scientific and technical consulting services",
+    "51",
+    "107"
+  ],
+  [
+    "10",
+    "66",
+    "7543",
+    "541810",
+    "Advertising agencies",
+    "51",
+    "107"
+  ],
+  [
+    "13",
+    "225",
+    "18227",
+    "541860",
+    "Direct mail advertising",
+    "51",
+    "107"
+  ],
+  [
+    "16",
+    "137",
+    "7141",
+    "54189",
+    "Other services related to advertising",
+    "51",
+    "107"
+  ],
+  [
+    "16",
+    "137",
+    "7141",
+    "541890",
+    "Other services related to advertising",
+    "51",
+    "107"
+  ],
+  [
+    "216",
+    "1377",
+    "90955",
+    "5419",
+    "Other professional, scientific, and technical services",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "10",
+    "1759",
+    "541910",
+    "Marketing research and public opinion polling",
+    "51",
+    "107"
+  ],
+  [
+    "21",
+    "51",
+    "1660",
+    "54192",
+    "Photographic services",
+    "51",
+    "107"
+  ],
+  [
+    "17",
+    "45",
+    "1288",
+    "541921",
+    "Photography studios, portrait",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "6",
+    "372",
+    "541922",
+    "Commercial photography",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "18",
+    "1161",
+    "54193",
+    "Translation and interpretation services",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "18",
+    "1161",
+    "541930",
+    "Translation and interpretation services",
+    "51",
+    "107"
+  ],
+  [
+    "66",
+    "844",
+    "47694",
+    "54194",
+    "Veterinary services",
+    "51",
+    "107"
+  ],
+  [
+    "66",
+    "844",
+    "47694",
+    "541940",
+    "Veterinary services",
+    "51",
+    "107"
+  ],
+  [
+    "117",
+    "454",
+    "38681",
+    "54199",
+    "All other professional, scientific, and technical services",
+    "51",
+    "107"
+  ],
+  [
+    "117",
+    "454",
+    "38681",
+    "541990",
+    "All other professional, scientific, and technical services",
+    "51",
+    "107"
+  ],
+  [
+    "50",
+    "4351",
+    "370025",
+    "551",
+    "Management of companies and enterprises",
+    "51",
+    "107"
+  ],
+  [
+    "50",
+    "4351",
+    "370025",
+    "5511",
+    "Management of companies and enterprises",
+    "51",
+    "107"
+  ],
+  [
+    "50",
+    "4351",
+    "370025",
+    "55111",
+    "Management of companies and enterprises",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "8",
+    "608",
+    "551112",
+    "Offices of other holding companies",
+    "51",
+    "107"
+  ],
+  [
+    "45",
+    "4343",
+    "369417",
+    "551114",
+    "Corporate, subsidiary, and regional managing offices",
+    "51",
+    "107"
+  ],
+  [
+    "607",
+    "11819",
+    "673219",
+    "56",
+    "Administrative and support and waste management and remediation services",
+    "51",
+    "107"
+  ],
+  [
+    "60",
+    "2302",
+    "129029",
+    "561110",
+    "Office administrative services",
+    "51",
+    "107"
+  ],
+  [
+    "16",
+    "182",
+    "7216",
+    "5612",
+    "Facilities support services",
+    "51",
+    "107"
+  ],
+  [
+    "16",
+    "182",
+    "7216",
+    "56121",
+    "Facilities support services",
+    "51",
+    "107"
+  ],
+  [
+    "16",
+    "182",
+    "7216",
+    "561210",
+    "Facilities support services",
+    "51",
+    "107"
+  ],
+  [
+    "68",
+    "1819",
+    "143018",
+    "5613",
+    "Employment services",
+    "51",
+    "107"
+  ],
+  [
+    "26",
+    "131",
+    "11622",
+    "56131",
+    "Employment placement agencies and executive search services",
+    "51",
+    "107"
+  ],
+  [
+    "11",
+    "115",
+    "10150",
+    "561311",
+    "Employment placement agencies",
+    "51",
+    "107"
+  ],
+  [
+    "15",
+    "16",
+    "1472",
+    "561312",
+    "Executive search services",
+    "51",
+    "107"
+  ],
+  [
+    "37",
+    "1621",
+    "126136",
+    "56132",
+    "Temporary help services",
+    "51",
+    "107"
+  ],
+  [
+    "37",
+    "1621",
+    "126136",
+    "561320",
+    "Temporary help services",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "67",
+    "5260",
+    "56133",
+    "Professional employer organizations",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "67",
+    "5260",
+    "561330",
+    "Professional employer organizations",
+    "51",
+    "107"
+  ],
+  [
+    "34",
+    "404",
+    "30138",
+    "5614",
+    "Business support services",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "7",
+    "758",
+    "56141",
+    "Document preparation services",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "7",
+    "758",
+    "561410",
+    "Document preparation services",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "37",
+    "991",
+    "56142",
+    "Telephone call centers",
+    "51",
+    "107"
+  ],
+  [
+    "14",
+    "101",
+    "3650",
+    "56143",
+    "Business service centers",
+    "51",
+    "107"
+  ],
+  [
+    "8",
+    "57",
+    "1661",
+    "561431",
+    "Private mail centers",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "44",
+    "1989",
+    "561439",
+    "Other business service centers (including copy shops)",
+    "51",
+    "107"
+  ],
+  [
+    "13",
+    "259",
+    "24739",
+    "56149",
+    "Other business support services",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "3",
+    "231",
+    "561492",
+    "Court reporting and stenotype services",
+    "51",
+    "107"
+  ],
+  [
+    "8",
+    "232",
+    "23779",
+    "561499",
+    "All other business support services",
+    "51",
+    "107"
+  ],
+  [
+    "7",
+    "33",
+    "1973",
+    "5615",
+    "Travel arrangement and reservation services",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "12",
+    "411",
+    "561599",
+    "All other travel arrangement and reservation services",
+    "51",
+    "107"
+  ],
+  [
+    "50",
+    "4351",
+    "370025",
+    "55",
+    "Management of companies and enterprises",
+    "51",
+    "107"
+  ],
+  [
+    "588",
+    "11513",
+    "652520",
+    "561",
+    "Administrative and support services",
+    "51",
+    "107"
+  ],
+  [
+    "60",
+    "2302",
+    "129029",
+    "5611",
+    "Office administrative services",
+    "51",
+    "107"
+  ],
+  [
+    "60",
+    "2302",
+    "129029",
+    "56111",
+    "Office administrative services",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "8",
+    "549",
+    "56151",
+    "Travel agencies",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "8",
+    "549",
+    "561510",
+    "Travel agencies",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "25",
+    "1424",
+    "56159",
+    "Other travel arrangement and reservation services",
+    "51",
+    "107"
+  ],
+  [
+    "32",
+    "1704",
+    "108058",
+    "5616",
+    "Investigation and security services",
+    "51",
+    "107"
+  ],
+  [
+    "18",
+    "1572",
+    "98724",
+    "56161",
+    "Investigation, guard, and armored car services",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "62",
+    "2101",
+    "561611",
+    "Investigation services",
+    "51",
+    "107"
+  ],
+  [
+    "14",
+    "1469",
+    "94418",
+    "561612",
+    "Security guards and patrol services",
+    "51",
+    "107"
+  ],
+  [
+    "14",
+    "132",
+    "9334",
+    "56162",
+    "Security systems services",
+    "51",
+    "107"
+  ],
+  [
+    "11",
+    "121",
+    "8537",
+    "561621",
+    "Security systems services (except locksmiths)",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "11",
+    "797",
+    "561622",
+    "Locksmiths",
+    "51",
+    "107"
+  ],
+  [
+    "352",
+    "4946",
+    "221016",
+    "5617",
+    "Services to buildings and dwellings",
+    "51",
+    "107"
+  ],
+  [
+    "118",
+    "1548",
+    "46890",
+    "561720",
+    "Janitorial services",
+    "51",
+    "107"
+  ],
+  [
+    "22",
+    "277",
+    "17062",
+    "56171",
+    "Exterminating and pest control services",
+    "51",
+    "107"
+  ],
+  [
+    "22",
+    "277",
+    "17062",
+    "561710",
+    "Exterminating and pest control services",
+    "51",
+    "107"
+  ],
+  [
+    "118",
+    "1548",
+    "46890",
+    "56172",
+    "Janitorial services",
+    "51",
+    "107"
+  ],
+  [
+    "179",
+    "2827",
+    "144272",
+    "56173",
+    "Landscaping services",
+    "51",
+    "107"
+  ],
+  [
+    "179",
+    "2827",
+    "144272",
+    "561730",
+    "Landscaping services",
+    "51",
+    "107"
+  ],
+  [
+    "13",
+    "180",
+    "8311",
+    "56174",
+    "Carpet and upholstery cleaning services",
+    "51",
+    "107"
+  ],
+  [
+    "13",
+    "180",
+    "8311",
+    "561740",
+    "Carpet and upholstery cleaning services",
+    "51",
+    "107"
+  ],
+  [
+    "20",
+    "114",
+    "4481",
+    "56179",
+    "Other services to buildings and dwellings",
+    "51",
+    "107"
+  ],
+  [
+    "10",
+    "28",
+    "3066",
+    "561920",
+    "Convention and trade show organizers",
+    "51",
+    "107"
+  ],
+  [
+    "20",
+    "114",
+    "4481",
+    "561790",
+    "Other services to buildings and dwellings",
+    "51",
+    "107"
+  ],
+  [
+    "19",
+    "123",
+    "12072",
+    "5619",
+    "Other support services",
+    "51",
+    "107"
+  ],
+  [
+    "10",
+    "28",
+    "3066",
+    "56192",
+    "Convention and trade show organizers",
+    "51",
+    "107"
+  ],
+  [
+    "9",
+    "95",
+    "9006",
+    "56199",
+    "All other support services",
+    "51",
+    "107"
+  ],
+  [
+    "9",
+    "95",
+    "9006",
+    "561990",
+    "All other support services",
+    "51",
+    "107"
+  ],
+  [
+    "19",
+    "306",
+    "20699",
+    "562",
+    "Waste management and remediation services",
+    "51",
+    "107"
+  ],
+  [
+    "8",
+    "121",
+    "12364",
+    "5621",
+    "Waste collection",
+    "51",
+    "107"
+  ],
+  [
+    "8",
+    "121",
+    "12364",
+    "56211",
+    "Waste collection",
+    "51",
+    "107"
+  ],
+  [
+    "7",
+    "120",
+    "12340",
+    "562111",
+    "Solid waste collection",
+    "51",
+    "107"
+  ],
+  [
+    "9",
+    "128",
+    "6832",
+    "5629",
+    "Remediation and other waste management services",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "25",
+    "922",
+    "56291",
+    "Remediation services",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "25",
+    "922",
+    "562910",
+    "Remediation services",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "103",
+    "5910",
+    "56299",
+    "All other waste management services",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "62",
+    "3183",
+    "562991",
+    "Septic tank and related services",
+    "51",
+    "107"
+  ],
+  [
+    "262",
+    "2750",
+    "90364",
+    "61",
+    "Educational services",
+    "51",
+    "107"
+  ],
+  [
+    "262",
+    "2750",
+    "90364",
+    "611",
+    "Educational services",
+    "51",
+    "107"
+  ],
+  [
+    "41",
+    "1037",
+    "45521",
+    "6111",
+    "Elementary and secondary schools",
+    "51",
+    "107"
+  ],
+  [
+    "41",
+    "1037",
+    "45521",
+    "61111",
+    "Elementary and secondary schools",
+    "51",
+    "107"
+  ],
+  [
+    "41",
+    "1037",
+    "45521",
+    "611110",
+    "Elementary and secondary schools",
+    "51",
+    "107"
+  ],
+  [
+    "8",
+    "324",
+    "8249",
+    "6113",
+    "Colleges, universities, and professional schools",
+    "51",
+    "107"
+  ],
+  [
+    "8",
+    "324",
+    "8249",
+    "61131",
+    "Colleges, universities, and professional schools",
+    "51",
+    "107"
+  ],
+  [
+    "8",
+    "324",
+    "8249",
+    "611310",
+    "Colleges, universities, and professional schools",
+    "51",
+    "107"
+  ],
+  [
+    "16",
+    "56",
+    "2384",
+    "6114",
+    "Business schools and computer and management training",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "30",
+    "1092",
+    "61142",
+    "Computer training",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "30",
+    "1092",
+    "611420",
+    "Computer training",
+    "51",
+    "107"
+  ],
+  [
+    "12",
+    "26",
+    "1292",
+    "61143",
+    "Professional and management development training",
+    "51",
+    "107"
+  ],
+  [
+    "12",
+    "26",
+    "1292",
+    "611430",
+    "Professional and management development training",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "21",
+    "457",
+    "6115",
+    "Technical and trade schools",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "21",
+    "457",
+    "61151",
+    "Technical and trade schools",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "2",
+    "89",
+    "611519",
+    "Other technical and trade schools",
+    "51",
+    "107"
+  ],
+  [
+    "162",
+    "1125",
+    "23281",
+    "6116",
+    "Other schools and instruction",
+    "51",
+    "107"
+  ],
+  [
+    "77",
+    "533",
+    "12964",
+    "611620",
+    "Sports and recreation instruction",
+    "51",
+    "107"
+  ],
+  [
+    "32",
+    "269",
+    "6027",
+    "61161",
+    "Fine arts schools",
+    "51",
+    "107"
+  ],
+  [
+    "32",
+    "269",
+    "6027",
+    "611610",
+    "Fine arts schools",
+    "51",
+    "107"
+  ],
+  [
+    "77",
+    "533",
+    "12964",
+    "61162",
+    "Sports and recreation instruction",
+    "51",
+    "107"
+  ],
+  [
+    "52",
+    "321",
+    "4179",
+    "61169",
+    "All other schools and instruction",
+    "51",
+    "107"
+  ],
+  [
+    "34",
+    "282",
+    "3202",
+    "611691",
+    "Exam preparation and tutoring",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "7",
+    "138",
+    "611692",
+    "Automobile driving schools",
+    "51",
+    "107"
+  ],
+  [
+    "14",
+    "32",
+    "839",
+    "611699",
+    "All other miscellaneous schools and instruction",
+    "51",
+    "107"
+  ],
+  [
+    "29",
+    "187",
+    "10472",
+    "6117",
+    "Educational support services",
+    "51",
+    "107"
+  ],
+  [
+    "901",
+    "7962",
+    "516519",
+    "621",
+    "Ambulatory health care services",
+    "51",
+    "107"
+  ],
+  [
+    "285",
+    "2636",
+    "234472",
+    "6211",
+    "Offices of physicians",
+    "51",
+    "107"
+  ],
+  [
+    "285",
+    "2636",
+    "234472",
+    "62111",
+    "Offices of physicians",
+    "51",
+    "107"
+  ],
+  [
+    "268",
+    "2575",
+    "230742",
+    "621111",
+    "Offices of physicians (except mental health specialists)",
+    "51",
+    "107"
+  ],
+  [
+    "17",
+    "61",
+    "3730",
+    "621112",
+    "Offices of physicians, mental health specialists",
+    "51",
+    "107"
+  ],
+  [
+    "241",
+    "1568",
+    "99609",
+    "6212",
+    "Offices of dentists",
+    "51",
+    "107"
+  ],
+  [
+    "241",
+    "1568",
+    "99609",
+    "62121",
+    "Offices of dentists",
+    "51",
+    "107"
+  ],
+  [
+    "241",
+    "1568",
+    "99609",
+    "621210",
+    "Offices of dentists",
+    "51",
+    "107"
+  ],
+  [
+    "231",
+    "1273",
+    "62256",
+    "6213",
+    "Offices of other health practitioners",
+    "51",
+    "107"
+  ],
+  [
+    "42",
+    "232",
+    "12582",
+    "62131",
+    "Offices of chiropractors",
+    "51",
+    "107"
+  ],
+  [
+    "42",
+    "232",
+    "12582",
+    "621310",
+    "Offices of chiropractors",
+    "51",
+    "107"
+  ],
+  [
+    "33",
+    "239",
+    "12283",
+    "62132",
+    "Offices of optometrists",
+    "51",
+    "107"
+  ],
+  [
+    "33",
+    "239",
+    "12283",
+    "621320",
+    "Offices of optometrists",
+    "51",
+    "107"
+  ],
+  [
+    "34",
+    "123",
+    "6241",
+    "62133",
+    "Offices of mental health practitioners (except physicians)",
+    "51",
+    "107"
+  ],
+  [
+    "34",
+    "123",
+    "6241",
+    "621330",
+    "Offices of mental health practitioners (except physicians)",
+    "51",
+    "107"
+  ],
+  [
+    "74",
+    "571",
+    "26078",
+    "62134",
+    "Offices of physical, occupational and speech therapists, and audiologists",
+    "51",
+    "107"
+  ],
+  [
+    "74",
+    "571",
+    "26078",
+    "621340",
+    "Offices of physical, occupational and speech therapists, and audiologists",
+    "51",
+    "107"
+  ],
+  [
+    "48",
+    "108",
+    "5072",
+    "62139",
+    "Offices of all other health practitioners",
+    "51",
+    "107"
+  ],
+  [
+    "11",
+    "29",
+    "1295",
+    "621391",
+    "Offices of podiatrists",
+    "51",
+    "107"
+  ],
+  [
+    "37",
+    "79",
+    "3777",
+    "621399",
+    "Offices of all other miscellaneous health practitioners",
+    "51",
+    "107"
+  ],
+  [
+    "53",
+    "807",
+    "56835",
+    "6214",
+    "Outpatient care centers",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "42",
+    "3592",
+    "62141",
+    "Family planning centers",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "42",
+    "3592",
+    "621410",
+    "Family planning centers",
+    "51",
+    "107"
+  ],
+  [
+    "13",
+    "32",
+    "1295",
+    "62142",
+    "Outpatient mental health and substance abuse centers",
+    "51",
+    "107"
+  ],
+  [
+    "13",
+    "32",
+    "1295",
+    "621420",
+    "Outpatient mental health and substance abuse centers",
+    "51",
+    "107"
+  ],
+  [
+    "36",
+    "733",
+    "51948",
+    "62149",
+    "Other outpatient care centers",
+    "51",
+    "107"
+  ],
+  [
+    "19",
+    "332",
+    "14179",
+    "621498",
+    "All other outpatient care centers",
+    "51",
+    "107"
+  ],
+  [
+    "29",
+    "187",
+    "10472",
+    "61171",
+    "Educational support services",
+    "51",
+    "107"
+  ],
+  [
+    "29",
+    "187",
+    "10472",
+    "611710",
+    "Educational support services",
+    "51",
+    "107"
+  ],
+  [
+    "1126",
+    "15456",
+    "853083",
+    "62",
+    "Health care and social assistance",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "44",
+    "2645",
+    "621492",
+    "Kidney dialysis centers",
+    "51",
+    "107"
+  ],
+  [
+    "10",
+    "231",
+    "10800",
+    "621493",
+    "Freestanding ambulatory surgical and emergency centers",
+    "51",
+    "107"
+  ],
+  [
+    "25",
+    "214",
+    "13825",
+    "6215",
+    "Medical and diagnostic laboratories",
+    "51",
+    "107"
+  ],
+  [
+    "25",
+    "214",
+    "13825",
+    "62151",
+    "Medical and diagnostic laboratories",
+    "51",
+    "107"
+  ],
+  [
+    "19",
+    "57",
+    "3107",
+    "621511",
+    "Medical laboratories",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "157",
+    "10718",
+    "621512",
+    "Diagnostic imaging centers",
+    "51",
+    "107"
+  ],
+  [
+    "53",
+    "1406",
+    "44742",
+    "6216",
+    "Home health care services",
+    "51",
+    "107"
+  ],
+  [
+    "53",
+    "1406",
+    "44742",
+    "62161",
+    "Home health care services",
+    "51",
+    "107"
+  ],
+  [
+    "53",
+    "1406",
+    "44742",
+    "621610",
+    "Home health care services",
+    "51",
+    "107"
+  ],
+  [
+    "13",
+    "58",
+    "4780",
+    "6219",
+    "Other ambulatory health care services",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "19",
+    "2029",
+    "62191",
+    "Ambulance services",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "19",
+    "2029",
+    "621910",
+    "Ambulance services",
+    "51",
+    "107"
+  ],
+  [
+    "10",
+    "39",
+    "2751",
+    "62199",
+    "All other ambulatory health care services",
+    "51",
+    "107"
+  ],
+  [
+    "10",
+    "39",
+    "2751",
+    "621999",
+    "All other miscellaneous ambulatory health care services",
+    "51",
+    "107"
+  ],
+  [
+    "30",
+    "2789",
+    "109962",
+    "623",
+    "Nursing and residential care facilities",
+    "51",
+    "107"
+  ],
+  [
+    "11",
+    "399",
+    "21624",
+    "6232",
+    "Residential intellectual and developmental disability, mental health, and substance abuse facilities",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "537",
+    "28052",
+    "6231",
+    "Nursing care facilities (skilled nursing facilities)",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "537",
+    "28052",
+    "62311",
+    "Nursing care facilities (skilled nursing facilities)",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "537",
+    "28052",
+    "623110",
+    "Nursing care facilities (skilled nursing facilities)",
+    "51",
+    "107"
+  ],
+  [
+    "8",
+    "103",
+    "4244",
+    "62321",
+    "Residential intellectual and developmental disability facilities",
+    "51",
+    "107"
+  ],
+  [
+    "8",
+    "103",
+    "4244",
+    "623210",
+    "Residential intellectual and developmental disability facilities",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "296",
+    "17380",
+    "62322",
+    "Residential mental health and substance abuse facilities",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "296",
+    "17380",
+    "623220",
+    "Residential mental health and substance abuse facilities",
+    "51",
+    "107"
+  ],
+  [
+    "15",
+    "1853",
+    "60286",
+    "6233",
+    "Continuing care retirement communities and assisted living facilities for the elderly",
+    "51",
+    "107"
+  ],
+  [
+    "15",
+    "1853",
+    "60286",
+    "62331",
+    "Continuing care retirement communities and assisted living facilities for the elderly",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "1030",
+    "39756",
+    "623311",
+    "Continuing care retirement communities",
+    "51",
+    "107"
+  ],
+  [
+    "10",
+    "823",
+    "20530",
+    "623312",
+    "Assisted living facilities for the elderly",
+    "51",
+    "107"
+  ],
+  [
+    "193",
+    "2476",
+    "79507",
+    "624",
+    "Social assistance",
+    "51",
+    "107"
+  ],
+  [
+    "39",
+    "613",
+    "23630",
+    "6241",
+    "Individual and family services",
+    "51",
+    "107"
+  ],
+  [
+    "10",
+    "48",
+    "1765",
+    "62411",
+    "Child and youth services",
+    "51",
+    "107"
+  ],
+  [
+    "10",
+    "48",
+    "1765",
+    "624110",
+    "Child and youth services",
+    "51",
+    "107"
+  ],
+  [
+    "14",
+    "397",
+    "13080",
+    "62412",
+    "Services for the elderly and persons with disabilities",
+    "51",
+    "107"
+  ],
+  [
+    "11",
+    "105",
+    "4047",
+    "6242",
+    "Community food and housing, and emergency and other relief services",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "27",
+    "1167",
+    "62421",
+    "Community food services",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "27",
+    "1167",
+    "624210",
+    "Community food services",
+    "51",
+    "107"
+  ],
+  [
+    "7",
+    "75",
+    "2646",
+    "62422",
+    "Community housing services",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "47",
+    "1675",
+    "624229",
+    "Other community housing services",
+    "51",
+    "107"
+  ],
+  [
+    "141",
+    "1695",
+    "48600",
+    "6244",
+    "Child day care services",
+    "51",
+    "107"
+  ],
+  [
+    "141",
+    "1695",
+    "48600",
+    "62441",
+    "Child day care services",
+    "51",
+    "107"
+  ],
+  [
+    "141",
+    "1695",
+    "48600",
+    "624410",
+    "Child day care services",
+    "51",
+    "107"
+  ],
+  [
+    "188",
+    "2945",
+    "298276",
+    "71",
+    "Arts, entertainment, and recreation",
+    "51",
+    "107"
+  ],
+  [
+    "50",
+    "614",
+    "241164",
+    "711",
+    "Performing arts, spectator sports, and related industries",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "3",
+    "35",
+    "711130",
+    "Musical groups and artists",
+    "51",
+    "107"
+  ],
+  [
+    "14",
+    "397",
+    "13080",
+    "624120",
+    "Services for the elderly and persons with disabilities",
+    "51",
+    "107"
+  ],
+  [
+    "15",
+    "168",
+    "8785",
+    "62419",
+    "Other individual and family services",
+    "51",
+    "107"
+  ],
+  [
+    "15",
+    "168",
+    "8785",
+    "624190",
+    "Other individual and family services",
+    "51",
+    "107"
+  ],
+  [
+    "7",
+    "8",
+    "373",
+    "7111",
+    "Performing arts companies",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "3",
+    "35",
+    "71113",
+    "Musical groups and artists",
+    "51",
+    "107"
+  ],
+  [
+    "8",
+    "559",
+    "236802",
+    "7112",
+    "Spectator sports",
+    "51",
+    "107"
+  ],
+  [
+    "8",
+    "559",
+    "236802",
+    "71121",
+    "Spectator sports",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "555",
+    "236609",
+    "711211",
+    "Sports teams and clubs",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "4",
+    "193",
+    "711219",
+    "Other spectator sports",
+    "51",
+    "107"
+  ],
+  [
+    "7",
+    "9",
+    "599",
+    "7113",
+    "Promoters of performing arts, sports, and similar events",
+    "51",
+    "107"
+  ],
+  [
+    "7",
+    "9",
+    "599",
+    "71132",
+    "Promoters of performing arts, sports, and similar events without facilities",
+    "51",
+    "107"
+  ],
+  [
+    "7",
+    "9",
+    "599",
+    "711320",
+    "Promoters of performing arts, sports, and similar events without facilities",
+    "51",
+    "107"
+  ],
+  [
+    "26",
+    "37",
+    "3358",
+    "7115",
+    "Independent artists, writers, and performers",
+    "51",
+    "107"
+  ],
+  [
+    "26",
+    "37",
+    "3358",
+    "71151",
+    "Independent artists, writers, and performers",
+    "51",
+    "107"
+  ],
+  [
+    "26",
+    "37",
+    "3358",
+    "711510",
+    "Independent artists, writers, and performers",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "43",
+    "2100",
+    "712",
+    "Museums, historical sites, and similar institutions",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "43",
+    "2100",
+    "7121",
+    "Museums, historical sites, and similar institutions",
+    "51",
+    "107"
+  ],
+  [
+    "134",
+    "2288",
+    "55012",
+    "713",
+    "Amusement, gambling, and recreation industries",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "28",
+    "387",
+    "7131",
+    "Amusement parks and arcades",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "28",
+    "387",
+    "71312",
+    "Amusement arcades",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "28",
+    "387",
+    "713120",
+    "Amusement arcades",
+    "51",
+    "107"
+  ],
+  [
+    "131",
+    "2260",
+    "54625",
+    "7139",
+    "Other amusement and recreation industries",
+    "51",
+    "107"
+  ],
+  [
+    "9",
+    "459",
+    "20013",
+    "71391",
+    "Golf courses and country clubs",
+    "51",
+    "107"
+  ],
+  [
+    "9",
+    "459",
+    "20013",
+    "713910",
+    "Golf courses and country clubs",
+    "51",
+    "107"
+  ],
+  [
+    "75",
+    "1235",
+    "18469",
+    "71394",
+    "Fitness and recreational sports centers",
+    "51",
+    "107"
+  ],
+  [
+    "75",
+    "1235",
+    "18469",
+    "713940",
+    "Fitness and recreational sports centers",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "40",
+    "1252",
+    "71395",
+    "Bowling centers",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "40",
+    "1252",
+    "713950",
+    "Bowling centers",
+    "51",
+    "107"
+  ],
+  [
+    "44",
+    "526",
+    "14891",
+    "71399",
+    "All other amusement and recreation industries",
+    "51",
+    "107"
+  ],
+  [
+    "44",
+    "526",
+    "14891",
+    "713990",
+    "All other amusement and recreation industries",
+    "51",
+    "107"
+  ],
+  [
+    "33",
+    "1023",
+    "37579",
+    "72111",
+    "Hotels (except casino hotels) and motels",
+    "51",
+    "107"
+  ],
+  [
+    "802",
+    "14685",
+    "381090",
+    "72",
+    "Accommodation and food services",
+    "51",
+    "107"
+  ],
+  [
+    "43",
+    "1097",
+    "40592",
+    "721",
+    "Accommodation",
+    "51",
+    "107"
+  ],
+  [
+    "41",
+    "1092",
+    "40274",
+    "7211",
+    "Traveler accommodation",
+    "51",
+    "107"
+  ],
+  [
+    "759",
+    "13588",
+    "340498",
+    "722",
+    "Food services and drinking places",
+    "51",
+    "107"
+  ],
+  [
+    "33",
+    "1023",
+    "37579",
+    "721110",
+    "Hotels (except casino hotels) and motels",
+    "51",
+    "107"
+  ],
+  [
+    "8",
+    "69",
+    "2695",
+    "72119",
+    "Other traveler accommodation",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "67",
+    "2482",
+    "721191",
+    "Bed-and-breakfast inns",
+    "51",
+    "107"
+  ],
+  [
+    "63",
+    "1555",
+    "56720",
+    "7223",
+    "Special food services",
+    "51",
+    "107"
+  ],
+  [
+    "33",
+    "1449",
+    "52766",
+    "72231",
+    "Food service contractors",
+    "51",
+    "107"
+  ],
+  [
+    "33",
+    "1449",
+    "52766",
+    "722310",
+    "Food service contractors",
+    "51",
+    "107"
+  ],
+  [
+    "17",
+    "88",
+    "3641",
+    "72232",
+    "Caterers",
+    "51",
+    "107"
+  ],
+  [
+    "17",
+    "88",
+    "3641",
+    "722320",
+    "Caterers",
+    "51",
+    "107"
+  ],
+  [
+    "13",
+    "18",
+    "313",
+    "72233",
+    "Mobile food services",
+    "51",
+    "107"
+  ],
+  [
+    "13",
+    "18",
+    "313",
+    "722330",
+    "Mobile food services",
+    "51",
+    "107"
+  ],
+  [
+    "13",
+    "124",
+    "3838",
+    "7224",
+    "Drinking places (alcoholic beverages)",
+    "51",
+    "107"
+  ],
+  [
+    "13",
+    "124",
+    "3838",
+    "72241",
+    "Drinking places (alcoholic beverages)",
+    "51",
+    "107"
+  ],
+  [
+    "308",
+    "5531",
+    "156427",
+    "722511",
+    "Full-service restaurants",
+    "51",
+    "107"
+  ],
+  [
+    "295",
+    "5449",
+    "107592",
+    "722513",
+    "Limited-service restaurants",
+    "51",
+    "107"
+  ],
+  [
+    "7",
+    "50",
+    "1158",
+    "722514",
+    "Cafeterias, grill buffets, and buffets",
+    "51",
+    "107"
+  ],
+  [
+    "73",
+    "879",
+    "14763",
+    "722515",
+    "Snack and nonalcoholic beverage bars",
+    "51",
+    "107"
+  ],
+  [
+    "949",
+    "6802",
+    "365226",
+    "81",
+    "Other services (except public administration)",
+    "51",
+    "107"
+  ],
+  [
+    "265",
+    "2288",
+    "164066",
+    "811",
+    "Repair and maintenance",
+    "51",
+    "107"
+  ],
+  [
+    "201",
+    "1477",
+    "74637",
+    "8111",
+    "Automotive repair and maintenance",
+    "51",
+    "107"
+  ],
+  [
+    "111",
+    "597",
+    "35488",
+    "81111",
+    "Automotive mechanical and electrical repair and maintenance",
+    "51",
+    "107"
+  ],
+  [
+    "105",
+    "492",
+    "30352",
+    "811111",
+    "General automotive repair",
+    "51",
+    "107"
+  ],
+  [
+    "40",
+    "411",
+    "25072",
+    "811121",
+    "Automotive body, paint, and interior repair and maintenance",
+    "51",
+    "107"
+  ],
+  [
+    "13",
+    "124",
+    "3838",
+    "722410",
+    "Drinking places (alcoholic beverages)",
+    "51",
+    "107"
+  ],
+  [
+    "683",
+    "11909",
+    "279940",
+    "7225",
+    "Restaurants and other eating places",
+    "51",
+    "107"
+  ],
+  [
+    "683",
+    "11909",
+    "279940",
+    "72251",
+    "Restaurants and other eating places",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "102",
+    "4969",
+    "811118",
+    "Other automotive mechanical and electrical repair and maintenance",
+    "51",
+    "107"
+  ],
+  [
+    "48",
+    "445",
+    "26702",
+    "81112",
+    "Automotive body, paint, interior, and glass repair",
+    "51",
+    "107"
+  ],
+  [
+    "8",
+    "34",
+    "1630",
+    "811122",
+    "Automotive glass replacement shops",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "22",
+    "1143",
+    "811198",
+    "All other automotive repair and maintenance",
+    "51",
+    "107"
+  ],
+  [
+    "42",
+    "435",
+    "12447",
+    "81119",
+    "Other automotive repair and maintenance",
+    "51",
+    "107"
+  ],
+  [
+    "12",
+    "121",
+    "3576",
+    "811191",
+    "Automotive oil change and lubrication shops",
+    "51",
+    "107"
+  ],
+  [
+    "24",
+    "292",
+    "7728",
+    "811192",
+    "Car washes",
+    "51",
+    "107"
+  ],
+  [
+    "24",
+    "569",
+    "73277",
+    "8112",
+    "Electronic and precision equipment repair and maintenance",
+    "51",
+    "107"
+  ],
+  [
+    "24",
+    "569",
+    "73277",
+    "81121",
+    "Electronic and precision equipment repair and maintenance",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "18",
+    "549",
+    "811211",
+    "Consumer electronics repair and maintenance",
+    "51",
+    "107"
+  ],
+  [
+    "9",
+    "18",
+    "1613",
+    "811212",
+    "Computer and office machine repair and maintenance",
+    "51",
+    "107"
+  ],
+  [
+    "10",
+    "528",
+    "70804",
+    "811219",
+    "Other electronic and precision equipment repair and maintenance",
+    "51",
+    "107"
+  ],
+  [
+    "9",
+    "176",
+    "13538",
+    "8113",
+    "Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance",
+    "51",
+    "107"
+  ],
+  [
+    "9",
+    "176",
+    "13538",
+    "81131",
+    "Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance",
+    "51",
+    "107"
+  ],
+  [
+    "9",
+    "176",
+    "13538",
+    "811310",
+    "Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance",
+    "51",
+    "107"
+  ],
+  [
+    "31",
+    "66",
+    "2614",
+    "8114",
+    "Personal and household goods repair and maintenance",
+    "51",
+    "107"
+  ],
+  [
+    "8",
+    "12",
+    "532",
+    "81141",
+    "Home and garden equipment and appliance repair and maintenance",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "7",
+    "203",
+    "811411",
+    "Home and garden equipment repair and maintenance",
+    "51",
+    "107"
+  ],
+  [
+    "5",
+    "5",
+    "329",
+    "811412",
+    "Appliance repair and maintenance",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "22",
+    "973",
+    "81142",
+    "Reupholstery and furniture repair",
+    "51",
+    "107"
+  ],
+  [
+    "14",
+    "27",
+    "972",
+    "81149",
+    "Other personal and household goods repair and maintenance",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "22",
+    "973",
+    "811420",
+    "Reupholstery and furniture repair",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "5",
+    "137",
+    "81143",
+    "Footwear and leather goods repair",
+    "51",
+    "107"
+  ],
+  [
+    "3",
+    "5",
+    "137",
+    "811430",
+    "Footwear and leather goods repair",
+    "51",
+    "107"
+  ],
+  [
+    "14",
+    "27",
+    "972",
+    "811490",
+    "Other personal and household goods repair and maintenance",
+    "51",
+    "107"
+  ],
+  [
+    "417",
+    "2156",
+    "79093",
+    "812",
+    "Personal and laundry services",
+    "51",
+    "107"
+  ],
+  [
+    "263",
+    "1325",
+    "41046",
+    "8121",
+    "Personal care services",
+    "51",
+    "107"
+  ],
+  [
+    "51",
+    "286",
+    "7223",
+    "812113",
+    "Nail salons",
+    "51",
+    "107"
+  ],
+  [
+    "218",
+    "1136",
+    "35430",
+    "81211",
+    "Hair, nail, and skin care services",
+    "51",
+    "107"
+  ],
+  [
+    "17",
+    "67",
+    "1768",
+    "812111",
+    "Barber shops",
+    "51",
+    "107"
+  ],
+  [
+    "150",
+    "783",
+    "26439",
+    "812112",
+    "Beauty salons",
+    "51",
+    "107"
+  ],
+  [
+    "45",
+    "189",
+    "5616",
+    "81219",
+    "Other personal care services",
+    "51",
+    "107"
+  ],
+  [
+    "7",
+    "22",
+    "601",
+    "812191",
+    "Diet and weight reducing centers",
+    "51",
+    "107"
+  ],
+  [
+    "38",
+    "167",
+    "5015",
+    "812199",
+    "Other personal care services",
+    "51",
+    "107"
+  ],
+  [
+    "8",
+    "54",
+    "2438",
+    "8122",
+    "Death care services",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "47",
+    "2217",
+    "81221",
+    "Funeral homes and funeral services",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "47",
+    "2217",
+    "812210",
+    "Funeral homes and funeral services",
+    "51",
+    "107"
+  ],
+  [
+    "41",
+    "164",
+    "4926",
+    "8123",
+    "Drycleaning and laundry services",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "24",
+    "886",
+    "81231",
+    "Coin-operated laundries and drycleaners",
+    "51",
+    "107"
+  ],
+  [
+    "4",
+    "24",
+    "886",
+    "812310",
+    "Coin-operated laundries and drycleaners",
+    "51",
+    "107"
+  ],
+  [
+    "36",
+    "139",
+    "4024",
+    "81232",
+    "Drycleaning and laundry services (except coin-operated)",
+    "51",
+    "107"
+  ],
+  [
+    "36",
+    "139",
+    "4024",
+    "812320",
+    "Drycleaning and laundry services (except coin-operated)",
+    "51",
+    "107"
+  ],
+  [
+    "105",
+    "613",
+    "30683",
+    "8129",
+    "Other personal services",
+    "51",
+    "107"
+  ],
+  [
+    "39",
+    "272",
+    "8000",
+    "81291",
+    "Pet care (except veterinary) services",
+    "51",
+    "107"
+  ],
+  [
+    "39",
+    "272",
+    "8000",
+    "812910",
+    "Pet care (except veterinary) services",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "172",
+    "9212",
+    "81293",
+    "Parking lots and garages",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "172",
+    "9212",
+    "812930",
+    "Parking lots and garages",
+    "51",
+    "107"
+  ],
+  [
+    "60",
+    "169",
+    "13471",
+    "81299",
+    "All other personal services",
+    "51",
+    "107"
+  ],
+  [
+    "60",
+    "169",
+    "13471",
+    "812990",
+    "All other personal services",
+    "51",
+    "107"
+  ],
+  [
+    "156",
+    "1462",
+    "60035",
+    "813110",
+    "Religious organizations",
+    "51",
+    "107"
+  ],
+  [
+    "267",
+    "2358",
+    "122067",
+    "813",
+    "Religious, grantmaking, civic, professional, and similar organizations",
+    "51",
+    "107"
+  ],
+  [
+    "156",
+    "1462",
+    "60035",
+    "8131",
+    "Religious organizations",
+    "51",
+    "107"
+  ],
+  [
+    "156",
+    "1462",
+    "60035",
+    "81311",
+    "Religious organizations",
+    "51",
+    "107"
+  ],
+  [
+    "9",
+    "37",
+    "1450",
+    "813212",
+    "Voluntary health organizations",
+    "51",
+    "107"
+  ],
+  [
+    "26",
+    "120",
+    "8732",
+    "8132",
+    "Grantmaking and giving services",
+    "51",
+    "107"
+  ],
+  [
+    "26",
+    "120",
+    "8732",
+    "81321",
+    "Grantmaking and giving services",
+    "51",
+    "107"
+  ],
+  [
+    "8",
+    "63",
+    "6218",
+    "813211",
+    "Grantmaking foundations",
+    "51",
+    "107"
+  ],
+  [
+    "9",
+    "20",
+    "1064",
+    "813219",
+    "Other grantmaking and giving services",
+    "51",
+    "107"
+  ],
+  [
+    "18",
+    "127",
+    "9132",
+    "8133",
+    "Social advocacy organizations",
+    "51",
+    "107"
+  ],
+  [
+    "18",
+    "127",
+    "9132",
+    "81331",
+    "Social advocacy organizations",
+    "51",
+    "107"
+  ],
+  [
+    "10",
+    "44",
+    "2609",
+    "813312",
+    "Environment, conservation and wildlife organizations",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "58",
+    "4474",
+    "813319",
+    "Other social advocacy organizations",
+    "51",
+    "107"
+  ],
+  [
+    "17",
+    "80",
+    "5136",
+    "8134",
+    "Civic and social organizations",
+    "51",
+    "107"
+  ],
+  [
+    "17",
+    "80",
+    "5136",
+    "81341",
+    "Civic and social organizations",
+    "51",
+    "107"
+  ],
+  [
+    "17",
+    "80",
+    "5136",
+    "813410",
+    "Civic and social organizations",
+    "51",
+    "107"
+  ],
+  [
+    "17",
+    "343",
+    "22153",
+    "81392",
+    "Professional organizations",
+    "51",
+    "107"
+  ],
+  [
+    "50",
+    "569",
+    "39032",
+    "8139",
+    "Business, professional, labor, political, and similar organizations",
+    "51",
+    "107"
+  ],
+  [
+    "11",
+    "87",
+    "8882",
+    "81391",
+    "Business associations",
+    "51",
+    "107"
+  ],
+  [
+    "11",
+    "87",
+    "8882",
+    "813910",
+    "Business associations",
+    "51",
+    "107"
+  ],
+  [
+    "17",
+    "343",
+    "22153",
+    "813920",
+    "Professional organizations",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "30",
+    "1457",
+    "81394",
+    "Political organizations",
+    "51",
+    "107"
+  ],
+  [
+    "19",
+    "24",
+    "639",
+    "99",
+    "Industries not classified",
+    "51",
+    "107"
+  ],
+  [
+    "6",
+    "30",
+    "1457",
+    "813940",
+    "Political organizations",
+    "51",
+    "107"
+  ],
+  [
+    "16",
+    "109",
+    "6540",
+    "81399",
+    "Other similar organizations (except business, professional, labor, and political organizations)",
+    "51",
+    "107"
+  ],
+  [
+    "16",
+    "109",
+    "6540",
+    "813990",
+    "Other similar organizations (except business, professional, labor, and political organizations)",
+    "51",
+    "107"
+  ]
+]

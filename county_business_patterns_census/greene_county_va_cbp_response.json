@@ -1,0 +1,1460 @@
+[
+  [
+    "ESTAB",
+    "EMP",
+    "PAYANN",
+    "NAICS2017",
+    "NAICS2017_LABEL",
+    "state",
+    "county"
+  ],
+  [
+    "373",
+    "3039",
+    "108388",
+    "00",
+    "Total for all sectors",
+    "51",
+    "079"
+  ],
+  [
+    "77",
+    "314",
+    "12255",
+    "23",
+    "Construction",
+    "51",
+    "079"
+  ],
+  [
+    "20",
+    "62",
+    "3071",
+    "236",
+    "Construction of buildings",
+    "51",
+    "079"
+  ],
+  [
+    "19",
+    "59",
+    "2954",
+    "2361",
+    "Residential building construction",
+    "51",
+    "079"
+  ],
+  [
+    "19",
+    "59",
+    "2954",
+    "23611",
+    "Residential building construction",
+    "51",
+    "079"
+  ],
+  [
+    "6",
+    "22",
+    "999",
+    "236115",
+    "New single-family housing construction (except for-sale builders)",
+    "51",
+    "079"
+  ],
+  [
+    "13",
+    "37",
+    "1955",
+    "236118",
+    "Residential remodelers",
+    "51",
+    "079"
+  ],
+  [
+    "4",
+    "19",
+    "841",
+    "237",
+    "Heavy and civil engineering construction",
+    "51",
+    "079"
+  ],
+  [
+    "53",
+    "233",
+    "8343",
+    "238",
+    "Specialty trade contractors",
+    "51",
+    "079"
+  ],
+  [
+    "10",
+    "23",
+    "739",
+    "2381",
+    "Foundation, structure, and building exterior contractors",
+    "51",
+    "079"
+  ],
+  [
+    "3",
+    "1",
+    "73",
+    "23813",
+    "Framing contractors",
+    "51",
+    "079"
+  ],
+  [
+    "3",
+    "1",
+    "73",
+    "238130",
+    "Framing contractors",
+    "51",
+    "079"
+  ],
+  [
+    "5",
+    "20",
+    "593",
+    "23814",
+    "Masonry contractors",
+    "51",
+    "079"
+  ],
+  [
+    "5",
+    "20",
+    "593",
+    "238140",
+    "Masonry contractors",
+    "51",
+    "079"
+  ],
+  [
+    "24",
+    "143",
+    "5283",
+    "2382",
+    "Building equipment contractors",
+    "51",
+    "079"
+  ],
+  [
+    "11",
+    "33",
+    "1581",
+    "23821",
+    "Electrical contractors and other wiring installation contractors",
+    "51",
+    "079"
+  ],
+  [
+    "12",
+    "46",
+    "1487",
+    "2383",
+    "Building finishing contractors",
+    "51",
+    "079"
+  ],
+  [
+    "11",
+    "33",
+    "1581",
+    "238210",
+    "Electrical contractors and other wiring installation contractors",
+    "51",
+    "079"
+  ],
+  [
+    "12",
+    "108",
+    "3637",
+    "23822",
+    "Plumbing, heating, and air-conditioning contractors",
+    "51",
+    "079"
+  ],
+  [
+    "12",
+    "108",
+    "3637",
+    "238220",
+    "Plumbing, heating, and air-conditioning contractors",
+    "51",
+    "079"
+  ],
+  [
+    "6",
+    "27",
+    "990",
+    "23832",
+    "Painting and wall covering contractors",
+    "51",
+    "079"
+  ],
+  [
+    "6",
+    "27",
+    "990",
+    "238320",
+    "Painting and wall covering contractors",
+    "51",
+    "079"
+  ],
+  [
+    "3",
+    "5",
+    "150",
+    "23833",
+    "Flooring contractors",
+    "51",
+    "079"
+  ],
+  [
+    "3",
+    "5",
+    "150",
+    "238330",
+    "Flooring contractors",
+    "51",
+    "079"
+  ],
+  [
+    "7",
+    "21",
+    "834",
+    "2389",
+    "Other specialty trade contractors",
+    "51",
+    "079"
+  ],
+  [
+    "7",
+    "21",
+    "834",
+    "23899",
+    "All other specialty trade contractors",
+    "51",
+    "079"
+  ],
+  [
+    "7",
+    "21",
+    "834",
+    "238990",
+    "All other specialty trade contractors",
+    "51",
+    "079"
+  ],
+  [
+    "11",
+    "53",
+    "1499",
+    "31-33",
+    "Manufacturing",
+    "51",
+    "079"
+  ],
+  [
+    "11",
+    "83",
+    "5121",
+    "42",
+    "Wholesale trade",
+    "51",
+    "079"
+  ],
+  [
+    "6",
+    "52",
+    "4238",
+    "423",
+    "Merchant wholesalers, durable goods",
+    "51",
+    "079"
+  ],
+  [
+    "4",
+    "11",
+    "394",
+    "441120",
+    "Used car dealers",
+    "51",
+    "079"
+  ],
+  [
+    "3",
+    "30",
+    "622",
+    "424",
+    "Merchant wholesalers, nondurable goods",
+    "51",
+    "079"
+  ],
+  [
+    "53",
+    "868",
+    "22247",
+    "44-45",
+    "Retail trade",
+    "51",
+    "079"
+  ],
+  [
+    "12",
+    "75",
+    "2603",
+    "441",
+    "Motor vehicle and parts dealers",
+    "51",
+    "079"
+  ],
+  [
+    "5",
+    "18",
+    "674",
+    "4411",
+    "Automobile dealers",
+    "51",
+    "079"
+  ],
+  [
+    "4",
+    "11",
+    "394",
+    "44112",
+    "Used car dealers",
+    "51",
+    "079"
+  ],
+  [
+    "3",
+    "28",
+    "1163",
+    "4412",
+    "Other motor vehicle dealers",
+    "51",
+    "079"
+  ],
+  [
+    "3",
+    "28",
+    "1163",
+    "44122",
+    "Motorcycle, boat, and other motor vehicle dealers",
+    "51",
+    "079"
+  ],
+  [
+    "3",
+    "28",
+    "1163",
+    "441228",
+    "Motorcycle, ATV, and all other motor vehicle dealers",
+    "51",
+    "079"
+  ],
+  [
+    "4",
+    "29",
+    "766",
+    "4413",
+    "Automotive parts, accessories, and tire stores",
+    "51",
+    "079"
+  ],
+  [
+    "4",
+    "29",
+    "766",
+    "44131",
+    "Automotive parts and accessories stores",
+    "51",
+    "079"
+  ],
+  [
+    "4",
+    "29",
+    "766",
+    "441310",
+    "Automotive parts and accessories stores",
+    "51",
+    "079"
+  ],
+  [
+    "5",
+    "170",
+    "4895",
+    "444",
+    "Building material and garden equipment and supplies dealers",
+    "51",
+    "079"
+  ],
+  [
+    "3",
+    "155",
+    "4483",
+    "4441",
+    "Building material and supplies dealers",
+    "51",
+    "079"
+  ],
+  [
+    "7",
+    "127",
+    "2156",
+    "445",
+    "Food and beverage stores",
+    "51",
+    "079"
+  ],
+  [
+    "6",
+    "120",
+    "2056",
+    "4451",
+    "Grocery stores",
+    "51",
+    "079"
+  ],
+  [
+    "4",
+    "13",
+    "174",
+    "44512",
+    "Convenience stores",
+    "51",
+    "079"
+  ],
+  [
+    "4",
+    "13",
+    "174",
+    "445120",
+    "Convenience stores",
+    "51",
+    "079"
+  ],
+  [
+    "3",
+    "27",
+    "1348",
+    "446",
+    "Health and personal care stores",
+    "51",
+    "079"
+  ],
+  [
+    "3",
+    "27",
+    "1348",
+    "4461",
+    "Health and personal care stores",
+    "51",
+    "079"
+  ],
+  [
+    "7",
+    "96",
+    "2390",
+    "447",
+    "Gasoline stations",
+    "51",
+    "079"
+  ],
+  [
+    "3",
+    "323",
+    "7466",
+    "452",
+    "General merchandise stores",
+    "51",
+    "079"
+  ],
+  [
+    "7",
+    "96",
+    "2390",
+    "4471",
+    "Gasoline stations",
+    "51",
+    "079"
+  ],
+  [
+    "7",
+    "96",
+    "2390",
+    "44711",
+    "Gasoline stations with convenience stores",
+    "51",
+    "079"
+  ],
+  [
+    "7",
+    "96",
+    "2390",
+    "447110",
+    "Gasoline stations with convenience stores",
+    "51",
+    "079"
+  ],
+  [
+    "3",
+    "323",
+    "7466",
+    "4523",
+    "General merchandise stores, including warehouse clubs and supercenters",
+    "51",
+    "079"
+  ],
+  [
+    "3",
+    "323",
+    "7466",
+    "45231",
+    "General merchandise stores, including warehouse clubs and supercenters",
+    "51",
+    "079"
+  ],
+  [
+    "9",
+    "31",
+    "666",
+    "453",
+    "Miscellaneous store retailers",
+    "51",
+    "079"
+  ],
+  [
+    "4",
+    "25",
+    "501",
+    "4533",
+    "Used merchandise stores",
+    "51",
+    "079"
+  ],
+  [
+    "4",
+    "25",
+    "501",
+    "45331",
+    "Used merchandise stores",
+    "51",
+    "079"
+  ],
+  [
+    "4",
+    "25",
+    "501",
+    "453310",
+    "Used merchandise stores",
+    "51",
+    "079"
+  ],
+  [
+    "4",
+    "15",
+    "321",
+    "45411",
+    "Electronic shopping and mail-order houses",
+    "51",
+    "079"
+  ],
+  [
+    "4",
+    "4",
+    "104",
+    "4539",
+    "Other miscellaneous store retailers",
+    "51",
+    "079"
+  ],
+  [
+    "5",
+    "17",
+    "513",
+    "454",
+    "Nonstore retailers",
+    "51",
+    "079"
+  ],
+  [
+    "4",
+    "15",
+    "321",
+    "4541",
+    "Electronic shopping and mail-order houses",
+    "51",
+    "079"
+  ],
+  [
+    "4",
+    "15",
+    "321",
+    "454110",
+    "Electronic shopping and mail-order houses",
+    "51",
+    "079"
+  ],
+  [
+    "10",
+    "118",
+    "7036",
+    "48-49",
+    "Transportation and warehousing",
+    "51",
+    "079"
+  ],
+  [
+    "5",
+    "41",
+    "1819",
+    "484",
+    "Truck transportation",
+    "51",
+    "079"
+  ],
+  [
+    "3",
+    "3",
+    "161",
+    "4841",
+    "General freight trucking",
+    "51",
+    "079"
+  ],
+  [
+    "3",
+    "35",
+    "921",
+    "485",
+    "Transit and ground passenger transportation",
+    "51",
+    "079"
+  ],
+  [
+    "6",
+    "36",
+    "1649",
+    "5221",
+    "Depository credit intermediation",
+    "51",
+    "079"
+  ],
+  [
+    "4",
+    "10",
+    "487",
+    "51",
+    "Information",
+    "51",
+    "079"
+  ],
+  [
+    "15",
+    "57",
+    "3004",
+    "52",
+    "Finance and insurance",
+    "51",
+    "079"
+  ],
+  [
+    "6",
+    "36",
+    "1649",
+    "522",
+    "Credit intermediation and related activities",
+    "51",
+    "079"
+  ],
+  [
+    "5",
+    "29",
+    "1373",
+    "52211",
+    "Commercial banking",
+    "51",
+    "079"
+  ],
+  [
+    "5",
+    "29",
+    "1373",
+    "522110",
+    "Commercial banking",
+    "51",
+    "079"
+  ],
+  [
+    "3",
+    "10",
+    "923",
+    "523",
+    "Securities, commodity contracts, and other financial investments and related activities",
+    "51",
+    "079"
+  ],
+  [
+    "3",
+    "10",
+    "923",
+    "5239",
+    "Other financial investment activities",
+    "51",
+    "079"
+  ],
+  [
+    "3",
+    "10",
+    "923",
+    "52392",
+    "Portfolio management",
+    "51",
+    "079"
+  ],
+  [
+    "3",
+    "10",
+    "923",
+    "523920",
+    "Portfolio management",
+    "51",
+    "079"
+  ],
+  [
+    "5",
+    "10",
+    "397",
+    "524",
+    "Insurance carriers and related activities",
+    "51",
+    "079"
+  ],
+  [
+    "5",
+    "10",
+    "397",
+    "5242",
+    "Agencies, brokerages, and other insurance related activities",
+    "51",
+    "079"
+  ],
+  [
+    "5",
+    "10",
+    "397",
+    "52421",
+    "Insurance agencies and brokerages",
+    "51",
+    "079"
+  ],
+  [
+    "5",
+    "10",
+    "397",
+    "524210",
+    "Insurance agencies and brokerages",
+    "51",
+    "079"
+  ],
+  [
+    "17",
+    "27",
+    "1346",
+    "53",
+    "Real estate and rental and leasing",
+    "51",
+    "079"
+  ],
+  [
+    "15",
+    "25",
+    "1049",
+    "531",
+    "Real estate",
+    "51",
+    "079"
+  ],
+  [
+    "5",
+    "14",
+    "411",
+    "5311",
+    "Lessors of real estate",
+    "51",
+    "079"
+  ],
+  [
+    "32",
+    "172",
+    "8574",
+    "54",
+    "Professional, scientific, and technical services",
+    "51",
+    "079"
+  ],
+  [
+    "3",
+    "9",
+    "240",
+    "53113",
+    "Lessors of miniwarehouses and self-storage units",
+    "51",
+    "079"
+  ],
+  [
+    "3",
+    "9",
+    "240",
+    "531130",
+    "Lessors of miniwarehouses and self-storage units",
+    "51",
+    "079"
+  ],
+  [
+    "6",
+    "5",
+    "528",
+    "5312",
+    "Offices of real estate agents and brokers",
+    "51",
+    "079"
+  ],
+  [
+    "6",
+    "5",
+    "528",
+    "53121",
+    "Offices of real estate agents and brokers",
+    "51",
+    "079"
+  ],
+  [
+    "6",
+    "5",
+    "528",
+    "531210",
+    "Offices of real estate agents and brokers",
+    "51",
+    "079"
+  ],
+  [
+    "4",
+    "6",
+    "110",
+    "5313",
+    "Activities related to real estate",
+    "51",
+    "079"
+  ],
+  [
+    "3",
+    "4",
+    "101",
+    "53131",
+    "Real estate property managers",
+    "51",
+    "079"
+  ],
+  [
+    "32",
+    "172",
+    "8574",
+    "541",
+    "Professional, scientific, and technical services",
+    "51",
+    "079"
+  ],
+  [
+    "4",
+    "7",
+    "156",
+    "5412",
+    "Accounting, tax preparation, bookkeeping, and payroll services",
+    "51",
+    "079"
+  ],
+  [
+    "4",
+    "7",
+    "156",
+    "54121",
+    "Accounting, tax preparation, bookkeeping, and payroll services",
+    "51",
+    "079"
+  ],
+  [
+    "9",
+    "8",
+    "730",
+    "5416",
+    "Management, scientific, and technical consulting services",
+    "51",
+    "079"
+  ],
+  [
+    "6",
+    "7",
+    "492",
+    "54161",
+    "Management consulting services",
+    "51",
+    "079"
+  ],
+  [
+    "4",
+    "4",
+    "440",
+    "541611",
+    "Administrative management and general management consulting services",
+    "51",
+    "079"
+  ],
+  [
+    "3",
+    "1",
+    "238",
+    "54169",
+    "Other scientific and technical consulting services",
+    "51",
+    "079"
+  ],
+  [
+    "4",
+    "56",
+    "1821",
+    "54194",
+    "Veterinary services",
+    "51",
+    "079"
+  ],
+  [
+    "3",
+    "1",
+    "238",
+    "541690",
+    "Other scientific and technical consulting services",
+    "51",
+    "079"
+  ],
+  [
+    "3",
+    "24",
+    "1124",
+    "5418",
+    "Advertising, public relations, and related services",
+    "51",
+    "079"
+  ],
+  [
+    "7",
+    "67",
+    "1957",
+    "5419",
+    "Other professional, scientific, and technical services",
+    "51",
+    "079"
+  ],
+  [
+    "4",
+    "56",
+    "1821",
+    "541940",
+    "Veterinary services",
+    "51",
+    "079"
+  ],
+  [
+    "33",
+    "327",
+    "16220",
+    "56",
+    "Administrative and support and waste management and remediation services",
+    "51",
+    "079"
+  ],
+  [
+    "4",
+    "27",
+    "1058",
+    "561710",
+    "Exterminating and pest control services",
+    "51",
+    "079"
+  ],
+  [
+    "31",
+    "286",
+    "15564",
+    "561",
+    "Administrative and support services",
+    "51",
+    "079"
+  ],
+  [
+    "27",
+    "189",
+    "5802",
+    "5617",
+    "Services to buildings and dwellings",
+    "51",
+    "079"
+  ],
+  [
+    "4",
+    "27",
+    "1058",
+    "56171",
+    "Exterminating and pest control services",
+    "51",
+    "079"
+  ],
+  [
+    "5",
+    "34",
+    "554",
+    "56172",
+    "Janitorial services",
+    "51",
+    "079"
+  ],
+  [
+    "5",
+    "34",
+    "554",
+    "561720",
+    "Janitorial services",
+    "51",
+    "079"
+  ],
+  [
+    "15",
+    "96",
+    "2965",
+    "56173",
+    "Landscaping services",
+    "51",
+    "079"
+  ],
+  [
+    "15",
+    "96",
+    "2965",
+    "561730",
+    "Landscaping services",
+    "51",
+    "079"
+  ],
+  [
+    "16",
+    "92",
+    "5104",
+    "621",
+    "Ambulatory health care services",
+    "51",
+    "079"
+  ],
+  [
+    "3",
+    "32",
+    "1225",
+    "56174",
+    "Carpet and upholstery cleaning services",
+    "51",
+    "079"
+  ],
+  [
+    "3",
+    "32",
+    "1225",
+    "561740",
+    "Carpet and upholstery cleaning services",
+    "51",
+    "079"
+  ],
+  [
+    "25",
+    "252",
+    "9914",
+    "62",
+    "Health care and social assistance",
+    "51",
+    "079"
+  ],
+  [
+    "4",
+    "22",
+    "1956",
+    "6211",
+    "Offices of physicians",
+    "51",
+    "079"
+  ],
+  [
+    "3",
+    "26",
+    "1376",
+    "62121",
+    "Offices of dentists",
+    "51",
+    "079"
+  ],
+  [
+    "4",
+    "22",
+    "1956",
+    "62111",
+    "Offices of physicians",
+    "51",
+    "079"
+  ],
+  [
+    "4",
+    "22",
+    "1956",
+    "621111",
+    "Offices of physicians (except mental health specialists)",
+    "51",
+    "079"
+  ],
+  [
+    "3",
+    "26",
+    "1376",
+    "6212",
+    "Offices of dentists",
+    "51",
+    "079"
+  ],
+  [
+    "3",
+    "26",
+    "1376",
+    "621210",
+    "Offices of dentists",
+    "51",
+    "079"
+  ],
+  [
+    "7",
+    "29",
+    "1249",
+    "6213",
+    "Offices of other health practitioners",
+    "51",
+    "079"
+  ],
+  [
+    "6",
+    "26",
+    "1158",
+    "62134",
+    "Offices of physical, occupational and speech therapists, and audiologists",
+    "51",
+    "079"
+  ],
+  [
+    "6",
+    "26",
+    "1158",
+    "621340",
+    "Offices of physical, occupational and speech therapists, and audiologists",
+    "51",
+    "079"
+  ],
+  [
+    "7",
+    "38",
+    "929",
+    "624",
+    "Social assistance",
+    "51",
+    "079"
+  ],
+  [
+    "3",
+    "6",
+    "181",
+    "6241",
+    "Individual and family services",
+    "51",
+    "079"
+  ],
+  [
+    "3",
+    "30",
+    "731",
+    "6244",
+    "Child day care services",
+    "51",
+    "079"
+  ],
+  [
+    "3",
+    "30",
+    "731",
+    "62441",
+    "Child day care services",
+    "51",
+    "079"
+  ],
+  [
+    "4",
+    "41",
+    "742",
+    "7139",
+    "Other amusement and recreation industries",
+    "51",
+    "079"
+  ],
+  [
+    "3",
+    "30",
+    "731",
+    "624410",
+    "Child day care services",
+    "51",
+    "079"
+  ],
+  [
+    "5",
+    "41",
+    "746",
+    "71",
+    "Arts, entertainment, and recreation",
+    "51",
+    "079"
+  ],
+  [
+    "4",
+    "41",
+    "742",
+    "713",
+    "Amusement, gambling, and recreation industries",
+    "51",
+    "079"
+  ],
+  [
+    "34",
+    "444",
+    "7502",
+    "72",
+    "Accommodation and food services",
+    "51",
+    "079"
+  ],
+  [
+    "6",
+    "55",
+    "1159",
+    "721",
+    "Accommodation",
+    "51",
+    "079"
+  ],
+  [
+    "6",
+    "55",
+    "1159",
+    "7211",
+    "Traveler accommodation",
+    "51",
+    "079"
+  ],
+  [
+    "4",
+    "45",
+    "1061",
+    "72111",
+    "Hotels (except casino hotels) and motels",
+    "51",
+    "079"
+  ],
+  [
+    "4",
+    "45",
+    "1061",
+    "721110",
+    "Hotels (except casino hotels) and motels",
+    "51",
+    "079"
+  ],
+  [
+    "28",
+    "389",
+    "6343",
+    "722",
+    "Food services and drinking places",
+    "51",
+    "079"
+  ],
+  [
+    "26",
+    "372",
+    "5926",
+    "7225",
+    "Restaurants and other eating places",
+    "51",
+    "079"
+  ],
+  [
+    "26",
+    "372",
+    "5926",
+    "72251",
+    "Restaurants and other eating places",
+    "51",
+    "079"
+  ],
+  [
+    "12",
+    "265",
+    "3760",
+    "722513",
+    "Limited-service restaurants",
+    "51",
+    "079"
+  ],
+  [
+    "37",
+    "118",
+    "4584",
+    "81",
+    "Other services (except public administration)",
+    "51",
+    "079"
+  ],
+  [
+    "14",
+    "41",
+    "1928",
+    "811",
+    "Repair and maintenance",
+    "51",
+    "079"
+  ],
+  [
+    "10",
+    "39",
+    "1862",
+    "8111",
+    "Automotive repair and maintenance",
+    "51",
+    "079"
+  ],
+  [
+    "10",
+    "39",
+    "1862",
+    "81111",
+    "Automotive mechanical and electrical repair and maintenance",
+    "51",
+    "079"
+  ],
+  [
+    "10",
+    "39",
+    "1862",
+    "811111",
+    "General automotive repair",
+    "51",
+    "079"
+  ],
+  [
+    "12",
+    "56",
+    "2155",
+    "812",
+    "Personal and laundry services",
+    "51",
+    "079"
+  ],
+  [
+    "7",
+    "24",
+    "581",
+    "8121",
+    "Personal care services",
+    "51",
+    "079"
+  ],
+  [
+    "7",
+    "24",
+    "581",
+    "81211",
+    "Hair, nail, and skin care services",
+    "51",
+    "079"
+  ],
+  [
+    "5",
+    "18",
+    "482",
+    "812112",
+    "Beauty salons",
+    "51",
+    "079"
+  ],
+  [
+    "3",
+    "29",
+    "1506",
+    "8123",
+    "Drycleaning and laundry services",
+    "51",
+    "079"
+  ],
+  [
+    "11",
+    "21",
+    "501",
+    "813",
+    "Religious, grantmaking, civic, professional, and similar organizations",
+    "51",
+    "079"
+  ],
+  [
+    "6",
+    "8",
+    "186",
+    "8131",
+    "Religious organizations",
+    "51",
+    "079"
+  ],
+  [
+    "6",
+    "8",
+    "186",
+    "81311",
+    "Religious organizations",
+    "51",
+    "079"
+  ],
+  [
+    "6",
+    "8",
+    "186",
+    "813110",
+    "Religious organizations",
+    "51",
+    "079"
+  ],
+  [
+    "12",
+    "95",
+    "1933",
+    "722511",
+    "Full-service restaurants",
+    "51",
+    "079"
+  ]
+]

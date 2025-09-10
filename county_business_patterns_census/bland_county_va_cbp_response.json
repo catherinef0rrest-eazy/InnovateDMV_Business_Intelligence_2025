@@ -1,0 +1,326 @@
+[
+  [
+    "ESTAB",
+    "EMP",
+    "PAYANN",
+    "NAICS2017",
+    "NAICS2017_LABEL",
+    "state",
+    "county"
+  ],
+  [
+    "76",
+    "1220",
+    "88670",
+    "00",
+    "Total for all sectors",
+    "51",
+    "021"
+  ],
+  [
+    "6",
+    "21",
+    "550",
+    "23",
+    "Construction",
+    "51",
+    "021"
+  ],
+  [
+    "6",
+    "21",
+    "550",
+    "238",
+    "Specialty trade contractors",
+    "51",
+    "021"
+  ],
+  [
+    "7",
+    "476",
+    "54587",
+    "31-33",
+    "Manufacturing",
+    "51",
+    "021"
+  ],
+  [
+    "5",
+    "221",
+    "15514",
+    "42",
+    "Wholesale trade",
+    "51",
+    "021"
+  ],
+  [
+    "4",
+    "204",
+    "14940",
+    "423",
+    "Merchant wholesalers, durable goods",
+    "51",
+    "021"
+  ],
+  [
+    "3",
+    "200",
+    "14886",
+    "4234",
+    "Professional and commercial equipment and supplies merchant wholesalers",
+    "51",
+    "021"
+  ],
+  [
+    "3",
+    "200",
+    "14886",
+    "42345",
+    "Medical, dental, and hospital equipment and supplies merchant wholesalers",
+    "51",
+    "021"
+  ],
+  [
+    "3",
+    "200",
+    "14886",
+    "423450",
+    "Medical, dental, and hospital equipment and supplies merchant wholesalers",
+    "51",
+    "021"
+  ],
+  [
+    "15",
+    "131",
+    "3017",
+    "44-45",
+    "Retail trade",
+    "51",
+    "021"
+  ],
+  [
+    "5",
+    "95",
+    "2046",
+    "447",
+    "Gasoline stations",
+    "51",
+    "021"
+  ],
+  [
+    "5",
+    "95",
+    "2046",
+    "4471",
+    "Gasoline stations",
+    "51",
+    "021"
+  ],
+  [
+    "4",
+    "31",
+    "496",
+    "44711",
+    "Gasoline stations with convenience stores",
+    "51",
+    "021"
+  ],
+  [
+    "4",
+    "31",
+    "496",
+    "447110",
+    "Gasoline stations with convenience stores",
+    "51",
+    "021"
+  ],
+  [
+    "5",
+    "4",
+    "248",
+    "48-49",
+    "Transportation and warehousing",
+    "51",
+    "021"
+  ],
+  [
+    "5",
+    "4",
+    "248",
+    "484",
+    "Truck transportation",
+    "51",
+    "021"
+  ],
+  [
+    "3",
+    "3",
+    "168",
+    "4842",
+    "Specialized freight trucking",
+    "51",
+    "021"
+  ],
+  [
+    "3",
+    "3",
+    "168",
+    "48422",
+    "Specialized freight (except used goods) trucking, local",
+    "51",
+    "021"
+  ],
+  [
+    "3",
+    "3",
+    "168",
+    "484220",
+    "Specialized freight (except used goods) trucking, local",
+    "51",
+    "021"
+  ],
+  [
+    "3",
+    "56",
+    "2835",
+    "51",
+    "Information",
+    "51",
+    "021"
+  ],
+  [
+    "3",
+    "11",
+    "250",
+    "52",
+    "Finance and insurance",
+    "51",
+    "021"
+  ],
+  [
+    "6",
+    "136",
+    "7586",
+    "62",
+    "Health care and social assistance",
+    "51",
+    "021"
+  ],
+  [
+    "5",
+    "92",
+    "4700",
+    "621",
+    "Ambulatory health care services",
+    "51",
+    "021"
+  ],
+  [
+    "7",
+    "56",
+    "872",
+    "72",
+    "Accommodation and food services",
+    "51",
+    "021"
+  ],
+  [
+    "5",
+    "41",
+    "506",
+    "722",
+    "Food services and drinking places",
+    "51",
+    "021"
+  ],
+  [
+    "5",
+    "41",
+    "506",
+    "7225",
+    "Restaurants and other eating places",
+    "51",
+    "021"
+  ],
+  [
+    "5",
+    "41",
+    "506",
+    "72251",
+    "Restaurants and other eating places",
+    "51",
+    "021"
+  ],
+  [
+    "4",
+    "37",
+    "494",
+    "722513",
+    "Limited-service restaurants",
+    "51",
+    "021"
+  ],
+  [
+    "11",
+    "48",
+    "1510",
+    "81",
+    "Other services (except public administration)",
+    "51",
+    "021"
+  ],
+  [
+    "4",
+    "10",
+    "470",
+    "811",
+    "Repair and maintenance",
+    "51",
+    "021"
+  ],
+  [
+    "3",
+    "2",
+    "74",
+    "8111",
+    "Automotive repair and maintenance",
+    "51",
+    "021"
+  ],
+  [
+    "6",
+    "36",
+    "983",
+    "813",
+    "Religious, grantmaking, civic, professional, and similar organizations",
+    "51",
+    "021"
+  ],
+  [
+    "6",
+    "36",
+    "983",
+    "8131",
+    "Religious organizations",
+    "51",
+    "021"
+  ],
+  [
+    "6",
+    "36",
+    "983",
+    "81311",
+    "Religious organizations",
+    "51",
+    "021"
+  ],
+  [
+    "6",
+    "36",
+    "983",
+    "813110",
+    "Religious organizations",
+    "51",
+    "021"
+  ]
+]
